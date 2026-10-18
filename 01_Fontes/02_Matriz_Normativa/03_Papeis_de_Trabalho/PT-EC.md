@@ -7,8 +7,8 @@
 - **Objeto:** demonstrações contábeis anuais consolidadas de 2025 e respectivas notas explicativas.
 - **Referência normativa:** NBC TA Estrutura Conceitual para Trabalhos de Asseguração.
 - **Natureza do trabalho:** exercício acadêmico baseado em informações públicas, com procedimentos adicionais planejados ou simulados quando necessário.
-- **Elaborado por:** [preencher nome e matrícula]
-- **Data de elaboração:** [preencher]
+- **Elaborado por:** Naiany Alves dos Santos – 241032850 
+- **Data de elaboração:** 18/10/2026 
 - **Revisão:** campo reservado ao revisor, sem presumir revisão realizada.
 
 ## 2. Objetivo
