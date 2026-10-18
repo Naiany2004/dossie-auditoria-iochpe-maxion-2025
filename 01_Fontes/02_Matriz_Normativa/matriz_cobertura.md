@@ -32,7 +32,7 @@
 | NBC TA 560 | Eventos subsequentes | PT-560 |
 | NBC TA 570 | Continuidade operacional | PT-570 |
 | NBC TA 580 | Representações formais | PT-580 |
-| NBC TA 600 | Auditorias de grupos | PT-600 |
+| NBC TA 600 (R2) | Auditorias de grupos | PT-600 |
 
 ## Orientação de preenchimento
 
