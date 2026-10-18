@@ -9,7 +9,7 @@
 | NBC TA Estrutura Conceitual | Trabalhos de asseguração | PT-EC |
 | NBC TA 200 | Objetivos gerais do auditor | PT-200 |
 | NBC TA 210 | Termos do trabalho de auditoria | PT-210 |
-| NBC TA 220 | Gestão da qualidade da auditoria | PT-220 |
+| NBC TA 220 (R3) | Gestão da Qualidade da Auditoria | PT-220 |
 | NBC TA 230 | Documentação de auditoria | PT-230 |
 | NBC TA 240 | Fraude | PT-240 |
 | NBC TA 250 | Leis e regulamentos | PT-250 |
