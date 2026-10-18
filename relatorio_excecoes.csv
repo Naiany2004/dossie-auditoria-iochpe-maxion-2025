@@ -1,0 +1,1301 @@
+id_sintetico,categoria,data_aquisicao,data_disponivel_uso,status,custo_bruto_R$,taxa_referencia_anual,taxa_aplicada_anual,depreciacao_acumulada_R$,valor_liquido_R$,tipo_excecao
+SINT-000540,Edificações e benfeitorias,1999-03-03,1999-03-03,Em uso,30583,0.03,0.06,14963,15620,Taxa aplicada divergente
+SINT-001847,Edificações e benfeitorias,2011-06-04,2011-06-04,Em uso,15123,0.03,0.06,7399,7724,Taxa aplicada divergente
+SINT-002851,Edificações e benfeitorias,2020-01-06,2020-01-06,Em uso,68497,0.03,0.06,33512,34985,Taxa aplicada divergente
+SINT-004174,Edificações e benfeitorias,2008-01-02,2008-01-02,Em uso,17038,0.03,0.06,8336,8702,Taxa aplicada divergente
+SINT-004753,Edificações e benfeitorias,1997-11-17,1997-11-17,Em uso,93969,0.03,0.06,45974,47995,Taxa aplicada divergente
+SINT-005375,Edificações e benfeitorias,2003-02-10,2003-02-10,Em uso,16782,0.03,0.06,8211,8571,Taxa aplicada divergente
+SINT-008331,Edificações e benfeitorias,2019-04-06,2019-04-06,Em uso,12872,0.03,0.06,6298,6574,Taxa aplicada divergente
+SINT-008648,Edificações e benfeitorias,1998-08-05,1998-08-05,Em uso,10600,0.03,0.06,5186,5414,Taxa aplicada divergente
+SINT-009323,Edificações e benfeitorias,2020-12-21,2020-12-21,Em uso,46007,0.03,0.06,22509,23498,Taxa aplicada divergente
+SINT-010780,Edificações e benfeitorias,2020-01-03,2020-01-03,Em uso,4353,0.03,0.06,2130,2223,Taxa aplicada divergente
+SINT-011204,Edificações e benfeitorias,1996-07-11,1996-07-11,Em uso,12777,0.03,0.06,6251,6526,Taxa aplicada divergente
+SINT-013248,Edificações e benfeitorias,2021-04-06,2021-04-06,Em uso,72741,0.03,0.06,35588,37153,Taxa aplicada divergente
+SINT-014234,Edificações e benfeitorias,2008-12-12,2008-12-12,Em uso,8927,0.03,0.06,4368,4559,Taxa aplicada divergente
+SINT-014903,Edificações e benfeitorias,2004-07-03,2004-07-03,Em uso,23482,0.03,0.06,11488,11994,Taxa aplicada divergente
+SINT-016194,Edificações e benfeitorias,2013-03-30,2013-03-30,Em uso,78725,0.03,0.06,38516,40209,Taxa aplicada divergente
+SINT-016597,Edificações e benfeitorias,2001-02-17,2001-02-17,Em uso,41976,0.03,0.06,20537,21439,Taxa aplicada divergente
+SINT-017064,Edificações e benfeitorias,2006-09-18,2006-09-18,Em uso,33255,0.03,0.06,16270,16985,Taxa aplicada divergente
+SINT-017115,Edificações e benfeitorias,2025-03-12,2025-03-12,Em uso,23748,0.03,0.06,11619,12129,Taxa aplicada divergente
+SINT-017309,Edificações e benfeitorias,2008-02-03,2008-02-03,Em uso,13695,0.03,0.06,6700,6995,Taxa aplicada divergente
+SINT-017527,Edificações e benfeitorias,2001-08-15,2001-08-15,Em uso,14092,0.03,0.06,6894,7198,Taxa aplicada divergente
+SINT-017635,Edificações e benfeitorias,2024-04-16,2024-04-16,Em uso,7503,0.03,0.06,3671,3832,Taxa aplicada divergente
+SINT-017687,Edificações e benfeitorias,1999-03-10,1999-03-10,Em uso,12407,0.03,0.06,6070,6337,Taxa aplicada divergente
+SINT-020092,Edificações e benfeitorias,2010-10-12,2010-10-12,Em uso,15919,0.03,0.06,7788,8131,Taxa aplicada divergente
+SINT-020482,Edificações e benfeitorias,2000-12-28,2000-12-28,Em uso,21962,0.03,0.06,10745,11217,Taxa aplicada divergente
+SINT-020638,Edificações e benfeitorias,2006-06-29,2006-06-29,Em uso,19864,0.03,0.06,9718,10146,Taxa aplicada divergente
+SINT-022229,Edificações e benfeitorias,2005-12-04,2005-12-04,Em uso,25611,0.03,0.06,12530,13081,Taxa aplicada divergente
+SINT-023180,Edificações e benfeitorias,1997-05-26,1997-05-26,Em uso,22823,0.03,0.06,11166,11657,Taxa aplicada divergente
+SINT-026692,Edificações e benfeitorias,1996-05-11,1996-05-11,Em uso,14447,0.03,0.06,7068,7379,Taxa aplicada divergente
+SINT-026929,Edificações e benfeitorias,2009-10-27,2009-10-27,Em uso,33317,0.03,0.06,16300,17017,Taxa aplicada divergente
+SINT-026975,Edificações e benfeitorias,2017-05-29,2017-05-29,Em uso,3973,0.03,0.06,1944,2029,Taxa aplicada divergente
+SINT-029003,Edificações e benfeitorias,2013-05-04,2013-05-04,Em uso,12249,0.03,0.06,5993,6256,Taxa aplicada divergente
+SINT-029770,Edificações e benfeitorias,1998-03-13,1998-03-13,Em uso,61237,0.03,0.06,29960,31277,Taxa aplicada divergente
+SINT-031468,Edificações e benfeitorias,2023-05-26,2023-05-26,Em uso,12354,0.03,0.06,6044,6310,Taxa aplicada divergente
+SINT-033579,Edificações e benfeitorias,2001-03-13,2001-03-13,Em uso,52359,0.03,0.06,25616,26743,Taxa aplicada divergente
+SINT-033886,Edificações e benfeitorias,2025-12-21,2025-12-21,Em uso,43334,0.03,0.06,21201,22133,Taxa aplicada divergente
+SINT-034679,Edificações e benfeitorias,2001-07-05,2001-07-05,Em uso,26797,0.03,0.06,13110,13687,Taxa aplicada divergente
+SINT-034931,Edificações e benfeitorias,2008-08-06,2008-08-06,Em uso,26407,0.03,0.06,12920,13487,Taxa aplicada divergente
+SINT-035830,Edificações e benfeitorias,2010-11-30,2010-11-30,Em uso,49393,0.03,0.06,24165,25228,Taxa aplicada divergente
+SINT-036135,Edificações e benfeitorias,2010-08-23,2010-08-23,Em uso,9384,0.03,0.06,4591,4793,Taxa aplicada divergente
+SINT-038396,Edificações e benfeitorias,2024-04-01,2024-04-01,Em uso,22610,0.03,0.06,11062,11548,Taxa aplicada divergente
+SINT-040474,Edificações e benfeitorias,2008-06-07,2008-06-07,Em uso,16434,0.03,0.06,8040,8394,Taxa aplicada divergente
+SINT-042124,Edificações e benfeitorias,2013-01-09,2013-01-09,Em uso,7612,0.03,0.06,3724,3888,Taxa aplicada divergente
+SINT-044574,Edificações e benfeitorias,2000-09-16,2000-09-16,Em uso,31132,0.03,0.06,15231,15901,Taxa aplicada divergente
+SINT-045288,Edificações e benfeitorias,2025-10-18,2025-10-18,Em uso,16756,0.03,0.06,8198,8558,Taxa aplicada divergente
+SINT-045954,Edificações e benfeitorias,2000-07-28,2000-07-28,Em uso,32373,0.03,0.06,15838,16535,Taxa aplicada divergente
+SINT-046086,Edificações e benfeitorias,1996-11-09,1996-11-09,Em uso,69508,0.03,0.06,34007,35501,Taxa aplicada divergente
+SINT-047406,Edificações e benfeitorias,2018-05-03,2018-05-03,Em uso,27158,0.03,0.06,13287,13871,Taxa aplicada divergente
+SINT-048385,Edificações e benfeitorias,2009-03-05,2009-03-05,Em uso,43526,0.03,0.06,21295,22231,Taxa aplicada divergente
+SINT-049993,Edificações e benfeitorias,2016-04-04,2016-04-04,Em uso,17481,0.03,0.06,8553,8928,Taxa aplicada divergente
+SINT-051144,Edificações e benfeitorias,2009-08-05,2009-08-05,Em uso,63983,0.03,0.06,31303,32680,Taxa aplicada divergente
+SINT-051825,Edificações e benfeitorias,2025-05-03,2025-05-03,Em uso,25636,0.03,0.06,12542,13094,Taxa aplicada divergente
+SINT-052878,Edificações e benfeitorias,2005-05-27,2005-05-27,Em uso,10179,0.03,0.06,4980,5199,Taxa aplicada divergente
+SINT-053359,Edificações e benfeitorias,2002-06-02,2002-06-02,Em uso,7758,0.03,0.06,3796,3962,Taxa aplicada divergente
+SINT-054189,Edificações e benfeitorias,2022-09-23,2022-09-23,Em uso,65676,0.03,0.06,32132,33544,Taxa aplicada divergente
+SINT-056260,Edificações e benfeitorias,2010-10-09,2010-10-09,Em uso,24451,0.03,0.06,11963,12488,Taxa aplicada divergente
+SINT-056835,Edificações e benfeitorias,2015-10-13,2015-10-13,Em uso,8652,0.03,0.06,4233,4419,Taxa aplicada divergente
+SINT-057589,Edificações e benfeitorias,2019-11-07,2019-11-07,Em uso,41616,0.03,0.06,20360,21256,Taxa aplicada divergente
+SINT-059429,Edificações e benfeitorias,2001-01-02,2001-01-02,Em uso,80439,0.03,0.06,39354,41085,Taxa aplicada divergente
+SINT-059988,Edificações e benfeitorias,1998-07-09,1998-07-09,Em uso,17213,0.03,0.06,8421,8792,Taxa aplicada divergente
+SINT-060181,Edificações e benfeitorias,2010-07-08,2010-07-08,Em uso,45618,0.03,0.06,22318,23300,Taxa aplicada divergente
+SINT-061495,Edificações e benfeitorias,1995-05-28,1995-05-28,Em uso,16027,0.03,0.06,7841,8186,Taxa aplicada divergente
+SINT-062472,Edificações e benfeitorias,1996-02-01,1996-02-01,Em uso,37518,0.03,0.06,18356,19162,Taxa aplicada divergente
+SINT-062782,Edificações e benfeitorias,2009-11-06,2009-11-06,Em uso,12732,0.03,0.06,6229,6503,Taxa aplicada divergente
+SINT-063253,Edificações e benfeitorias,2024-12-02,2024-12-02,Em uso,53080,0.03,0.06,25969,27111,Taxa aplicada divergente
+SINT-063524,Edificações e benfeitorias,1999-05-28,1999-05-28,Em uso,41049,0.03,0.06,20083,20966,Taxa aplicada divergente
+SINT-067704,Edificações e benfeitorias,1996-03-06,1996-03-06,Em uso,8408,0.03,0.06,4114,4294,Taxa aplicada divergente
+SINT-068135,Edificações e benfeitorias,1999-01-31,1999-01-31,Em uso,21547,0.03,0.06,10542,11005,Taxa aplicada divergente
+SINT-068344,Edificações e benfeitorias,2021-04-04,2021-04-04,Em uso,5818,0.03,0.06,2846,2972,Taxa aplicada divergente
+SINT-069539,Edificações e benfeitorias,2013-01-11,2013-01-11,Em uso,13055,0.03,0.06,6387,6668,Taxa aplicada divergente
+SINT-069764,Edificações e benfeitorias,2018-09-21,2018-09-21,Em uso,7930,0.03,0.06,3880,4050,Taxa aplicada divergente
+SINT-070704,Máquinas e equipamentos,2007-08-08,2007-08-08,Em uso,13917,0.04,0.07,9588,4329,Taxa aplicada divergente
+SINT-071133,Máquinas e equipamentos,2010-01-17,2010-01-17,Em uso,19150,0.04,0.07,13194,5956,Taxa aplicada divergente
+SINT-073032,Máquinas e equipamentos,2017-12-14,2017-12-14,Em uso,55109,0.04,0.07,37968,17141,Taxa aplicada divergente
+SINT-073570,Máquinas e equipamentos,1998-05-31,1998-05-31,Em uso,12606,0.04,0.07,8685,3921,Taxa aplicada divergente
+SINT-076212,Máquinas e equipamentos,1995-06-20,1995-06-20,Em uso,12105,0.04,0.07,8340,3765,Taxa aplicada divergente
+SINT-078202,Máquinas e equipamentos,2018-07-22,2018-07-22,Em uso,8075,0.04,0.07,5563,2512,Taxa aplicada divergente
+SINT-078851,Máquinas e equipamentos,2009-05-18,2009-05-18,Em uso,27810,0.04,0.07,19160,8650,Taxa aplicada divergente
+SINT-079027,Máquinas e equipamentos,2025-02-11,2025-02-11,Em uso,4742,0.04,0.07,3267,1475,Taxa aplicada divergente
+SINT-082542,Máquinas e equipamentos,2001-03-21,2001-03-21,Em uso,45223,0.04,0.07,31157,14066,Taxa aplicada divergente
+SINT-083378,Máquinas e equipamentos,2001-05-24,2001-05-24,Em uso,5637,0.04,0.07,3884,1753,Taxa aplicada divergente
+SINT-085111,Máquinas e equipamentos,1996-12-27,1996-12-27,Em uso,13177,0.04,0.07,9079,4098,Taxa aplicada divergente
+SINT-086443,Máquinas e equipamentos,1997-12-01,1997-12-01,Em uso,21641,0.04,0.07,14910,6731,Taxa aplicada divergente
+SINT-087805,Máquinas e equipamentos,2023-02-17,2023-02-17,Em uso,27921,0.04,0.07,19237,8684,Taxa aplicada divergente
+SINT-089234,Máquinas e equipamentos,2024-02-24,2024-02-24,Em uso,53735,0.04,0.07,37022,16713,Taxa aplicada divergente
+SINT-090001,Máquinas e equipamentos,2016-10-13,2016-10-13,Em uso,7238,0.04,0.07,4987,2251,Taxa aplicada divergente
+SINT-091745,Máquinas e equipamentos,2025-06-03,2025-06-03,Em uso,9995,0.04,0.07,6886,3109,Taxa aplicada divergente
+SINT-093542,Máquinas e equipamentos,2019-09-30,2019-09-30,Em uso,10340,0.04,0.07,7124,3216,Taxa aplicada divergente
+SINT-094262,Máquinas e equipamentos,2021-10-01,2021-10-01,Em uso,65138,0.04,0.07,44878,20260,Taxa aplicada divergente
+SINT-094942,Máquinas e equipamentos,2000-08-09,2000-08-09,Em uso,46069,0.04,0.07,31740,14329,Taxa aplicada divergente
+SINT-094947,Máquinas e equipamentos,1997-09-07,1997-09-07,Em uso,22437,0.04,0.07,15458,6979,Taxa aplicada divergente
+SINT-096237,Máquinas e equipamentos,2023-04-29,2023-04-29,Em uso,53976,0.04,0.07,37188,16788,Taxa aplicada divergente
+SINT-097993,Máquinas e equipamentos,2000-11-19,2000-11-19,Em uso,60464,0.04,0.07,41658,18806,Taxa aplicada divergente
+SINT-098053,Máquinas e equipamentos,2012-11-25,2012-11-25,Em uso,9793,0.04,0.07,6747,3046,Taxa aplicada divergente
+SINT-099227,Máquinas e equipamentos,1997-09-08,1997-09-08,Em uso,11061,0.04,0.07,7621,3440,Taxa aplicada divergente
+SINT-099922,Máquinas e equipamentos,2016-10-17,2016-10-17,Em uso,6130,0.04,0.07,4223,1907,Taxa aplicada divergente
+SINT-100504,Máquinas e equipamentos,2022-09-16,2022-09-16,Em uso,39108,0.04,0.07,26944,12164,Taxa aplicada divergente
+SINT-100752,Máquinas e equipamentos,1998-01-11,1998-01-11,Em uso,26247,0.04,0.07,18083,8164,Taxa aplicada divergente
+SINT-102239,Máquinas e equipamentos,2001-08-02,2001-08-02,Em uso,15743,0.04,0.07,10846,4897,Taxa aplicada divergente
+SINT-105022,Máquinas e equipamentos,2007-07-30,2007-07-30,Em uso,15253,0.04,0.07,10509,4744,Taxa aplicada divergente
+SINT-105341,Máquinas e equipamentos,2019-10-01,2019-10-01,Em uso,34577,0.04,0.07,23823,10754,Taxa aplicada divergente
+SINT-105405,Máquinas e equipamentos,2023-04-28,2023-04-28,Em uso,19250,0.04,0.07,13263,5987,Taxa aplicada divergente
+SINT-109834,Máquinas e equipamentos,2005-06-21,2005-06-21,Em uso,14237,0.04,0.07,9809,4428,Taxa aplicada divergente
+SINT-110757,Máquinas e equipamentos,2001-11-14,2001-11-14,Em uso,64766,0.04,0.07,44622,20144,Taxa aplicada divergente
+SINT-110837,Máquinas e equipamentos,2010-10-25,2010-10-25,Em uso,12677,0.04,0.07,8734,3943,Taxa aplicada divergente
+SINT-111660,Máquinas e equipamentos,2006-04-08,2006-04-08,Em uso,41072,0.04,0.07,28297,12775,Taxa aplicada divergente
+SINT-112882,Máquinas e equipamentos,2005-05-17,2005-05-17,Em uso,34136,0.04,0.07,23519,10617,Taxa aplicada divergente
+SINT-113248,Máquinas e equipamentos,2009-06-14,2009-06-14,Em uso,18270,0.04,0.07,12587,5683,Taxa aplicada divergente
+SINT-114038,Máquinas e equipamentos,2000-02-21,2000-02-21,Em uso,12848,0.04,0.07,8852,3996,Taxa aplicada divergente
+SINT-114144,Máquinas e equipamentos,2018-05-09,2018-05-09,Em uso,26173,0.04,0.07,18032,8141,Taxa aplicada divergente
+SINT-115285,Máquinas e equipamentos,2016-05-18,2016-05-18,Em uso,25486,0.04,0.07,17559,7927,Taxa aplicada divergente
+SINT-116685,Máquinas e equipamentos,1995-10-05,1995-10-05,Em uso,9220,0.04,0.07,6352,2868,Taxa aplicada divergente
+SINT-117578,Máquinas e equipamentos,2001-08-19,2001-08-19,Em uso,13956,0.04,0.07,9615,4341,Taxa aplicada divergente
+SINT-118268,Máquinas e equipamentos,1996-03-09,1996-03-09,Em uso,90427,0.04,0.07,62302,28125,Taxa aplicada divergente
+SINT-119484,Máquinas e equipamentos,2024-05-08,2024-05-08,Em uso,21484,0.04,0.07,14802,6682,Taxa aplicada divergente
+SINT-119944,Máquinas e equipamentos,1996-11-28,1996-11-28,Em uso,24309,0.04,0.07,16748,7561,Taxa aplicada divergente
+SINT-120015,Máquinas e equipamentos,2000-09-18,2000-09-18,Em uso,23243,0.04,0.07,16014,7229,Taxa aplicada divergente
+SINT-120495,Máquinas e equipamentos,2010-09-05,2010-09-05,Em uso,84062,0.04,0.07,57916,26146,Taxa aplicada divergente
+SINT-121924,Máquinas e equipamentos,1996-12-29,1996-12-29,Em uso,43779,0.04,0.07,30162,13617,Taxa aplicada divergente
+SINT-122269,Máquinas e equipamentos,2024-03-25,2024-03-25,Em uso,15153,0.04,0.07,10440,4713,Taxa aplicada divergente
+SINT-123432,Máquinas e equipamentos,2006-07-12,2006-07-12,Em uso,3718,0.04,0.07,2562,1156,Taxa aplicada divergente
+SINT-123443,Máquinas e equipamentos,2010-05-31,2010-05-31,Em uso,19316,0.04,0.07,13308,6008,Taxa aplicada divergente
+SINT-124847,Máquinas e equipamentos,2018-04-23,2018-04-23,Em uso,29770,0.04,0.07,20511,9259,Taxa aplicada divergente
+SINT-126418,Máquinas e equipamentos,2004-10-26,2004-10-26,Em uso,22980,0.04,0.07,15833,7147,Taxa aplicada divergente
+SINT-126837,Máquinas e equipamentos,2017-02-18,2017-02-18,Em uso,19647,0.04,0.07,13536,6111,Taxa aplicada divergente
+SINT-127567,Máquinas e equipamentos,1996-03-25,1996-03-25,Em uso,17307,0.04,0.07,11924,5383,Taxa aplicada divergente
+SINT-127668,Máquinas e equipamentos,2006-09-11,2006-09-11,Em uso,100693,0.04,0.07,69375,31318,Taxa aplicada divergente
+SINT-128985,Máquinas e equipamentos,2009-07-27,2009-07-27,Em uso,42399,0.04,0.07,29212,13187,Taxa aplicada divergente
+SINT-130864,Máquinas e equipamentos,2019-11-18,2019-11-18,Em uso,61352,0.04,0.07,42270,19082,Taxa aplicada divergente
+SINT-131925,Máquinas e equipamentos,2013-12-08,2013-12-08,Em uso,22729,0.04,0.07,15660,7069,Taxa aplicada divergente
+SINT-132779,Máquinas e equipamentos,2013-12-10,2013-12-10,Em uso,11523,0.04,0.07,7939,3584,Taxa aplicada divergente
+SINT-133122,Máquinas e equipamentos,2012-08-12,2012-08-12,Em uso,39564,0.04,0.07,27258,12306,Taxa aplicada divergente
+SINT-133454,Máquinas e equipamentos,1999-11-07,1999-11-07,Em uso,154505,0.04,0.07,106449,48056,Taxa aplicada divergente
+SINT-134132,Máquinas e equipamentos,2001-03-23,2001-03-23,Em uso,23852,0.04,0.07,16433,7419,Taxa aplicada divergente
+SINT-135373,Máquinas e equipamentos,2013-12-07,2013-12-07,Em uso,54712,0.04,0.07,37695,17017,Taxa aplicada divergente
+SINT-137150,Máquinas e equipamentos,1995-06-30,1995-06-30,Em uso,11755,0.04,0.07,8099,3656,Taxa aplicada divergente
+SINT-137231,Máquinas e equipamentos,2004-02-20,2004-02-20,Em uso,59753,0.04,0.07,41168,18585,Taxa aplicada divergente
+SINT-138071,Máquinas e equipamentos,2005-07-19,2005-07-19,Em uso,6150,0.04,0.07,4237,1913,Taxa aplicada divergente
+SINT-140127,Máquinas e equipamentos,2004-02-01,2004-02-01,Em uso,160122,0.04,0.07,110319,49803,Taxa aplicada divergente
+SINT-141300,Máquinas e equipamentos,2004-12-19,2004-12-19,Em uso,6228,0.04,0.07,4291,1937,Taxa aplicada divergente
+SINT-141377,Máquinas e equipamentos,2023-10-22,2023-10-22,Em uso,22036,0.04,0.07,15182,6854,Taxa aplicada divergente
+SINT-142654,Máquinas e equipamentos,2001-05-29,2001-05-29,Em uso,9060,0.04,0.07,6242,2818,Taxa aplicada divergente
+SINT-142753,Máquinas e equipamentos,2016-06-05,2016-06-05,Em uso,44010,0.04,0.07,30322,13688,Taxa aplicada divergente
+SINT-144207,Máquinas e equipamentos,2024-09-22,2024-09-22,Em uso,18132,0.04,0.07,12492,5640,Taxa aplicada divergente
+SINT-144724,Máquinas e equipamentos,1998-02-17,1998-02-17,Em uso,54825,0.04,0.07,37773,17052,Taxa aplicada divergente
+SINT-146759,Máquinas e equipamentos,1999-06-28,1999-06-28,Em uso,16850,0.04,0.07,11609,5241,Taxa aplicada divergente
+SINT-148782,Máquinas e equipamentos,2014-09-08,2014-09-08,Em uso,20037,0.04,0.07,13805,6232,Taxa aplicada divergente
+SINT-149765,Máquinas e equipamentos,1996-07-29,1996-07-29,Em uso,10782,0.04,0.07,7428,3354,Taxa aplicada divergente
+SINT-149869,Máquinas e equipamentos,2017-06-08,2017-06-08,Em uso,6455,0.04,0.07,4447,2008,Taxa aplicada divergente
+SINT-150095,Máquinas e equipamentos,2020-02-02,2020-02-02,Em uso,12273,0.04,0.07,8456,3817,Taxa aplicada divergente
+SINT-150108,Máquinas e equipamentos,2018-07-08,2018-07-08,Em uso,26963,0.04,0.07,18577,8386,Taxa aplicada divergente
+SINT-150696,Máquinas e equipamentos,1999-05-12,1999-05-12,Em uso,7767,0.04,0.07,5351,2416,Taxa aplicada divergente
+SINT-150975,Máquinas e equipamentos,2003-10-22,2003-10-22,Em uso,98171,0.04,0.07,67637,30534,Taxa aplicada divergente
+SINT-151291,Máquinas e equipamentos,2018-07-18,2018-07-18,Em uso,41976,0.04,0.07,28920,13056,Taxa aplicada divergente
+SINT-151810,Máquinas e equipamentos,2015-03-07,2015-03-07,Em uso,19074,0.04,0.07,13141,5933,Taxa aplicada divergente
+SINT-152969,Máquinas e equipamentos,2012-11-14,2012-11-14,Em uso,60407,0.04,0.07,41619,18788,Taxa aplicada divergente
+SINT-154253,Máquinas e equipamentos,2015-10-20,2015-10-20,Em uso,22030,0.04,0.07,15178,6852,Taxa aplicada divergente
+SINT-155584,Máquinas e equipamentos,2021-01-15,2021-01-15,Em uso,47414,0.04,0.07,32667,14747,Taxa aplicada divergente
+SINT-156991,Máquinas e equipamentos,2000-02-09,2000-02-09,Em uso,103473,0.04,0.07,71290,32183,Taxa aplicada divergente
+SINT-157765,Máquinas e equipamentos,1995-07-29,1995-07-29,Em uso,36128,0.04,0.07,24891,11237,Taxa aplicada divergente
+SINT-158947,Máquinas e equipamentos,2009-11-30,2009-11-30,Em uso,31032,0.04,0.07,21380,9652,Taxa aplicada divergente
+SINT-160540,Máquinas e equipamentos,2012-03-23,2012-03-23,Em uso,23046,0.04,0.07,15878,7168,Taxa aplicada divergente
+SINT-161151,Máquinas e equipamentos,2009-03-29,2009-03-29,Em uso,5764,0.04,0.07,3971,1793,Taxa aplicada divergente
+SINT-162245,Máquinas e equipamentos,1996-11-29,1996-11-29,Em uso,39382,0.04,0.07,27133,12249,Taxa aplicada divergente
+SINT-162453,Máquinas e equipamentos,2024-01-17,2024-01-17,Em uso,25453,0.04,0.07,17536,7917,Taxa aplicada divergente
+SINT-162497,Máquinas e equipamentos,2017-09-24,2017-09-24,Em uso,13306,0.04,0.07,9167,4139,Taxa aplicada divergente
+SINT-162688,Máquinas e equipamentos,2006-04-28,2006-04-28,Em uso,22442,0.04,0.07,15462,6980,Taxa aplicada divergente
+SINT-162779,Máquinas e equipamentos,2000-04-13,2000-04-13,Em uso,137797,0.04,0.07,94938,42859,Taxa aplicada divergente
+SINT-164381,Máquinas e equipamentos,1996-01-19,1996-01-19,Em uso,13970,0.04,0.07,9625,4345,Taxa aplicada divergente
+SINT-165166,Máquinas e equipamentos,2013-04-16,2013-04-16,Em uso,110999,0.04,0.07,76475,34524,Taxa aplicada divergente
+SINT-165618,Máquinas e equipamentos,2003-11-13,2003-11-13,Em uso,85368,0.04,0.07,58816,26552,Taxa aplicada divergente
+SINT-165703,Máquinas e equipamentos,2020-07-29,2020-07-29,Em uso,41284,0.04,0.07,28443,12841,Taxa aplicada divergente
+SINT-167155,Máquinas e equipamentos,2015-10-25,2015-10-25,Em uso,107575,0.04,0.07,74116,33459,Taxa aplicada divergente
+SINT-168000,Máquinas e equipamentos,2019-12-15,2019-12-15,Em uso,32629,0.04,0.07,22480,10149,Taxa aplicada divergente
+SINT-169289,Máquinas e equipamentos,2010-11-11,2010-11-11,Em uso,38417,0.04,0.07,26468,11949,Taxa aplicada divergente
+SINT-169366,Máquinas e equipamentos,2013-04-22,2013-04-22,Em uso,13044,0.04,0.07,8987,4057,Taxa aplicada divergente
+SINT-170535,Máquinas e equipamentos,2022-09-30,2022-09-30,Em uso,53414,0.04,0.07,36801,16613,Taxa aplicada divergente
+SINT-172411,Máquinas e equipamentos,2014-04-10,2014-04-10,Em uso,88049,0.04,0.07,60663,27386,Taxa aplicada divergente
+SINT-173383,Máquinas e equipamentos,2009-09-28,2009-09-28,Em uso,17811,0.04,0.07,12271,5540,Taxa aplicada divergente
+SINT-173587,Máquinas e equipamentos,2016-01-17,2016-01-17,Em uso,73984,0.04,0.07,50973,23011,Taxa aplicada divergente
+SINT-175854,Máquinas e equipamentos,1997-09-15,1997-09-15,Em uso,21469,0.04,0.07,14792,6677,Taxa aplicada divergente
+SINT-176174,Máquinas e equipamentos,2022-05-26,2022-05-26,Em uso,72907,0.04,0.07,50231,22676,Taxa aplicada divergente
+SINT-176641,Máquinas e equipamentos,2009-11-28,2009-11-28,Em uso,26590,0.04,0.07,18320,8270,Taxa aplicada divergente
+SINT-176998,Máquinas e equipamentos,1997-08-15,1997-08-15,Em uso,50272,0.04,0.07,34636,15636,Taxa aplicada divergente
+SINT-178672,Máquinas e equipamentos,2013-11-09,2013-11-09,Em uso,9569,0.04,0.07,6593,2976,Taxa aplicada divergente
+SINT-178913,Máquinas e equipamentos,2007-01-04,2007-01-04,Em uso,20393,0.04,0.07,14050,6343,Taxa aplicada divergente
+SINT-180691,Máquinas e equipamentos,2002-12-11,2002-12-11,Em uso,16472,0.04,0.07,11349,5123,Taxa aplicada divergente
+SINT-182676,Máquinas e equipamentos,2012-06-10,2012-06-10,Em uso,50085,0.04,0.07,34507,15578,Taxa aplicada divergente
+SINT-183660,Máquinas e equipamentos,2007-09-03,2007-09-03,Em uso,56312,0.04,0.07,38797,17515,Taxa aplicada divergente
+SINT-183758,Máquinas e equipamentos,2016-03-12,2016-03-12,Em uso,5585,0.04,0.07,3848,1737,Taxa aplicada divergente
+SINT-183947,Máquinas e equipamentos,2011-04-03,2011-04-03,Em uso,51179,0.04,0.07,35261,15918,Taxa aplicada divergente
+SINT-184912,Máquinas e equipamentos,2021-11-18,2021-11-18,Em uso,19938,0.04,0.07,13737,6201,Taxa aplicada divergente
+SINT-185269,Máquinas e equipamentos,2002-05-07,2002-05-07,Em uso,12300,0.04,0.07,8474,3826,Taxa aplicada divergente
+SINT-185853,Máquinas e equipamentos,1995-01-10,1995-01-10,Em uso,9203,0.04,0.07,6341,2862,Taxa aplicada divergente
+SINT-186399,Máquinas e equipamentos,2011-12-16,2011-12-16,Em uso,19515,0.04,0.07,13445,6070,Taxa aplicada divergente
+SINT-188954,Máquinas e equipamentos,2014-11-21,2014-11-21,Em uso,18023,0.04,0.07,12417,5606,Taxa aplicada divergente
+SINT-189545,Máquinas e equipamentos,2011-06-30,2011-06-30,Em uso,41475,0.04,0.07,28575,12900,Taxa aplicada divergente
+SINT-190282,Máquinas e equipamentos,2003-03-05,2003-03-05,Em uso,223975,0.04,0.07,154312,69663,Taxa aplicada divergente
+SINT-191513,Máquinas e equipamentos,2013-09-13,2013-09-13,Em uso,16886,0.04,0.07,11634,5252,Taxa aplicada divergente
+SINT-192620,Máquinas e equipamentos,2007-10-20,2007-10-20,Em uso,12637,0.04,0.07,8707,3930,Taxa aplicada divergente
+SINT-193625,Máquinas e equipamentos,2010-12-20,2010-12-20,Em uso,10582,0.04,0.07,7291,3291,Taxa aplicada divergente
+SINT-194718,Máquinas e equipamentos,2014-05-08,2014-05-08,Em uso,17427,0.04,0.07,12007,5420,Taxa aplicada divergente
+SINT-194767,Máquinas e equipamentos,2017-01-31,2017-01-31,Em uso,66904,0.04,0.07,46095,20809,Taxa aplicada divergente
+SINT-194788,Máquinas e equipamentos,1996-12-29,1996-12-29,Em uso,55581,0.04,0.07,38294,17287,Taxa aplicada divergente
+SINT-195309,Máquinas e equipamentos,2024-12-30,2024-12-30,Em uso,27096,0.04,0.07,18668,8428,Taxa aplicada divergente
+SINT-195575,Máquinas e equipamentos,2019-11-05,2019-11-05,Em uso,22355,0.04,0.07,15402,6953,Taxa aplicada divergente
+SINT-196564,Máquinas e equipamentos,2010-06-11,2010-06-11,Em uso,16285,0.04,0.07,11220,5065,Taxa aplicada divergente
+SINT-196662,Máquinas e equipamentos,2001-07-25,2001-07-25,Em uso,6196,0.04,0.07,4269,1927,Taxa aplicada divergente
+SINT-197061,Máquinas e equipamentos,1998-02-18,1998-02-18,Em uso,19245,0.04,0.07,13259,5986,Taxa aplicada divergente
+SINT-197739,Máquinas e equipamentos,1998-03-26,1998-03-26,Em uso,12385,0.04,0.07,8533,3852,Taxa aplicada divergente
+SINT-198320,Máquinas e equipamentos,2010-07-24,2010-07-24,Em uso,31598,0.04,0.07,21770,9828,Taxa aplicada divergente
+SINT-199822,Máquinas e equipamentos,2012-11-25,2012-11-25,Em uso,39265,0.04,0.07,27052,12213,Taxa aplicada divergente
+SINT-200752,Máquinas e equipamentos,1996-07-23,1996-07-23,Em uso,9859,0.04,0.07,6793,3066,Taxa aplicada divergente
+SINT-201024,Máquinas e equipamentos,1995-08-31,1995-08-31,Em uso,59344,0.04,0.07,40886,18458,Taxa aplicada divergente
+SINT-201777,Máquinas e equipamentos,2003-05-31,2003-05-31,Em uso,42843,0.04,0.07,29518,13325,Taxa aplicada divergente
+SINT-202187,Máquinas e equipamentos,1998-01-30,1998-01-30,Em uso,7414,0.04,0.07,5108,2306,Taxa aplicada divergente
+SINT-202537,Máquinas e equipamentos,2016-11-10,2016-11-10,Em uso,108710,0.04,0.07,74898,33812,Taxa aplicada divergente
+SINT-203030,Máquinas e equipamentos,2011-01-19,2011-01-19,Em uso,50035,0.04,0.07,34473,15562,Taxa aplicada divergente
+SINT-203724,Máquinas e equipamentos,2024-01-23,2024-01-23,Em uso,22812,0.04,0.07,15717,7095,Taxa aplicada divergente
+SINT-205207,Máquinas e equipamentos,1997-07-24,1997-07-24,Em uso,9954,0.04,0.07,6858,3096,Taxa aplicada divergente
+SINT-205634,Máquinas e equipamentos,1996-03-25,1996-03-25,Em uso,31922,0.04,0.07,21993,9929,Taxa aplicada divergente
+SINT-206411,Máquinas e equipamentos,1997-11-24,1997-11-24,Em uso,11506,0.04,0.07,7927,3579,Taxa aplicada divergente
+SINT-206795,Máquinas e equipamentos,2024-12-10,2024-12-10,Em uso,13566,0.04,0.07,9347,4219,Taxa aplicada divergente
+SINT-206938,Máquinas e equipamentos,2015-08-19,2015-08-19,Em uso,56359,0.04,0.07,38830,17529,Taxa aplicada divergente
+SINT-208084,Máquinas e equipamentos,2024-10-14,2024-10-14,Em uso,16167,0.04,0.07,11139,5028,Taxa aplicada divergente
+SINT-208508,Máquinas e equipamentos,2022-07-06,2022-07-06,Em uso,14647,0.04,0.07,10091,4556,Taxa aplicada divergente
+SINT-208622,Máquinas e equipamentos,2010-11-06,2010-11-06,Em uso,21256,0.04,0.07,14645,6611,Taxa aplicada divergente
+SINT-209815,Máquinas e equipamentos,2000-08-26,2000-08-26,Em uso,73099,0.04,0.07,50363,22736,Taxa aplicada divergente
+SINT-210845,Máquinas e equipamentos,2001-07-20,2001-07-20,Em uso,16833,0.04,0.07,11597,5236,Taxa aplicada divergente
+SINT-213501,Máquinas e equipamentos,2016-12-30,2016-12-30,Em uso,9662,0.04,0.07,6657,3005,Taxa aplicada divergente
+SINT-214977,Máquinas e equipamentos,2017-03-05,2017-03-05,Em uso,19562,0.04,0.07,13478,6084,Taxa aplicada divergente
+SINT-215235,Máquinas e equipamentos,2008-07-10,2008-07-10,Em uso,55716,0.04,0.07,38387,17329,Taxa aplicada divergente
+SINT-216142,Máquinas e equipamentos,2025-09-04,2025-09-04,Em uso,15269,0.04,0.07,10520,4749,Taxa aplicada divergente
+SINT-216397,Máquinas e equipamentos,1999-03-03,1999-03-03,Em uso,74804,0.04,0.07,51538,23266,Taxa aplicada divergente
+SINT-218619,Máquinas e equipamentos,2011-07-15,2011-07-15,Em uso,15115,0.04,0.07,10414,4701,Taxa aplicada divergente
+SINT-219467,Máquinas e equipamentos,2014-05-25,2014-05-25,Em uso,16306,0.04,0.07,11234,5072,Taxa aplicada divergente
+SINT-219596,Máquinas e equipamentos,2014-02-20,2014-02-20,Em uso,35015,0.04,0.07,24124,10891,Taxa aplicada divergente
+SINT-219853,Máquinas e equipamentos,2025-06-16,2025-06-16,Em uso,12081,0.04,0.07,8323,3758,Taxa aplicada divergente
+SINT-220651,Máquinas e equipamentos,2015-03-08,2015-03-08,Em uso,69067,0.04,0.07,47585,21482,Taxa aplicada divergente
+SINT-220814,Máquinas e equipamentos,2013-02-07,2013-02-07,Em uso,15210,0.04,0.07,10479,4731,Taxa aplicada divergente
+SINT-222571,Máquinas e equipamentos,2010-10-26,2010-10-26,Em uso,12503,0.04,0.07,8614,3889,Taxa aplicada divergente
+SINT-223988,Máquinas e equipamentos,2018-08-05,2018-08-05,Em uso,25556,0.04,0.07,17607,7949,Taxa aplicada divergente
+SINT-226877,Máquinas e equipamentos,2005-12-26,2005-12-26,Em uso,16244,0.04,0.07,11192,5052,Taxa aplicada divergente
+SINT-227958,Máquinas e equipamentos,2022-11-10,2022-11-10,Em uso,42779,0.04,0.07,29473,13306,Taxa aplicada divergente
+SINT-228508,Máquinas e equipamentos,1999-12-10,1999-12-10,Em uso,67233,0.04,0.07,46322,20911,Taxa aplicada divergente
+SINT-229019,Máquinas e equipamentos,2025-01-03,2025-01-03,Em uso,6711,0.04,0.07,4624,2087,Taxa aplicada divergente
+SINT-231681,Máquinas e equipamentos,2007-10-26,2007-10-26,Em uso,22242,0.04,0.07,15324,6918,Taxa aplicada divergente
+SINT-232488,Máquinas e equipamentos,2005-08-25,2005-08-25,Em uso,24690,0.04,0.07,17011,7679,Taxa aplicada divergente
+SINT-234015,Máquinas e equipamentos,2016-05-13,2016-05-13,Em uso,26581,0.04,0.07,18314,8267,Taxa aplicada divergente
+SINT-236087,Máquinas e equipamentos,2012-01-06,2012-01-06,Em uso,40041,0.04,0.07,27587,12454,Taxa aplicada divergente
+SINT-236816,Máquinas e equipamentos,2018-04-29,2018-04-29,Em uso,17709,0.04,0.07,12201,5508,Taxa aplicada divergente
+SINT-237211,Máquinas e equipamentos,2010-08-06,2010-08-06,Em uso,2073,0.04,0.07,1428,645,Taxa aplicada divergente
+SINT-237650,Máquinas e equipamentos,1995-02-14,1995-02-14,Em uso,18151,0.04,0.07,12506,5645,Taxa aplicada divergente
+SINT-239905,Máquinas e equipamentos,2008-06-24,2008-06-24,Em uso,89996,0.04,0.07,62005,27991,Taxa aplicada divergente
+SINT-240488,Máquinas e equipamentos,2024-07-24,2024-07-24,Em uso,15831,0.04,0.07,10907,4924,Taxa aplicada divergente
+SINT-240947,Máquinas e equipamentos,2017-10-15,2017-10-15,Em uso,41795,0.04,0.07,28796,12999,Taxa aplicada divergente
+SINT-241903,Máquinas e equipamentos,2007-02-10,2007-02-10,Em uso,10220,0.04,0.07,7041,3179,Taxa aplicada divergente
+SINT-242419,Máquinas e equipamentos,1999-12-27,1999-12-27,Em uso,28804,0.04,0.07,19845,8959,Taxa aplicada divergente
+SINT-244384,Máquinas e equipamentos,2016-02-19,2016-02-19,Em uso,92888,0.04,0.07,63997,28891,Taxa aplicada divergente
+SINT-244663,Máquinas e equipamentos,2020-11-23,2020-11-23,Em uso,20089,0.04,0.07,13841,6248,Taxa aplicada divergente
+SINT-245487,Máquinas e equipamentos,1997-01-19,1997-01-19,Em uso,19981,0.04,0.07,13766,6215,Taxa aplicada divergente
+SINT-245736,Máquinas e equipamentos,1997-06-30,1997-06-30,Em uso,43339,0.04,0.07,29859,13480,Taxa aplicada divergente
+SINT-246629,Máquinas e equipamentos,1998-09-29,1998-09-29,Em uso,7302,0.04,0.07,5031,2271,Taxa aplicada divergente
+SINT-247276,Máquinas e equipamentos,2009-02-07,2009-02-07,Em uso,21945,0.04,0.07,15119,6826,Taxa aplicada divergente
+SINT-248151,Máquinas e equipamentos,2015-01-28,2015-01-28,Em uso,19809,0.04,0.07,13648,6161,Taxa aplicada divergente
+SINT-248827,Máquinas e equipamentos,1995-05-20,1995-05-20,Em uso,64322,0.04,0.07,44316,20006,Taxa aplicada divergente
+SINT-249757,Máquinas e equipamentos,1998-07-12,1998-07-12,Em uso,39815,0.04,0.07,27431,12384,Taxa aplicada divergente
+SINT-251222,Máquinas e equipamentos,2011-09-23,2011-09-23,Em uso,19517,0.04,0.07,13447,6070,Taxa aplicada divergente
+SINT-251850,Máquinas e equipamentos,2012-05-30,2012-05-30,Em uso,11161,0.04,0.07,7690,3471,Taxa aplicada divergente
+SINT-252179,Máquinas e equipamentos,2018-05-26,2018-05-26,Em uso,42070,0.04,0.07,28985,13085,Taxa aplicada divergente
+SINT-252319,Máquinas e equipamentos,2002-01-17,2002-01-17,Em uso,11838,0.04,0.07,8156,3682,Taxa aplicada divergente
+SINT-252615,Máquinas e equipamentos,2015-02-19,2015-02-19,Em uso,33822,0.04,0.07,23302,10520,Taxa aplicada divergente
+SINT-254863,Máquinas e equipamentos,2003-06-30,2003-06-30,Em uso,31200,0.04,0.07,21496,9704,Taxa aplicada divergente
+SINT-255114,Máquinas e equipamentos,2001-02-05,2001-02-05,Em uso,98824,0.04,0.07,68087,30737,Taxa aplicada divergente
+SINT-255357,Máquinas e equipamentos,1996-11-23,1996-11-23,Em uso,26422,0.04,0.07,18204,8218,Taxa aplicada divergente
+SINT-255396,Máquinas e equipamentos,2011-03-29,2011-03-29,Em uso,18542,0.04,0.07,12775,5767,Taxa aplicada divergente
+SINT-255454,Máquinas e equipamentos,2010-04-16,2010-04-16,Em uso,32102,0.04,0.07,22117,9985,Taxa aplicada divergente
+SINT-258611,Máquinas e equipamentos,2023-02-19,2023-02-19,Em uso,89455,0.04,0.07,61632,27823,Taxa aplicada divergente
+SINT-258624,Máquinas e equipamentos,2013-10-26,2013-10-26,Em uso,13676,0.04,0.07,9422,4254,Taxa aplicada divergente
+SINT-258890,Máquinas e equipamentos,2012-08-26,2012-08-26,Em uso,65945,0.04,0.07,45434,20511,Taxa aplicada divergente
+SINT-259133,Máquinas e equipamentos,2025-10-30,2025-10-30,Em uso,37296,0.04,0.07,25696,11600,Taxa aplicada divergente
+SINT-260086,Máquinas e equipamentos,1995-01-25,1995-01-25,Em uso,14865,0.04,0.07,10242,4623,Taxa aplicada divergente
+SINT-260510,Máquinas e equipamentos,2005-12-18,2005-12-18,Em uso,65462,0.04,0.07,45101,20361,Taxa aplicada divergente
+SINT-261431,Máquinas e equipamentos,1999-11-01,1999-11-01,Em uso,52158,0.04,0.07,35935,16223,Taxa aplicada divergente
+SINT-262405,Máquinas e equipamentos,2015-07-04,2015-07-04,Em uso,8860,0.04,0.07,6104,2756,Taxa aplicada divergente
+SINT-263804,Máquinas e equipamentos,2023-06-16,2023-06-16,Em uso,42700,0.04,0.07,29419,13281,Taxa aplicada divergente
+SINT-265495,Máquinas e equipamentos,2002-10-25,2002-10-25,Em uso,16940,0.04,0.07,11671,5269,Taxa aplicada divergente
+SINT-266123,Máquinas e equipamentos,2022-03-19,2022-03-19,Em uso,65407,0.04,0.07,45063,20344,Taxa aplicada divergente
+SINT-267078,Máquinas e equipamentos,2016-04-16,2016-04-16,Em uso,39316,0.04,0.07,27088,12228,Taxa aplicada divergente
+SINT-268855,Máquinas e equipamentos,2017-06-17,2017-06-17,Em uso,16536,0.04,0.07,11393,5143,Taxa aplicada divergente
+SINT-269288,Máquinas e equipamentos,1997-07-12,1997-07-12,Em uso,55043,0.04,0.07,37923,17120,Taxa aplicada divergente
+SINT-269872,Máquinas e equipamentos,2001-12-03,2001-12-03,Em uso,11280,0.04,0.07,7772,3508,Taxa aplicada divergente
+SINT-269875,Máquinas e equipamentos,2012-12-27,2012-12-27,Em uso,69702,0.04,0.07,48023,21679,Taxa aplicada divergente
+SINT-313363,Peças de reposição,2020-03-16,2020-03-16,Em uso,8362,0.12,0.15,5908,2454,Taxa aplicada divergente
+SINT-314367,Peças de reposição,2002-12-18,2002-12-18,Em uso,2933,0.12,0.15,2072,861,Taxa aplicada divergente
+SINT-315414,Peças de reposição,2021-06-18,2021-06-18,Em uso,6295,0.12,0.15,4447,1848,Taxa aplicada divergente
+SINT-315461,Peças de reposição,2011-07-19,2011-07-19,Em uso,2077,0.12,0.15,1467,610,Taxa aplicada divergente
+SINT-315547,Peças de reposição,2019-01-19,2019-01-19,Em uso,3444,0.12,0.15,2433,1011,Taxa aplicada divergente
+SINT-316442,Peças de reposição,2015-02-05,2015-02-05,Em uso,4629,0.12,0.15,3270,1359,Taxa aplicada divergente
+SINT-318067,Peças de reposição,2007-08-20,2007-08-20,Em uso,5340,0.12,0.15,3773,1567,Taxa aplicada divergente
+SINT-318695,Peças de reposição,2020-02-16,2020-02-16,Em uso,2233,0.12,0.15,1578,655,Taxa aplicada divergente
+SINT-319084,Peças de reposição,1998-10-29,1998-10-29,Em uso,952,0.12,0.15,673,279,Taxa aplicada divergente
+SINT-321364,Peças de reposição,2023-04-24,2023-04-24,Em uso,3557,0.12,0.15,2513,1044,Taxa aplicada divergente
+SINT-321660,Peças de reposição,2015-11-30,2015-11-30,Em uso,12579,0.12,0.15,8887,3692,Taxa aplicada divergente
+SINT-322118,Peças de reposição,2003-12-18,2003-12-18,Em uso,6385,0.12,0.15,4511,1874,Taxa aplicada divergente
+SINT-322373,Peças de reposição,2017-12-17,2017-12-17,Em uso,16157,0.12,0.15,11415,4742,Taxa aplicada divergente
+SINT-323039,Peças de reposição,2020-09-16,2020-09-16,Em uso,3599,0.12,0.15,2543,1056,Taxa aplicada divergente
+SINT-324113,Peças de reposição,2014-02-18,2014-02-18,Em uso,1114,0.12,0.15,787,327,Taxa aplicada divergente
+SINT-325664,Peças de reposição,2013-08-02,2013-08-02,Em uso,2617,0.12,0.15,1849,768,Taxa aplicada divergente
+SINT-325843,Peças de reposição,1998-07-02,1998-07-02,Em uso,5497,0.12,0.15,3884,1613,Taxa aplicada divergente
+SINT-327905,Peças de reposição,2015-08-14,2015-08-14,Em uso,1542,0.12,0.15,1089,453,Taxa aplicada divergente
+SINT-328270,Peças de reposição,2009-05-28,2009-05-28,Em uso,2363,0.12,0.15,1669,694,Taxa aplicada divergente
+SINT-329348,Peças de reposição,1996-06-15,1996-06-15,Em uso,1830,0.12,0.15,1293,537,Taxa aplicada divergente
+SINT-330636,Peças de reposição,2021-06-04,2021-06-04,Em uso,1873,0.12,0.15,1323,550,Taxa aplicada divergente
+SINT-333013,Peças de reposição,2015-12-23,2015-12-23,Em uso,8346,0.12,0.15,5896,2450,Taxa aplicada divergente
+SINT-333186,Peças de reposição,2014-04-21,2014-04-21,Em uso,5878,0.12,0.15,4153,1725,Taxa aplicada divergente
+SINT-334292,Peças de reposição,2000-09-29,2000-09-29,Em uso,7223,0.12,0.15,5103,2120,Taxa aplicada divergente
+SINT-334357,Peças de reposição,2005-05-25,2005-05-25,Em uso,2433,0.12,0.15,1719,714,Taxa aplicada divergente
+SINT-334426,Peças de reposição,2024-05-23,2024-05-23,Em uso,6178,0.12,0.15,4365,1813,Taxa aplicada divergente
+SINT-334541,Peças de reposição,1997-01-14,1997-01-14,Em uso,2726,0.12,0.15,1926,800,Taxa aplicada divergente
+SINT-334593,Peças de reposição,2004-03-05,2004-03-05,Em uso,4760,0.12,0.15,3363,1397,Taxa aplicada divergente
+SINT-335484,Peças de reposição,2004-02-06,2004-02-06,Em uso,4945,0.12,0.15,3494,1451,Taxa aplicada divergente
+SINT-335563,Peças de reposição,2012-09-07,2012-09-07,Em uso,1699,0.12,0.15,1200,499,Taxa aplicada divergente
+SINT-337417,Peças de reposição,2010-01-26,2010-01-26,Em uso,4924,0.12,0.15,3479,1445,Taxa aplicada divergente
+SINT-337451,Peças de reposição,2010-10-06,2010-10-06,Em uso,4492,0.12,0.15,3174,1318,Taxa aplicada divergente
+SINT-337995,Peças de reposição,2024-09-22,2024-09-22,Em uso,1001,0.12,0.15,707,294,Taxa aplicada divergente
+SINT-338864,Peças de reposição,2006-05-11,2006-05-11,Em uso,1717,0.12,0.15,1213,504,Taxa aplicada divergente
+SINT-340795,Peças de reposição,2022-10-18,2022-10-18,Em uso,2703,0.12,0.15,1910,793,Taxa aplicada divergente
+SINT-340919,Peças de reposição,1995-06-17,1995-06-17,Em uso,3766,0.12,0.15,2661,1105,Taxa aplicada divergente
+SINT-342207,Peças de reposição,1995-12-05,1995-12-05,Em uso,1275,0.12,0.15,901,374,Taxa aplicada divergente
+SINT-342322,Peças de reposição,2018-06-19,2018-06-19,Em uso,15141,0.12,0.15,10697,4444,Taxa aplicada divergente
+SINT-342639,Peças de reposição,2018-08-24,2018-08-24,Em uso,1867,0.12,0.15,1319,548,Taxa aplicada divergente
+SINT-344091,Peças de reposição,1999-12-01,1999-12-01,Em uso,5691,0.12,0.15,4021,1670,Taxa aplicada divergente
+SINT-344518,Peças de reposição,1995-07-16,1995-07-16,Em uso,23704,0.12,0.15,16747,6957,Taxa aplicada divergente
+SINT-344716,Peças de reposição,2017-04-12,2017-04-12,Em uso,3311,0.12,0.15,2339,972,Taxa aplicada divergente
+SINT-346917,Peças de reposição,2023-09-02,2023-09-02,Em uso,827,0.12,0.15,584,243,Taxa aplicada divergente
+SINT-348167,Peças de reposição,2025-03-04,2025-03-04,Em uso,10017,0.12,0.15,7077,2940,Taxa aplicada divergente
+SINT-348340,Peças de reposição,2024-01-21,2024-01-21,Em uso,14143,0.12,0.15,9992,4151,Taxa aplicada divergente
+SINT-349718,Peças de reposição,1998-03-01,1998-03-01,Em uso,2498,0.12,0.15,1765,733,Taxa aplicada divergente
+SINT-350094,Peças de reposição,1995-11-09,1995-11-09,Em uso,4765,0.12,0.15,3366,1399,Taxa aplicada divergente
+SINT-350762,Peças de reposição,2019-10-05,2019-10-05,Em uso,4168,0.12,0.15,2945,1223,Taxa aplicada divergente
+SINT-351092,Peças de reposição,2015-03-06,2015-03-06,Em uso,1193,0.12,0.15,843,350,Taxa aplicada divergente
+SINT-352128,Peças de reposição,2010-08-26,2010-08-26,Em uso,8563,0.12,0.15,6050,2513,Taxa aplicada divergente
+SINT-352345,Peças de reposição,1995-11-04,1995-11-04,Em uso,3399,0.12,0.15,2401,998,Taxa aplicada divergente
+SINT-352512,Peças de reposição,2011-02-20,2011-02-20,Em uso,4262,0.12,0.15,3011,1251,Taxa aplicada divergente
+SINT-353093,Peças de reposição,1999-11-07,1999-11-07,Em uso,6588,0.12,0.15,4654,1934,Taxa aplicada divergente
+SINT-353501,Peças de reposição,1996-04-27,1996-04-27,Em uso,2379,0.12,0.15,1681,698,Taxa aplicada divergente
+SINT-353733,Peças de reposição,2003-03-09,2003-03-09,Em uso,3912,0.12,0.15,2764,1148,Taxa aplicada divergente
+SINT-355148,Peças de reposição,2011-08-14,2011-08-14,Em uso,1128,0.12,0.15,797,331,Taxa aplicada divergente
+SINT-355927,Peças de reposição,2012-10-27,2012-10-27,Em uso,3299,0.12,0.15,2331,968,Taxa aplicada divergente
+SINT-357717,Peças de reposição,2015-07-11,2015-07-11,Em uso,15532,0.12,0.15,10973,4559,Taxa aplicada divergente
+SINT-357834,Peças de reposição,2012-01-22,2012-01-22,Em uso,2585,0.12,0.15,1826,759,Taxa aplicada divergente
+SINT-360217,Peças de reposição,1995-01-28,1995-01-28,Em uso,5045,0.12,0.15,3564,1481,Taxa aplicada divergente
+SINT-360395,Peças de reposição,1996-03-12,1996-03-12,Em uso,10473,0.12,0.15,7399,3074,Taxa aplicada divergente
+SINT-361704,Peças de reposição,2001-08-02,2001-08-02,Em uso,2018,0.12,0.15,1426,592,Taxa aplicada divergente
+SINT-364274,Peças de reposição,2010-03-13,2010-03-13,Em uso,7690,0.12,0.15,5433,2257,Taxa aplicada divergente
+SINT-364675,Peças de reposição,2006-12-08,2006-12-08,Em uso,1045,0.12,0.15,738,307,Taxa aplicada divergente
+SINT-364681,Peças de reposição,2000-05-07,2000-05-07,Em uso,1696,0.12,0.15,1198,498,Taxa aplicada divergente
+SINT-366596,Peças de reposição,1999-08-11,1999-08-11,Em uso,5003,0.12,0.15,3535,1468,Taxa aplicada divergente
+SINT-366935,Peças de reposição,2009-11-27,2009-11-27,Em uso,6264,0.12,0.15,4425,1839,Taxa aplicada divergente
+SINT-367313,Peças de reposição,2024-04-18,2024-04-18,Em uso,1521,0.12,0.15,1075,446,Taxa aplicada divergente
+SINT-367655,Peças de reposição,2015-05-26,2015-05-26,Em uso,9078,0.12,0.15,6414,2664,Taxa aplicada divergente
+SINT-367690,Peças de reposição,2002-03-20,2002-03-20,Em uso,8587,0.12,0.15,6067,2520,Taxa aplicada divergente
+SINT-368169,Peças de reposição,2016-06-15,2016-06-15,Em uso,6722,0.12,0.15,4749,1973,Taxa aplicada divergente
+SINT-370875,Peças de reposição,2002-09-30,2002-09-30,Em uso,4147,0.12,0.15,2930,1217,Taxa aplicada divergente
+SINT-371452,Peças de reposição,2019-12-08,2019-12-08,Em uso,6327,0.12,0.15,4470,1857,Taxa aplicada divergente
+SINT-371495,Peças de reposição,2015-03-17,2015-03-17,Em uso,4108,0.12,0.15,2902,1206,Taxa aplicada divergente
+SINT-372174,Peças de reposição,2020-04-11,2020-04-11,Em uso,6083,0.12,0.15,4298,1785,Taxa aplicada divergente
+SINT-372495,Peças de reposição,2021-11-11,2021-11-11,Em uso,1732,0.12,0.15,1224,508,Taxa aplicada divergente
+SINT-373501,Peças de reposição,2005-01-05,2005-01-05,Em uso,546,0.12,0.15,386,160,Taxa aplicada divergente
+SINT-373527,Peças de reposição,2012-02-13,2012-02-13,Em uso,7739,0.12,0.15,5468,2271,Taxa aplicada divergente
+SINT-375635,Peças de reposição,1999-02-21,1999-02-21,Em uso,1727,0.12,0.15,1220,507,Taxa aplicada divergente
+SINT-376367,Peças de reposição,2024-01-21,2024-01-21,Em uso,4663,0.12,0.15,3294,1369,Taxa aplicada divergente
+SINT-377279,Peças de reposição,2000-04-25,2000-04-25,Em uso,4216,0.12,0.15,2979,1237,Taxa aplicada divergente
+SINT-379773,Peças de reposição,1995-01-09,1995-01-09,Em uso,5064,0.12,0.15,3578,1486,Taxa aplicada divergente
+SINT-379998,Peças de reposição,2006-09-08,2006-09-08,Em uso,8477,0.12,0.15,5989,2488,Taxa aplicada divergente
+SINT-380235,Peças de reposição,2009-07-18,2009-07-18,Em uso,2009,0.12,0.15,1419,590,Taxa aplicada divergente
+SINT-380469,Peças de reposição,2004-10-04,2004-10-04,Em uso,7824,0.12,0.15,5528,2296,Taxa aplicada divergente
+SINT-383409,Ferramentas,2013-03-09,2013-03-09,Em uso,3088,0.07,0.1,2575,513,Taxa aplicada divergente
+SINT-385138,Ferramentas,2024-02-24,2024-02-24,Em uso,3983,0.07,0.1,3321,662,Taxa aplicada divergente
+SINT-385838,Ferramentas,2021-07-10,2021-07-10,Em uso,3436,0.07,0.1,2865,571,Taxa aplicada divergente
+SINT-387569,Ferramentas,2009-03-04,2009-03-04,Em uso,6797,0.07,0.1,5667,1130,Taxa aplicada divergente
+SINT-388175,Ferramentas,1997-12-07,1997-12-07,Em uso,1004,0.07,0.1,837,167,Taxa aplicada divergente
+SINT-388239,Ferramentas,2018-08-29,2018-08-29,Em uso,12092,0.07,0.1,10082,2010,Taxa aplicada divergente
+SINT-389346,Ferramentas,1995-11-20,1995-11-20,Em uso,6544,0.07,0.1,5456,1088,Taxa aplicada divergente
+SINT-389620,Ferramentas,2004-02-22,2004-02-22,Em uso,5514,0.07,0.1,4598,916,Taxa aplicada divergente
+SINT-389876,Ferramentas,1996-07-16,1996-07-16,Em uso,8943,0.07,0.1,7457,1486,Taxa aplicada divergente
+SINT-392153,Ferramentas,2021-04-24,2021-04-24,Em uso,8388,0.07,0.1,6994,1394,Taxa aplicada divergente
+SINT-393097,Ferramentas,2024-03-12,2024-03-12,Em uso,3214,0.07,0.1,2680,534,Taxa aplicada divergente
+SINT-393647,Ferramentas,2001-06-23,2001-06-23,Em uso,2495,0.07,0.1,2080,415,Taxa aplicada divergente
+SINT-393753,Ferramentas,1997-12-07,1997-12-07,Em uso,17298,0.07,0.1,14423,2875,Taxa aplicada divergente
+SINT-394773,Ferramentas,2007-01-20,2007-01-20,Em uso,42653,0.07,0.1,35564,7089,Taxa aplicada divergente
+SINT-394820,Ferramentas,2012-01-20,2012-01-20,Em uso,7872,0.07,0.1,6564,1308,Taxa aplicada divergente
+SINT-395684,Ferramentas,2007-05-09,2007-05-09,Em uso,2845,0.07,0.1,2372,473,Taxa aplicada divergente
+SINT-396389,Ferramentas,2013-05-22,2013-05-22,Em uso,7558,0.07,0.1,6302,1256,Taxa aplicada divergente
+SINT-396730,Ferramentas,2010-04-09,2010-04-09,Em uso,2721,0.07,0.1,2269,452,Taxa aplicada divergente
+SINT-396996,Ferramentas,2011-03-03,2011-03-03,Em uso,2660,0.07,0.1,2218,442,Taxa aplicada divergente
+SINT-397150,Ferramentas,1999-05-24,1999-05-24,Em uso,14393,0.07,0.1,12001,2392,Taxa aplicada divergente
+SINT-398850,Ferramentas,2025-07-05,2025-07-05,Em uso,17479,0.07,0.1,14574,2905,Taxa aplicada divergente
+SINT-399002,Ferramentas,2010-08-18,2010-08-18,Em uso,9615,0.07,0.1,8017,1598,Taxa aplicada divergente
+SINT-401266,Ferramentas,2001-05-14,2001-05-14,Em uso,13458,0.07,0.1,11221,2237,Taxa aplicada divergente
+SINT-401758,Ferramentas,2011-06-29,2011-06-29,Em uso,3499,0.07,0.1,2917,582,Taxa aplicada divergente
+SINT-401863,Ferramentas,2025-10-06,2025-10-06,Em uso,6053,0.07,0.1,5047,1006,Taxa aplicada divergente
+SINT-402773,Ferramentas,2024-05-07,2024-05-07,Em uso,19372,0.07,0.1,16152,3220,Taxa aplicada divergente
+SINT-402807,Ferramentas,2023-12-15,2023-12-15,Em uso,3337,0.07,0.1,2782,555,Taxa aplicada divergente
+SINT-402962,Ferramentas,2025-08-12,2025-08-12,Em uso,3495,0.07,0.1,2914,581,Taxa aplicada divergente
+SINT-403477,Ferramentas,2024-11-26,2024-11-26,Em uso,6797,0.07,0.1,5667,1130,Taxa aplicada divergente
+SINT-404184,Ferramentas,2000-09-08,2000-09-08,Em uso,2938,0.07,0.1,2450,488,Taxa aplicada divergente
+SINT-404937,Ferramentas,2015-11-24,2015-11-24,Em uso,2687,0.07,0.1,2240,447,Taxa aplicada divergente
+SINT-406156,Ferramentas,2023-09-16,2023-09-16,Em uso,1215,0.07,0.1,1013,202,Taxa aplicada divergente
+SINT-408249,Ferramentas,2024-03-16,2024-03-16,Em uso,6527,0.07,0.1,5442,1085,Taxa aplicada divergente
+SINT-408678,Ferramentas,1997-05-08,1997-05-08,Em uso,3969,0.07,0.1,3309,660,Taxa aplicada divergente
+SINT-409206,Ferramentas,2010-08-27,2010-08-27,Em uso,6840,0.07,0.1,5703,1137,Taxa aplicada divergente
+SINT-409838,Ferramentas,2018-09-16,2018-09-16,Em uso,1967,0.07,0.1,1640,327,Taxa aplicada divergente
+SINT-410475,Ferramentas,2001-01-01,2001-01-01,Em uso,11871,0.07,0.1,9898,1973,Taxa aplicada divergente
+SINT-411881,Ferramentas,2021-04-05,2021-04-05,Em uso,12445,0.07,0.1,10377,2068,Taxa aplicada divergente
+SINT-413919,Ferramentas,2020-06-09,2020-06-09,Em uso,5802,0.07,0.1,4838,964,Taxa aplicada divergente
+SINT-415496,Ferramentas,2008-10-18,2008-10-18,Em uso,8422,0.07,0.1,7022,1400,Taxa aplicada divergente
+SINT-416115,Ferramentas,2005-05-04,2005-05-04,Em uso,14700,0.07,0.1,12257,2443,Taxa aplicada divergente
+SINT-416285,Ferramentas,1997-03-12,1997-03-12,Em uso,11745,0.07,0.1,9793,1952,Taxa aplicada divergente
+SINT-417249,Ferramentas,2009-10-14,2009-10-14,Em uso,30902,0.07,0.1,25766,5136,Taxa aplicada divergente
+SINT-417978,Ferramentas,2005-06-26,2005-06-26,Em uso,2434,0.07,0.1,2029,405,Taxa aplicada divergente
+SINT-419358,Ferramentas,2005-06-25,2005-06-25,Em uso,6525,0.07,0.1,5440,1085,Taxa aplicada divergente
+SINT-419701,Ferramentas,1996-11-03,1996-11-03,Em uso,20014,0.07,0.1,16687,3327,Taxa aplicada divergente
+SINT-419737,Ferramentas,2016-11-02,2016-11-02,Em uso,964,0.07,0.1,804,160,Taxa aplicada divergente
+SINT-420196,Ferramentas,2012-06-20,2012-06-20,Em uso,6140,0.07,0.1,5119,1021,Taxa aplicada divergente
+SINT-422469,Outros,2000-10-18,2000-10-18,Em uso,5406,0.1,0.13,3676,1730,Taxa aplicada divergente
+SINT-422725,Outros,2016-05-09,2016-05-09,Em uso,17782,0.05,0.08,12090,5692,Taxa aplicada divergente
+SINT-423269,Outros,2001-08-02,2001-08-02,Em uso,10314,0.07,0.1,7013,3301,Taxa aplicada divergente
+SINT-424261,Outros,2024-02-20,2024-02-20,Em uso,6108,0.07,0.1,4153,1955,Taxa aplicada divergente
+SINT-425565,Outros,1995-01-27,1995-01-27,Em uso,2175,0.07,0.1,1479,696,Taxa aplicada divergente
+SINT-425566,Outros,2000-07-17,2000-07-17,Em uso,3247,0.04,0.07,2208,1039,Taxa aplicada divergente
+SINT-425788,Outros,2022-10-09,2022-10-09,Em uso,1782,0.02,0.05,1212,570,Taxa aplicada divergente
+SINT-426950,Outros,2006-07-20,2006-07-20,Em uso,5052,0.04,0.07,3435,1617,Taxa aplicada divergente
+SINT-427300,Outros,2012-03-10,2012-03-10,Em uso,7820,0.05,0.08,5317,2503,Taxa aplicada divergente
+SINT-431565,Outros,2023-07-09,2023-07-09,Em uso,3382,0.03,0.06,2299,1083,Taxa aplicada divergente
+SINT-432773,Outros,1998-07-26,1998-07-26,Em uso,11467,0.05,0.08,7797,3670,Taxa aplicada divergente
+SINT-433468,Outros,2004-02-26,2004-02-26,Em uso,9051,0.1,0.13,6154,2897,Taxa aplicada divergente
+SINT-433922,Outros,1996-06-05,1996-06-05,Em uso,23879,0.08,0.11,16236,7643,Taxa aplicada divergente
+SINT-436042,Outros,2006-01-04,2006-01-04,Em uso,2787,0.03,0.06,1895,892,Taxa aplicada divergente
+SINT-437823,Outros,2018-12-14,2018-12-14,Em uso,2564,0.1,0.13,1743,821,Taxa aplicada divergente
+SINT-437855,Outros,2008-11-17,2008-11-17,Em uso,1319,0.03,0.06,897,422,Taxa aplicada divergente
+SINT-439179,Outros,2006-01-31,2006-01-31,Em uso,3321,0.02,0.05,2258,1063,Taxa aplicada divergente
+SINT-440006,Outros,1996-01-14,1996-01-14,Em uso,28886,0.09,0.12,19640,9246,Taxa aplicada divergente
+SINT-440492,Outros,2001-02-22,2001-02-22,Em uso,7281,0.03,0.06,4950,2331,Taxa aplicada divergente
+SINT-442469,Outros,2025-02-15,2025-02-15,Em uso,4304,0.04,0.07,2926,1378,Taxa aplicada divergente
+SINT-443147,Outros,2005-06-12,2005-06-12,Em uso,2112,0.11,0.14,1436,676,Taxa aplicada divergente
+SINT-443847,Outros,2001-02-23,2001-02-23,Em uso,3348,0.04,0.07,2276,1072,Taxa aplicada divergente
+SINT-444004,Outros,2014-01-19,2014-01-19,Em uso,10896,0.09,0.12,7408,3488,Taxa aplicada divergente
+SINT-444685,Outros,2022-08-12,2022-08-12,Em uso,2180,0.05,0.08,1482,698,Taxa aplicada divergente
+SINT-446242,Outros,2015-11-08,2015-11-08,Em uso,3294,0.09,0.12,2240,1054,Taxa aplicada divergente
+SINT-447954,Outros,2010-03-26,2010-03-26,Em uso,2705,0.08,0.11,1839,866,Taxa aplicada divergente
+SINT-449609,Outros,2006-08-22,2006-08-22,Em uso,3047,0.06,0.09,2072,975,Taxa aplicada divergente
+SINT-450051,Outros,2004-11-07,2004-11-07,Em uso,3410,0.02,0.05,2318,1092,Taxa aplicada divergente
+SINT-450502,Outros,2011-04-13,2011-04-13,Em uso,3018,0.05,0.08,2052,966,Taxa aplicada divergente
+SINT-450622,Outros,2013-08-24,2013-08-24,Em uso,6198,0.06,0.09,4214,1984,Taxa aplicada divergente
+SINT-452030,Outros,1997-12-23,1997-12-23,Em uso,12442,0.1,0.13,8459,3983,Taxa aplicada divergente
+SINT-452957,Outros,2012-08-19,2012-08-19,Em uso,4158,0.02,0.05,2827,1331,Taxa aplicada divergente
+SINT-453572,Outros,2002-05-02,2002-05-02,Em uso,3532,0.07,0.1,2401,1131,Taxa aplicada divergente
+SINT-454568,Outros,2012-02-17,2012-02-17,Em uso,2518,0.09,0.12,1712,806,Taxa aplicada divergente
+SINT-454914,Outros,1995-07-26,1995-07-26,Em uso,5707,0.1,0.13,3880,1827,Taxa aplicada divergente
+SINT-455403,Outros,2017-08-17,2017-08-17,Em uso,5220,0.08,0.11,3549,1671,Taxa aplicada divergente
+SINT-455926,Outros,2005-11-10,2005-11-10,Em uso,2807,0.04,0.07,1909,898,Taxa aplicada divergente
+SINT-456518,Outros,2016-06-15,2016-06-15,Em uso,4033,0.03,0.06,2742,1291,Taxa aplicada divergente
+SINT-457424,Outros,2010-05-29,2010-05-29,Em uso,7458,0.06,0.09,5071,2387,Taxa aplicada divergente
+SINT-459578,Outros,2008-06-08,2008-06-08,Em uso,3713,0.05,0.08,2525,1188,Taxa aplicada divergente
+SINT-459714,Outros,2017-03-06,2017-03-06,Em uso,13222,0.07,0.1,8990,4232,Taxa aplicada divergente
+SINT-460638,Outros,2024-01-17,2024-01-17,Em uso,44311,0.06,0.09,30127,14184,Taxa aplicada divergente
+SINT-461311,Outros,2002-07-02,2002-07-02,Em uso,4270,0.11,0.14,2903,1367,Taxa aplicada divergente
+SINT-463414,Outros,2002-11-01,2002-11-01,Em uso,2954,0.09,0.12,2008,946,Taxa aplicada divergente
+SINT-465614,Outros,2014-08-30,2014-08-30,Em uso,4033,0.05,0.08,2742,1291,Taxa aplicada divergente
+SINT-467677,Outros,2023-02-13,2023-02-13,Em uso,2410,0.11,0.14,1639,771,Taxa aplicada divergente
+SINT-468237,Outros,2025-05-11,2025-05-11,Em uso,8390,0.06,0.09,5704,2686,Taxa aplicada divergente
+SINT-468516,Outros,1998-12-18,1998-12-18,Em uso,11470,0.1,0.13,7799,3671,Taxa aplicada divergente
+SINT-468529,Outros,2022-10-27,2022-10-27,Em uso,2686,0.03,0.06,1826,860,Taxa aplicada divergente
+SINT-469168,Outros,2024-10-06,2024-10-06,Em uso,2955,0.07,0.1,2009,946,Taxa aplicada divergente
+SINT-469243,Outros,2016-06-01,2016-06-01,Em uso,4533,0.11,0.14,3082,1451,Taxa aplicada divergente
+SINT-469253,Outros,2017-03-16,2017-03-16,Em uso,7296,0.09,0.12,4961,2335,Taxa aplicada divergente
+SINT-469686,Outros,1997-04-08,1997-04-08,Em uso,4930,0.11,0.14,3352,1578,Taxa aplicada divergente
+SINT-471786,Outros,1995-02-05,1995-02-05,Em uso,1390,0.09,0.12,945,445,Taxa aplicada divergente
+SINT-473412,Outros,1999-11-27,1999-11-27,Em uso,24102,0.02,0.05,16387,7715,Taxa aplicada divergente
+SINT-475024,Outros,2015-06-10,2015-06-10,Em uso,2875,0.05,0.08,1955,920,Taxa aplicada divergente
+SINT-475549,Outros,1997-04-30,1997-04-30,Em uso,3732,0.1,0.13,2537,1195,Taxa aplicada divergente
+SINT-477678,Outros,2016-06-18,2016-06-18,Em uso,6205,0.03,0.06,4219,1986,Taxa aplicada divergente
+SINT-478543,Outros,2016-08-09,2016-08-09,Em uso,7070,0.08,0.11,4807,2263,Taxa aplicada divergente
+SINT-481334,Outros,2011-10-29,2011-10-29,Em uso,6373,0.07,0.1,4333,2040,Taxa aplicada divergente
+SINT-482446,Outros,1996-06-22,1996-06-22,Em uso,10675,0.05,0.08,7258,3417,Taxa aplicada divergente
+SINT-483769,Outros,1997-02-28,1997-02-28,Em uso,1223,0.1,0.13,832,391,Taxa aplicada divergente
+SINT-487556,Outros,2020-08-03,2020-08-03,Em uso,1328,0.02,0.05,903,425,Taxa aplicada divergente
+SINT-487675,Outros,2010-11-06,2010-11-06,Em uso,16603,0.11,0.14,11289,5314,Taxa aplicada divergente
+SINT-488897,Outros,2014-09-24,2014-09-24,Em uso,9309,0.04,0.07,6329,2980,Taxa aplicada divergente
+SINT-488983,Outros,2002-02-05,2002-02-05,Em uso,2137,0.1,0.13,1453,684,Taxa aplicada divergente
+SINT-489679,Outros,1996-03-05,1996-03-05,Em uso,7098,0.1,0.13,4826,2272,Taxa aplicada divergente
+SINT-491131,Outros,2022-07-02,2022-07-02,Em uso,4422,0.03,0.06,3007,1415,Taxa aplicada divergente
+SINT-492353,Outros,1995-01-17,1995-01-17,Em uso,3250,0.1,0.13,2210,1040,Taxa aplicada divergente
+SINT-493352,Outros,2005-02-20,2005-02-20,Em uso,6029,0.06,0.09,4099,1930,Taxa aplicada divergente
+SINT-494235,Outros,2005-03-16,2005-03-16,Em uso,4921,0.04,0.07,3346,1575,Taxa aplicada divergente
+SINT-496211,Outros,2007-01-23,2007-01-23,Em uso,6375,0.07,0.1,4334,2041,Taxa aplicada divergente
+SINT-497657,Outros,2007-10-17,2007-10-17,Em uso,8832,0.09,0.12,6005,2827,Taxa aplicada divergente
+SINT-498615,Outros,2024-03-29,2024-03-29,Em uso,6746,0.02,0.05,4587,2159,Taxa aplicada divergente
+SINT-498905,Outros,2001-07-18,2001-07-18,Em uso,12431,0.02,0.05,8452,3979,Taxa aplicada divergente
+SINT-000129,Edificações e benfeitorias,2009-12-02,,Em uso,11695,0.03,0.03,5722,5973,Bem em uso sem data disponível
+SINT-001913,Edificações e benfeitorias,2025-09-20,,Em uso,21535,0.03,0.03,10536,10999,Bem em uso sem data disponível
+SINT-001917,Edificações e benfeitorias,1999-06-10,,Em uso,40318,0.03,0.03,19725,20593,Bem em uso sem data disponível
+SINT-002007,Edificações e benfeitorias,2002-05-10,,Em uso,47153,0.03,0.03,23069,24084,Bem em uso sem data disponível
+SINT-002521,Edificações e benfeitorias,1995-05-31,,Em uso,25472,0.03,0.03,12462,13010,Bem em uso sem data disponível
+SINT-004390,Edificações e benfeitorias,2021-09-20,,Em uso,47391,0.03,0.03,23186,24205,Bem em uso sem data disponível
+SINT-004682,Edificações e benfeitorias,2009-11-11,,Em uso,18629,0.03,0.03,9114,9515,Bem em uso sem data disponível
+SINT-005144,Edificações e benfeitorias,2017-09-04,,Em uso,18203,0.03,0.03,8906,9297,Bem em uso sem data disponível
+SINT-005488,Edificações e benfeitorias,2019-05-27,,Em uso,18404,0.03,0.03,9004,9400,Bem em uso sem data disponível
+SINT-005582,Edificações e benfeitorias,2002-08-30,,Em uso,4789,0.03,0.03,2343,2446,Bem em uso sem data disponível
+SINT-006138,Edificações e benfeitorias,2020-11-29,,Em uso,19857,0.03,0.03,9715,10142,Bem em uso sem data disponível
+SINT-008024,Edificações e benfeitorias,2002-12-20,,Em uso,14316,0.03,0.03,7004,7312,Bem em uso sem data disponível
+SINT-008273,Edificações e benfeitorias,2002-12-02,,Em uso,32280,0.03,0.03,15793,16487,Bem em uso sem data disponível
+SINT-008304,Edificações e benfeitorias,2011-12-02,,Em uso,63518,0.03,0.03,31076,32442,Bem em uso sem data disponível
+SINT-008367,Edificações e benfeitorias,2008-02-28,,Em uso,45237,0.03,0.03,22132,23105,Bem em uso sem data disponível
+SINT-008454,Edificações e benfeitorias,2016-10-20,,Em uso,15289,0.03,0.03,7480,7809,Bem em uso sem data disponível
+SINT-008551,Edificações e benfeitorias,2025-05-09,,Em uso,4375,0.03,0.03,2140,2235,Bem em uso sem data disponível
+SINT-009005,Edificações e benfeitorias,1999-05-26,,Em uso,6781,0.03,0.03,3318,3463,Bem em uso sem data disponível
+SINT-009127,Edificações e benfeitorias,2013-07-11,,Em uso,13136,0.03,0.03,6427,6709,Bem em uso sem data disponível
+SINT-009130,Edificações e benfeitorias,2017-12-27,,Em uso,15786,0.03,0.03,7723,8063,Bem em uso sem data disponível
+SINT-009801,Edificações e benfeitorias,2008-12-24,,Em uso,27347,0.03,0.03,13379,13968,Bem em uso sem data disponível
+SINT-010440,Edificações e benfeitorias,1995-04-09,,Em uso,15045,0.03,0.03,7361,7684,Bem em uso sem data disponível
+SINT-011268,Edificações e benfeitorias,2018-01-04,,Em uso,38043,0.03,0.03,18612,19431,Bem em uso sem data disponível
+SINT-011689,Edificações e benfeitorias,2005-12-10,,Em uso,15807,0.03,0.03,7734,8073,Bem em uso sem data disponível
+SINT-012894,Edificações e benfeitorias,2005-01-23,,Em uso,5047,0.03,0.03,2469,2578,Bem em uso sem data disponível
+SINT-013877,Edificações e benfeitorias,1997-11-14,,Em uso,21608,0.03,0.03,10572,11036,Bem em uso sem data disponível
+SINT-015420,Edificações e benfeitorias,1999-10-29,,Em uso,56971,0.03,0.03,27873,29098,Bem em uso sem data disponível
+SINT-018915,Edificações e benfeitorias,2007-09-07,,Em uso,3611,0.03,0.03,1767,1844,Bem em uso sem data disponível
+SINT-019159,Edificações e benfeitorias,2004-07-03,,Em uso,8171,0.03,0.03,3998,4173,Bem em uso sem data disponível
+SINT-019407,Edificações e benfeitorias,2017-03-25,,Em uso,12219,0.03,0.03,5978,6241,Bem em uso sem data disponível
+SINT-019589,Edificações e benfeitorias,2012-09-29,,Em uso,23340,0.03,0.03,11419,11921,Bem em uso sem data disponível
+SINT-021456,Edificações e benfeitorias,2010-02-28,,Em uso,23588,0.03,0.03,11540,12048,Bem em uso sem data disponível
+SINT-021622,Edificações e benfeitorias,2000-04-21,,Em uso,66313,0.03,0.03,32443,33870,Bem em uso sem data disponível
+SINT-022761,Edificações e benfeitorias,2011-10-21,,Em uso,5541,0.03,0.03,2711,2830,Bem em uso sem data disponível
+SINT-023509,Edificações e benfeitorias,2018-11-02,,Em uso,6632,0.03,0.03,3245,3387,Bem em uso sem data disponível
+SINT-025001,Edificações e benfeitorias,2017-02-26,,Em uso,42287,0.03,0.03,20689,21598,Bem em uso sem data disponível
+SINT-026291,Edificações e benfeitorias,2006-02-15,,Em uso,85954,0.03,0.03,42053,43901,Bem em uso sem data disponível
+SINT-026529,Edificações e benfeitorias,2012-11-14,,Em uso,10115,0.03,0.03,4949,5166,Bem em uso sem data disponível
+SINT-026699,Edificações e benfeitorias,1995-09-25,,Em uso,10280,0.03,0.03,5029,5251,Bem em uso sem data disponível
+SINT-027478,Edificações e benfeitorias,2002-06-13,,Em uso,9367,0.03,0.03,4583,4784,Bem em uso sem data disponível
+SINT-027968,Edificações e benfeitorias,2004-08-11,,Em uso,5580,0.03,0.03,2730,2850,Bem em uso sem data disponível
+SINT-028110,Edificações e benfeitorias,2022-01-07,,Em uso,3246,0.03,0.03,1588,1658,Bem em uso sem data disponível
+SINT-028144,Edificações e benfeitorias,2020-10-02,,Em uso,68342,0.03,0.03,33436,34906,Bem em uso sem data disponível
+SINT-028809,Edificações e benfeitorias,1995-12-17,,Em uso,43203,0.03,0.03,21137,22066,Bem em uso sem data disponível
+SINT-029634,Edificações e benfeitorias,2021-06-28,,Em uso,48086,0.03,0.03,23526,24560,Bem em uso sem data disponível
+SINT-030581,Edificações e benfeitorias,2009-07-27,,Em uso,38409,0.03,0.03,18791,19618,Bem em uso sem data disponível
+SINT-030700,Edificações e benfeitorias,2007-03-27,,Em uso,19991,0.03,0.03,9781,10210,Bem em uso sem data disponível
+SINT-031201,Edificações e benfeitorias,2004-08-12,,Em uso,28989,0.03,0.03,14183,14806,Bem em uso sem data disponível
+SINT-031264,Edificações e benfeitorias,2009-04-07,,Em uso,25674,0.03,0.03,12561,13113,Bem em uso sem data disponível
+SINT-031286,Edificações e benfeitorias,2024-05-10,,Em uso,15368,0.03,0.03,7519,7849,Bem em uso sem data disponível
+SINT-031478,Edificações e benfeitorias,2023-07-06,,Em uso,18698,0.03,0.03,9148,9550,Bem em uso sem data disponível
+SINT-033476,Edificações e benfeitorias,2003-12-03,,Em uso,56327,0.03,0.03,27558,28769,Bem em uso sem data disponível
+SINT-034268,Edificações e benfeitorias,2008-01-17,,Em uso,6574,0.03,0.03,3216,3358,Bem em uso sem data disponível
+SINT-034554,Edificações e benfeitorias,2025-07-05,,Em uso,25766,0.03,0.03,12606,13160,Bem em uso sem data disponível
+SINT-034589,Edificações e benfeitorias,2018-08-24,,Em uso,5655,0.03,0.03,2767,2888,Bem em uso sem data disponível
+SINT-035375,Edificações e benfeitorias,2012-08-22,,Em uso,43568,0.03,0.03,21315,22253,Bem em uso sem data disponível
+SINT-035609,Edificações e benfeitorias,2010-12-13,,Em uso,22920,0.03,0.03,11214,11706,Bem em uso sem data disponível
+SINT-037035,Edificações e benfeitorias,2019-10-30,,Em uso,37120,0.03,0.03,18161,18959,Bem em uso sem data disponível
+SINT-037483,Edificações e benfeitorias,2001-02-26,,Em uso,8418,0.03,0.03,4118,4300,Bem em uso sem data disponível
+SINT-038874,Edificações e benfeitorias,1997-11-04,,Em uso,84479,0.03,0.03,41331,43148,Bem em uso sem data disponível
+SINT-039182,Edificações e benfeitorias,2005-02-08,,Em uso,16980,0.03,0.03,8307,8673,Bem em uso sem data disponível
+SINT-039309,Edificações e benfeitorias,2023-03-02,,Em uso,11140,0.03,0.03,5450,5690,Bem em uso sem data disponível
+SINT-040907,Edificações e benfeitorias,2017-11-07,,Em uso,87294,0.03,0.03,42708,44586,Bem em uso sem data disponível
+SINT-041929,Edificações e benfeitorias,2009-05-16,,Em uso,23635,0.03,0.03,11563,12072,Bem em uso sem data disponível
+SINT-042742,Edificações e benfeitorias,2010-08-15,,Em uso,26520,0.03,0.03,12975,13545,Bem em uso sem data disponível
+SINT-043154,Edificações e benfeitorias,2010-11-15,,Em uso,13336,0.03,0.03,6525,6811,Bem em uso sem data disponível
+SINT-043425,Edificações e benfeitorias,2018-09-20,,Em uso,22645,0.03,0.03,11079,11566,Bem em uso sem data disponível
+SINT-043827,Edificações e benfeitorias,2002-06-14,,Em uso,29029,0.03,0.03,14202,14827,Bem em uso sem data disponível
+SINT-044385,Edificações e benfeitorias,2023-08-24,,Em uso,8984,0.03,0.03,4395,4589,Bem em uso sem data disponível
+SINT-044941,Edificações e benfeitorias,2017-09-24,,Em uso,8256,0.03,0.03,4039,4217,Bem em uso sem data disponível
+SINT-045721,Edificações e benfeitorias,2007-02-24,,Em uso,10514,0.03,0.03,5144,5370,Bem em uso sem data disponível
+SINT-046160,Edificações e benfeitorias,2020-01-17,,Em uso,7673,0.03,0.03,3754,3919,Bem em uso sem data disponível
+SINT-047551,Edificações e benfeitorias,2015-11-29,,Em uso,17718,0.03,0.03,8668,9050,Bem em uso sem data disponível
+SINT-047986,Edificações e benfeitorias,2015-04-09,,Em uso,11045,0.03,0.03,5404,5641,Bem em uso sem data disponível
+SINT-049738,Edificações e benfeitorias,2002-12-11,,Em uso,32626,0.03,0.03,15962,16664,Bem em uso sem data disponível
+SINT-050882,Edificações e benfeitorias,1995-11-22,,Em uso,16592,0.03,0.03,8118,8474,Bem em uso sem data disponível
+SINT-051809,Edificações e benfeitorias,1998-01-11,,Em uso,24753,0.03,0.03,12110,12643,Bem em uso sem data disponível
+SINT-052204,Edificações e benfeitorias,2004-07-24,,Em uso,26790,0.03,0.03,13107,13683,Bem em uso sem data disponível
+SINT-053795,Edificações e benfeitorias,2001-05-13,,Em uso,18681,0.03,0.03,9140,9541,Bem em uso sem data disponível
+SINT-058072,Edificações e benfeitorias,2003-08-14,,Em uso,8721,0.03,0.03,4267,4454,Bem em uso sem data disponível
+SINT-058941,Edificações e benfeitorias,2014-01-17,,Em uso,24751,0.03,0.03,12109,12642,Bem em uso sem data disponível
+SINT-060171,Edificações e benfeitorias,2025-04-24,,Em uso,31808,0.03,0.03,15562,16246,Bem em uso sem data disponível
+SINT-061018,Edificações e benfeitorias,2004-05-12,,Em uso,15192,0.03,0.03,7433,7759,Bem em uso sem data disponível
+SINT-061502,Edificações e benfeitorias,2001-08-25,,Em uso,10923,0.03,0.03,5344,5579,Bem em uso sem data disponível
+SINT-061919,Edificações e benfeitorias,2004-01-02,,Em uso,30851,0.03,0.03,15094,15757,Bem em uso sem data disponível
+SINT-063003,Edificações e benfeitorias,2023-05-16,,Em uso,30716,0.03,0.03,15028,15688,Bem em uso sem data disponível
+SINT-063490,Edificações e benfeitorias,2002-10-15,,Em uso,61264,0.03,0.03,29973,31291,Bem em uso sem data disponível
+SINT-063931,Edificações e benfeitorias,2023-10-03,,Em uso,12323,0.03,0.03,6029,6294,Bem em uso sem data disponível
+SINT-065011,Edificações e benfeitorias,2017-11-24,,Em uso,61409,0.03,0.03,30044,31365,Bem em uso sem data disponível
+SINT-067468,Edificações e benfeitorias,2022-08-26,,Em uso,6006,0.03,0.03,2938,3068,Bem em uso sem data disponível
+SINT-067671,Edificações e benfeitorias,1998-04-19,,Em uso,89407,0.03,0.03,43742,45665,Bem em uso sem data disponível
+SINT-068107,Edificações e benfeitorias,2014-09-09,,Em uso,17295,0.03,0.03,8462,8833,Bem em uso sem data disponível
+SINT-068208,Edificações e benfeitorias,2017-05-24,,Em uso,13464,0.03,0.03,6587,6877,Bem em uso sem data disponível
+SINT-068302,Edificações e benfeitorias,1996-08-22,,Em uso,10123,0.03,0.03,4953,5170,Bem em uso sem data disponível
+SINT-068352,Edificações e benfeitorias,2017-01-06,,Em uso,7527,0.03,0.03,3683,3844,Bem em uso sem data disponível
+SINT-070378,Máquinas e equipamentos,1999-12-26,,Em uso,9276,0.04,0.04,6391,2885,Bem em uso sem data disponível
+SINT-071746,Máquinas e equipamentos,2024-12-29,,Em uso,44727,0.04,0.04,30816,13911,Bem em uso sem data disponível
+SINT-072425,Máquinas e equipamentos,2018-11-22,,Em uso,8356,0.04,0.04,5757,2599,Bem em uso sem data disponível
+SINT-072844,Máquinas e equipamentos,2017-11-22,,Em uso,26088,0.04,0.04,17974,8114,Bem em uso sem data disponível
+SINT-073000,Máquinas e equipamentos,2020-11-26,,Em uso,26839,0.04,0.04,18491,8348,Bem em uso sem data disponível
+SINT-074215,Máquinas e equipamentos,2017-01-12,,Em uso,20330,0.04,0.04,14007,6323,Bem em uso sem data disponível
+SINT-075297,Máquinas e equipamentos,2022-09-29,,Em uso,12920,0.04,0.04,8901,4019,Bem em uso sem data disponível
+SINT-078041,Máquinas e equipamentos,1997-03-11,,Em uso,17584,0.04,0.04,12115,5469,Bem em uso sem data disponível
+SINT-080039,Máquinas e equipamentos,2005-09-07,,Em uso,24598,0.04,0.04,16947,7651,Bem em uso sem data disponível
+SINT-080476,Máquinas e equipamentos,1997-12-19,,Em uso,54994,0.04,0.04,37889,17105,Bem em uso sem data disponível
+SINT-080792,Máquinas e equipamentos,1998-08-28,,Em uso,117124,0.04,0.04,80695,36429,Bem em uso sem data disponível
+SINT-080958,Máquinas e equipamentos,2012-04-12,,Em uso,11838,0.04,0.04,8156,3682,Bem em uso sem data disponível
+SINT-082100,Máquinas e equipamentos,2012-09-19,,Em uso,45251,0.04,0.04,31177,14074,Bem em uso sem data disponível
+SINT-083665,Máquinas e equipamentos,2015-10-31,,Em uso,23972,0.04,0.04,16516,7456,Bem em uso sem data disponível
+SINT-084307,Máquinas e equipamentos,2015-01-15,,Em uso,91572,0.04,0.04,63090,28482,Bem em uso sem data disponível
+SINT-084341,Máquinas e equipamentos,2003-05-06,,Em uso,20785,0.04,0.04,14320,6465,Bem em uso sem data disponível
+SINT-084489,Máquinas e equipamentos,2011-11-09,,Em uso,31747,0.04,0.04,21873,9874,Bem em uso sem data disponível
+SINT-084905,Máquinas e equipamentos,2021-02-08,,Em uso,5358,0.04,0.04,3692,1666,Bem em uso sem data disponível
+SINT-085136,Máquinas e equipamentos,2016-03-10,,Em uso,16418,0.04,0.04,11312,5106,Bem em uso sem data disponível
+SINT-087392,Máquinas e equipamentos,2024-09-17,,Em uso,37992,0.04,0.04,26175,11817,Bem em uso sem data disponível
+SINT-089624,Máquinas e equipamentos,2006-12-02,,Em uso,57821,0.04,0.04,39837,17984,Bem em uso sem data disponível
+SINT-091470,Máquinas e equipamentos,1997-05-26,,Em uso,39995,0.04,0.04,27555,12440,Bem em uso sem data disponível
+SINT-093351,Máquinas e equipamentos,2019-05-20,,Em uso,14751,0.04,0.04,10163,4588,Bem em uso sem data disponível
+SINT-094658,Máquinas e equipamentos,2007-04-12,,Em uso,33796,0.04,0.04,23284,10512,Bem em uso sem data disponível
+SINT-095240,Máquinas e equipamentos,2017-02-24,,Em uso,48946,0.04,0.04,33722,15224,Bem em uso sem data disponível
+SINT-096222,Máquinas e equipamentos,2000-06-06,,Em uso,23088,0.04,0.04,15907,7181,Bem em uso sem data disponível
+SINT-097349,Máquinas e equipamentos,1997-02-17,,Em uso,46942,0.04,0.04,32342,14600,Bem em uso sem data disponível
+SINT-097859,Máquinas e equipamentos,2024-10-30,,Em uso,12228,0.04,0.04,8425,3803,Bem em uso sem data disponível
+SINT-098650,Máquinas e equipamentos,2000-07-29,,Em uso,33090,0.04,0.04,22798,10292,Bem em uso sem data disponível
+SINT-098651,Máquinas e equipamentos,2022-03-05,,Em uso,77356,0.04,0.04,53296,24060,Bem em uso sem data disponível
+SINT-098662,Máquinas e equipamentos,2023-05-27,,Em uso,35598,0.04,0.04,24526,11072,Bem em uso sem data disponível
+SINT-101284,Máquinas e equipamentos,2009-04-27,,Em uso,6926,0.04,0.04,4772,2154,Bem em uso sem data disponível
+SINT-101314,Máquinas e equipamentos,2013-06-18,,Em uso,34373,0.04,0.04,23682,10691,Bem em uso sem data disponível
+SINT-103766,Máquinas e equipamentos,1998-05-05,,Em uso,41920,0.04,0.04,28882,13038,Bem em uso sem data disponível
+SINT-104025,Máquinas e equipamentos,1999-11-24,,Em uso,16081,0.04,0.04,11079,5002,Bem em uso sem data disponível
+SINT-104238,Máquinas e equipamentos,2020-10-13,,Em uso,20955,0.04,0.04,14437,6518,Bem em uso sem data disponível
+SINT-105486,Máquinas e equipamentos,2010-11-06,,Em uso,23789,0.04,0.04,16390,7399,Bem em uso sem data disponível
+SINT-106570,Máquinas e equipamentos,2015-04-23,,Em uso,29330,0.04,0.04,20208,9122,Bem em uso sem data disponível
+SINT-109557,Máquinas e equipamentos,2004-08-30,,Em uso,5079,0.04,0.04,3499,1580,Bem em uso sem data disponível
+SINT-109912,Máquinas e equipamentos,2021-03-25,,Em uso,14518,0.04,0.04,10002,4516,Bem em uso sem data disponível
+SINT-110605,Máquinas e equipamentos,2000-08-12,,Em uso,22415,0.04,0.04,15443,6972,Bem em uso sem data disponível
+SINT-111293,Máquinas e equipamentos,2001-12-03,,Em uso,56026,0.04,0.04,38600,17426,Bem em uso sem data disponível
+SINT-111345,Máquinas e equipamentos,2025-06-24,,Em uso,25007,0.04,0.04,17229,7778,Bem em uso sem data disponível
+SINT-112052,Máquinas e equipamentos,2011-01-31,,Em uso,21677,0.04,0.04,14935,6742,Bem em uso sem data disponível
+SINT-112912,Máquinas e equipamentos,2019-05-10,,Em uso,37941,0.04,0.04,26140,11801,Bem em uso sem data disponível
+SINT-114287,Máquinas e equipamentos,2015-04-24,,Em uso,67828,0.04,0.04,46731,21097,Bem em uso sem data disponível
+SINT-115952,Máquinas e equipamentos,2022-05-07,,Em uso,35311,0.04,0.04,24328,10983,Bem em uso sem data disponível
+SINT-116114,Máquinas e equipamentos,2021-09-11,,Em uso,213689,0.04,0.04,147225,66464,Bem em uso sem data disponível
+SINT-116336,Máquinas e equipamentos,2013-05-23,,Em uso,13223,0.04,0.04,9110,4113,Bem em uso sem data disponível
+SINT-118264,Máquinas e equipamentos,2006-11-16,,Em uso,17409,0.04,0.04,11994,5415,Bem em uso sem data disponível
+SINT-119362,Máquinas e equipamentos,2017-05-11,,Em uso,32100,0.04,0.04,22116,9984,Bem em uso sem data disponível
+SINT-119517,Máquinas e equipamentos,2005-07-29,,Em uso,33044,0.04,0.04,22766,10278,Bem em uso sem data disponível
+SINT-120653,Máquinas e equipamentos,1995-12-09,,Em uso,22320,0.04,0.04,15378,6942,Bem em uso sem data disponível
+SINT-123342,Máquinas e equipamentos,2015-02-25,,Em uso,24125,0.04,0.04,16621,7504,Bem em uso sem data disponível
+SINT-123800,Máquinas e equipamentos,2009-09-19,,Em uso,27546,0.04,0.04,18978,8568,Bem em uso sem data disponível
+SINT-123833,Máquinas e equipamentos,2020-01-25,,Em uso,19968,0.04,0.04,13757,6211,Bem em uso sem data disponível
+SINT-124224,Máquinas e equipamentos,2017-04-01,,Em uso,82274,0.04,0.04,56684,25590,Bem em uso sem data disponível
+SINT-126195,Máquinas e equipamentos,1998-03-30,,Em uso,23002,0.04,0.04,15848,7154,Bem em uso sem data disponível
+SINT-127328,Máquinas e equipamentos,2019-02-12,,Em uso,5365,0.04,0.04,3696,1669,Bem em uso sem data disponível
+SINT-128392,Máquinas e equipamentos,2024-10-01,,Em uso,41242,0.04,0.04,28415,12827,Bem em uso sem data disponível
+SINT-129237,Máquinas e equipamentos,2000-03-23,,Em uso,23337,0.04,0.04,16079,7258,Bem em uso sem data disponível
+SINT-129367,Máquinas e equipamentos,2024-04-14,,Em uso,17945,0.04,0.04,12364,5581,Bem em uso sem data disponível
+SINT-129444,Máquinas e equipamentos,2010-05-14,,Em uso,9278,0.04,0.04,6392,2886,Bem em uso sem data disponível
+SINT-131342,Máquinas e equipamentos,2005-06-09,,Em uso,17656,0.04,0.04,12164,5492,Bem em uso sem data disponível
+SINT-131621,Máquinas e equipamentos,1995-07-29,,Em uso,80280,0.04,0.04,55311,24969,Bem em uso sem data disponível
+SINT-132546,Máquinas e equipamentos,2015-11-27,,Em uso,20835,0.04,0.04,14355,6480,Bem em uso sem data disponível
+SINT-133649,Máquinas e equipamentos,2004-07-22,,Em uso,35218,0.04,0.04,24264,10954,Bem em uso sem data disponível
+SINT-134763,Máquinas e equipamentos,2010-10-11,,Em uso,27682,0.04,0.04,19072,8610,Bem em uso sem data disponível
+SINT-135495,Máquinas e equipamentos,2025-06-01,,Em uso,8750,0.04,0.04,6028,2722,Bem em uso sem data disponível
+SINT-135955,Máquinas e equipamentos,2004-05-01,,Em uso,7142,0.04,0.04,4921,2221,Bem em uso sem data disponível
+SINT-137308,Máquinas e equipamentos,2015-04-13,,Em uso,42189,0.04,0.04,29067,13122,Bem em uso sem data disponível
+SINT-138509,Máquinas e equipamentos,2010-05-01,,Em uso,47439,0.04,0.04,32684,14755,Bem em uso sem data disponível
+SINT-140105,Máquinas e equipamentos,2005-12-10,,Em uso,87010,0.04,0.04,59947,27063,Bem em uso sem data disponível
+SINT-142529,Máquinas e equipamentos,2008-12-11,,Em uso,15313,0.04,0.04,10550,4763,Bem em uso sem data disponível
+SINT-146431,Máquinas e equipamentos,2025-07-08,,Em uso,82001,0.04,0.04,56496,25505,Bem em uso sem data disponível
+SINT-147951,Máquinas e equipamentos,2009-11-18,,Em uso,28296,0.04,0.04,19495,8801,Bem em uso sem data disponível
+SINT-148485,Máquinas e equipamentos,1997-10-23,,Em uso,62145,0.04,0.04,42816,19329,Bem em uso sem data disponível
+SINT-149196,Máquinas e equipamentos,2000-12-28,,Em uso,36681,0.04,0.04,25272,11409,Bem em uso sem data disponível
+SINT-149204,Máquinas e equipamentos,2009-09-30,,Em uso,29446,0.04,0.04,20287,9159,Bem em uso sem data disponível
+SINT-152069,Máquinas e equipamentos,1998-07-18,,Em uso,21255,0.04,0.04,14644,6611,Bem em uso sem data disponível
+SINT-152378,Máquinas e equipamentos,2008-08-18,,Em uso,38767,0.04,0.04,26709,12058,Bem em uso sem data disponível
+SINT-152482,Máquinas e equipamentos,2000-04-27,,Em uso,77461,0.04,0.04,53368,24093,Bem em uso sem data disponível
+SINT-152860,Máquinas e equipamentos,2018-04-02,,Em uso,36186,0.04,0.04,24931,11255,Bem em uso sem data disponível
+SINT-154773,Máquinas e equipamentos,2000-03-01,,Em uso,13641,0.04,0.04,9398,4243,Bem em uso sem data disponível
+SINT-155305,Máquinas e equipamentos,2001-06-05,,Em uso,10234,0.04,0.04,7051,3183,Bem em uso sem data disponível
+SINT-155505,Máquinas e equipamentos,2003-10-10,,Em uso,33949,0.04,0.04,23390,10559,Bem em uso sem data disponível
+SINT-156914,Máquinas e equipamentos,2000-10-18,,Em uso,9282,0.04,0.04,6395,2887,Bem em uso sem data disponível
+SINT-157149,Máquinas e equipamentos,2020-08-23,,Em uso,16294,0.04,0.04,11226,5068,Bem em uso sem data disponível
+SINT-158128,Máquinas e equipamentos,2024-08-13,,Em uso,43927,0.04,0.04,30264,13663,Bem em uso sem data disponível
+SINT-160373,Máquinas e equipamentos,2014-02-18,,Em uso,227245,0.04,0.04,156565,70680,Bem em uso sem data disponível
+SINT-161276,Máquinas e equipamentos,2015-02-02,,Em uso,72812,0.04,0.04,50165,22647,Bem em uso sem data disponível
+SINT-161625,Máquinas e equipamentos,1998-11-12,,Em uso,9793,0.04,0.04,6747,3046,Bem em uso sem data disponível
+SINT-161811,Máquinas e equipamentos,2008-02-17,,Em uso,32419,0.04,0.04,22336,10083,Bem em uso sem data disponível
+SINT-162534,Máquinas e equipamentos,2011-07-09,,Em uso,12473,0.04,0.04,8594,3879,Bem em uso sem data disponível
+SINT-162540,Máquinas e equipamentos,1995-02-28,,Em uso,72903,0.04,0.04,50228,22675,Bem em uso sem data disponível
+SINT-165426,Máquinas e equipamentos,2015-03-23,,Em uso,81151,0.04,0.04,55911,25240,Bem em uso sem data disponível
+SINT-166257,Máquinas e equipamentos,1996-01-11,,Em uso,6739,0.04,0.04,4643,2096,Bem em uso sem data disponível
+SINT-167099,Máquinas e equipamentos,2022-04-30,,Em uso,30948,0.04,0.04,21322,9626,Bem em uso sem data disponível
+SINT-168848,Máquinas e equipamentos,1996-07-24,,Em uso,11598,0.04,0.04,7991,3607,Bem em uso sem data disponível
+SINT-169080,Máquinas e equipamentos,1996-09-24,,Em uso,43632,0.04,0.04,30061,13571,Bem em uso sem data disponível
+SINT-169254,Máquinas e equipamentos,2018-04-17,,Em uso,5903,0.04,0.04,4067,1836,Bem em uso sem data disponível
+SINT-169548,Máquinas e equipamentos,2012-07-29,,Em uso,12588,0.04,0.04,8673,3915,Bem em uso sem data disponível
+SINT-169829,Máquinas e equipamentos,2020-07-31,,Em uso,30550,0.04,0.04,21048,9502,Bem em uso sem data disponível
+SINT-170470,Máquinas e equipamentos,2001-02-18,,Em uso,5613,0.04,0.04,3867,1746,Bem em uso sem data disponível
+SINT-171144,Máquinas e equipamentos,2017-07-22,,Em uso,41829,0.04,0.04,28819,13010,Bem em uso sem data disponível
+SINT-171845,Máquinas e equipamentos,2021-02-14,,Em uso,57740,0.04,0.04,39781,17959,Bem em uso sem data disponível
+SINT-172598,Máquinas e equipamentos,2000-03-04,,Em uso,13752,0.04,0.04,9475,4277,Bem em uso sem data disponível
+SINT-173318,Máquinas e equipamentos,2006-12-29,,Em uso,61177,0.04,0.04,42149,19028,Bem em uso sem data disponível
+SINT-175470,Máquinas e equipamentos,2012-06-19,,Em uso,32641,0.04,0.04,22489,10152,Bem em uso sem data disponível
+SINT-176039,Máquinas e equipamentos,1998-06-15,,Em uso,58264,0.04,0.04,40142,18122,Bem em uso sem data disponível
+SINT-176992,Máquinas e equipamentos,2005-01-31,,Em uso,12088,0.04,0.04,8328,3760,Bem em uso sem data disponível
+SINT-177413,Máquinas e equipamentos,2001-10-13,,Em uso,19697,0.04,0.04,13571,6126,Bem em uso sem data disponível
+SINT-177623,Máquinas e equipamentos,2000-10-14,,Em uso,20097,0.04,0.04,13846,6251,Bem em uso sem data disponível
+SINT-178105,Máquinas e equipamentos,2020-06-07,,Em uso,93017,0.04,0.04,64086,28931,Bem em uso sem data disponível
+SINT-178632,Máquinas e equipamentos,2014-02-02,,Em uso,29774,0.04,0.04,20513,9261,Bem em uso sem data disponível
+SINT-179877,Máquinas e equipamentos,2014-12-10,,Em uso,24813,0.04,0.04,17095,7718,Bem em uso sem data disponível
+SINT-180277,Máquinas e equipamentos,2005-02-11,,Em uso,113720,0.04,0.04,78350,35370,Bem em uso sem data disponível
+SINT-184592,Máquinas e equipamentos,2025-08-07,,Em uso,25992,0.04,0.04,17908,8084,Bem em uso sem data disponível
+SINT-184799,Máquinas e equipamentos,2013-02-13,,Em uso,58516,0.04,0.04,40316,18200,Bem em uso sem data disponível
+SINT-185105,Máquinas e equipamentos,2024-08-09,,Em uso,12716,0.04,0.04,8761,3955,Bem em uso sem data disponível
+SINT-185323,Máquinas e equipamentos,2022-08-15,,Em uso,89890,0.04,0.04,61932,27958,Bem em uso sem data disponível
+SINT-188548,Máquinas e equipamentos,2007-08-14,,Em uso,24138,0.04,0.04,16630,7508,Bem em uso sem data disponível
+SINT-192767,Máquinas e equipamentos,2013-08-24,,Em uso,10206,0.04,0.04,7032,3174,Bem em uso sem data disponível
+SINT-194485,Máquinas e equipamentos,2017-04-06,,Em uso,16172,0.04,0.04,11142,5030,Bem em uso sem data disponível
+SINT-194691,Máquinas e equipamentos,2025-09-30,,Em uso,14011,0.04,0.04,9653,4358,Bem em uso sem data disponível
+SINT-195099,Máquinas e equipamentos,2002-11-21,,Em uso,1464,0.04,0.04,1009,455,Bem em uso sem data disponível
+SINT-195237,Máquinas e equipamentos,2014-09-05,,Em uso,12667,0.04,0.04,8727,3940,Bem em uso sem data disponível
+SINT-195857,Máquinas e equipamentos,2006-12-16,,Em uso,37135,0.04,0.04,25585,11550,Bem em uso sem data disponível
+SINT-197874,Máquinas e equipamentos,2024-04-12,,Em uso,84316,0.04,0.04,58091,26225,Bem em uso sem data disponível
+SINT-198002,Máquinas e equipamentos,2001-07-27,,Em uso,66413,0.04,0.04,45757,20656,Bem em uso sem data disponível
+SINT-198422,Máquinas e equipamentos,2005-07-31,,Em uso,24996,0.04,0.04,17222,7774,Bem em uso sem data disponível
+SINT-198622,Máquinas e equipamentos,2001-08-21,,Em uso,18023,0.04,0.04,12417,5606,Bem em uso sem data disponível
+SINT-198844,Máquinas e equipamentos,1998-10-13,,Em uso,11898,0.04,0.04,8197,3701,Bem em uso sem data disponível
+SINT-199101,Máquinas e equipamentos,2019-06-10,,Em uso,37873,0.04,0.04,26093,11780,Bem em uso sem data disponível
+SINT-199332,Máquinas e equipamentos,2008-11-30,,Em uso,20918,0.04,0.04,14412,6506,Bem em uso sem data disponível
+SINT-199438,Máquinas e equipamentos,2016-11-19,,Em uso,22982,0.04,0.04,15834,7148,Bem em uso sem data disponível
+SINT-200313,Máquinas e equipamentos,2022-09-06,,Em uso,44937,0.04,0.04,30960,13977,Bem em uso sem data disponível
+SINT-200548,Máquinas e equipamentos,1998-10-12,,Em uso,9237,0.04,0.04,6364,2873,Bem em uso sem data disponível
+SINT-201064,Máquinas e equipamentos,1996-12-14,,Em uso,31737,0.04,0.04,21866,9871,Bem em uso sem data disponível
+SINT-203719,Máquinas e equipamentos,2007-10-28,,Em uso,14263,0.04,0.04,9827,4436,Bem em uso sem data disponível
+SINT-204229,Máquinas e equipamentos,2011-04-03,,Em uso,7066,0.04,0.04,4868,2198,Bem em uso sem data disponível
+SINT-204252,Máquinas e equipamentos,2007-01-18,,Em uso,10519,0.04,0.04,7247,3272,Bem em uso sem data disponível
+SINT-206121,Máquinas e equipamentos,1995-08-04,,Em uso,44566,0.04,0.04,30705,13861,Bem em uso sem data disponível
+SINT-206274,Máquinas e equipamentos,2015-07-23,,Em uso,43060,0.04,0.04,29667,13393,Bem em uso sem data disponível
+SINT-207896,Máquinas e equipamentos,1996-07-31,,Em uso,24912,0.04,0.04,17164,7748,Bem em uso sem data disponível
+SINT-208263,Máquinas e equipamentos,2014-02-13,,Em uso,64017,0.04,0.04,44106,19911,Bem em uso sem data disponível
+SINT-209589,Máquinas e equipamentos,2016-10-12,,Em uso,13227,0.04,0.04,9113,4114,Bem em uso sem data disponível
+SINT-209679,Máquinas e equipamentos,1996-05-23,,Em uso,53281,0.04,0.04,36709,16572,Bem em uso sem data disponível
+SINT-210194,Máquinas e equipamentos,1995-07-06,,Em uso,12026,0.04,0.04,8286,3740,Bem em uso sem data disponível
+SINT-213161,Máquinas e equipamentos,2010-10-10,,Em uso,30972,0.04,0.04,21339,9633,Bem em uso sem data disponível
+SINT-213227,Máquinas e equipamentos,2007-07-28,,Em uso,15951,0.04,0.04,10990,4961,Bem em uso sem data disponível
+SINT-214113,Máquinas e equipamentos,2014-12-23,,Em uso,94208,0.04,0.04,64907,29301,Bem em uso sem data disponível
+SINT-214750,Máquinas e equipamentos,2024-10-01,,Em uso,36070,0.04,0.04,24851,11219,Bem em uso sem data disponível
+SINT-215421,Máquinas e equipamentos,2004-05-15,,Em uso,15270,0.04,0.04,10521,4749,Bem em uso sem data disponível
+SINT-216248,Máquinas e equipamentos,2022-06-20,,Em uso,54434,0.04,0.04,37503,16931,Bem em uso sem data disponível
+SINT-218279,Máquinas e equipamentos,2011-09-09,,Em uso,23112,0.04,0.04,15923,7189,Bem em uso sem data disponível
+SINT-219028,Máquinas e equipamentos,2002-12-21,,Em uso,41105,0.04,0.04,28320,12785,Bem em uso sem data disponível
+SINT-219273,Máquinas e equipamentos,2006-06-19,,Em uso,13521,0.04,0.04,9316,4205,Bem em uso sem data disponível
+SINT-219760,Máquinas e equipamentos,2015-03-05,,Em uso,5841,0.04,0.04,4024,1817,Bem em uso sem data disponível
+SINT-220389,Máquinas e equipamentos,2008-09-23,,Em uso,51049,0.04,0.04,35171,15878,Bem em uso sem data disponível
+SINT-221337,Máquinas e equipamentos,2007-07-06,,Em uso,9446,0.04,0.04,6508,2938,Bem em uso sem data disponível
+SINT-222134,Máquinas e equipamentos,2006-08-08,,Em uso,7075,0.04,0.04,4874,2201,Bem em uso sem data disponível
+SINT-222744,Máquinas e equipamentos,2000-08-22,,Em uso,64744,0.04,0.04,44607,20137,Bem em uso sem data disponível
+SINT-223314,Máquinas e equipamentos,2022-06-30,,Em uso,13511,0.04,0.04,9309,4202,Bem em uso sem data disponível
+SINT-223676,Máquinas e equipamentos,1996-04-02,,Em uso,19683,0.04,0.04,13561,6122,Bem em uso sem data disponível
+SINT-223932,Máquinas e equipamentos,2015-10-31,,Em uso,18706,0.04,0.04,12888,5818,Bem em uso sem data disponível
+SINT-225237,Máquinas e equipamentos,1999-06-20,,Em uso,11254,0.04,0.04,7754,3500,Bem em uso sem data disponível
+SINT-227059,Máquinas e equipamentos,2015-10-18,,Em uso,41006,0.04,0.04,28252,12754,Bem em uso sem data disponível
+SINT-228368,Máquinas e equipamentos,2025-04-17,,Em uso,23083,0.04,0.04,15904,7179,Bem em uso sem data disponível
+SINT-229479,Máquinas e equipamentos,2025-08-11,,Em uso,58036,0.04,0.04,39985,18051,Bem em uso sem data disponível
+SINT-231412,Máquinas e equipamentos,2022-06-24,,Em uso,25424,0.04,0.04,17516,7908,Bem em uso sem data disponível
+SINT-231921,Máquinas e equipamentos,2003-07-07,,Em uso,13735,0.04,0.04,9463,4272,Bem em uso sem data disponível
+SINT-232355,Máquinas e equipamentos,2018-07-23,,Em uso,20230,0.04,0.04,13938,6292,Bem em uso sem data disponível
+SINT-234236,Máquinas e equipamentos,2016-11-12,,Em uso,39018,0.04,0.04,26882,12136,Bem em uso sem data disponível
+SINT-235660,Máquinas e equipamentos,2024-06-08,,Em uso,39930,0.04,0.04,27511,12419,Bem em uso sem data disponível
+SINT-235861,Máquinas e equipamentos,1999-01-25,,Em uso,60024,0.04,0.04,41355,18669,Bem em uso sem data disponível
+SINT-236948,Máquinas e equipamentos,2014-12-10,,Em uso,19042,0.04,0.04,13119,5923,Bem em uso sem data disponível
+SINT-238158,Máquinas e equipamentos,2005-04-20,,Em uso,25205,0.04,0.04,17366,7839,Bem em uso sem data disponível
+SINT-239288,Máquinas e equipamentos,2007-03-23,,Em uso,24405,0.04,0.04,16814,7591,Bem em uso sem data disponível
+SINT-240727,Máquinas e equipamentos,2016-09-27,,Em uso,32640,0.04,0.04,22488,10152,Bem em uso sem data disponível
+SINT-242150,Máquinas e equipamentos,1995-02-01,,Em uso,74956,0.04,0.04,51642,23314,Bem em uso sem data disponível
+SINT-242712,Máquinas e equipamentos,2018-02-14,,Em uso,17878,0.04,0.04,12317,5561,Bem em uso sem data disponível
+SINT-242997,Máquinas e equipamentos,1997-07-04,,Em uso,22349,0.04,0.04,15398,6951,Bem em uso sem data disponível
+SINT-243446,Máquinas e equipamentos,1995-06-03,,Em uso,101261,0.04,0.04,69766,31495,Bem em uso sem data disponível
+SINT-243455,Máquinas e equipamentos,2003-09-19,,Em uso,9710,0.04,0.04,6690,3020,Bem em uso sem data disponível
+SINT-244914,Máquinas e equipamentos,2003-08-20,,Em uso,67448,0.04,0.04,46470,20978,Bem em uso sem data disponível
+SINT-245018,Máquinas e equipamentos,2007-03-03,,Em uso,9007,0.04,0.04,6206,2801,Bem em uso sem data disponível
+SINT-245318,Máquinas e equipamentos,1995-03-30,,Em uso,98090,0.04,0.04,67581,30509,Bem em uso sem data disponível
+SINT-246336,Máquinas e equipamentos,2000-08-04,,Em uso,51519,0.04,0.04,35495,16024,Bem em uso sem data disponível
+SINT-246855,Máquinas e equipamentos,2008-01-06,,Em uso,29037,0.04,0.04,20006,9031,Bem em uso sem data disponível
+SINT-247058,Máquinas e equipamentos,1995-08-25,,Em uso,17949,0.04,0.04,12366,5583,Bem em uso sem data disponível
+SINT-247338,Máquinas e equipamentos,2014-11-29,,Em uso,13095,0.04,0.04,9022,4073,Bem em uso sem data disponível
+SINT-248201,Máquinas e equipamentos,2023-03-03,,Em uso,49751,0.04,0.04,34277,15474,Bem em uso sem data disponível
+SINT-250914,Máquinas e equipamentos,2025-08-15,,Em uso,28412,0.04,0.04,19575,8837,Bem em uso sem data disponível
+SINT-251902,Máquinas e equipamentos,2010-07-30,,Em uso,32308,0.04,0.04,22259,10049,Bem em uso sem data disponível
+SINT-252570,Máquinas e equipamentos,1996-10-02,,Em uso,23110,0.04,0.04,15922,7188,Bem em uso sem data disponível
+SINT-252782,Máquinas e equipamentos,1995-06-26,,Em uso,49692,0.04,0.04,34236,15456,Bem em uso sem data disponível
+SINT-253592,Máquinas e equipamentos,2020-05-22,,Em uso,19671,0.04,0.04,13553,6118,Bem em uso sem data disponível
+SINT-253751,Máquinas e equipamentos,2025-11-04,,Em uso,61213,0.04,0.04,42174,19039,Bem em uso sem data disponível
+SINT-253875,Máquinas e equipamentos,2011-07-03,,Em uso,94276,0.04,0.04,64953,29323,Bem em uso sem data disponível
+SINT-255654,Máquinas e equipamentos,2008-10-27,,Em uso,14134,0.04,0.04,9738,4396,Bem em uso sem data disponível
+SINT-257253,Máquinas e equipamentos,2024-12-28,,Em uso,22037,0.04,0.04,15183,6854,Bem em uso sem data disponível
+SINT-258708,Máquinas e equipamentos,2009-06-16,,Em uso,22038,0.04,0.04,15184,6854,Bem em uso sem data disponível
+SINT-258830,Máquinas e equipamentos,2018-05-01,,Em uso,23898,0.04,0.04,16465,7433,Bem em uso sem data disponível
+SINT-260137,Máquinas e equipamentos,2008-01-27,,Em uso,57470,0.04,0.04,39595,17875,Bem em uso sem data disponível
+SINT-260444,Máquinas e equipamentos,2004-10-28,,Em uso,19368,0.04,0.04,13344,6024,Bem em uso sem data disponível
+SINT-261063,Máquinas e equipamentos,2005-02-02,,Em uso,28592,0.04,0.04,19699,8893,Bem em uso sem data disponível
+SINT-263763,Máquinas e equipamentos,2005-11-19,,Em uso,5142,0.04,0.04,3543,1599,Bem em uso sem data disponível
+SINT-264574,Máquinas e equipamentos,2004-09-10,,Em uso,16296,0.04,0.04,11227,5069,Bem em uso sem data disponível
+SINT-266040,Máquinas e equipamentos,2016-07-18,,Em uso,8079,0.04,0.04,5566,2513,Bem em uso sem data disponível
+SINT-267271,Máquinas e equipamentos,2022-01-22,,Em uso,39348,0.04,0.04,27110,12238,Bem em uso sem data disponível
+SINT-268998,Máquinas e equipamentos,2021-05-25,,Em uso,71286,0.04,0.04,49114,22172,Bem em uso sem data disponível
+SINT-269263,Máquinas e equipamentos,2025-04-12,,Em uso,6563,0.04,0.04,4522,2041,Bem em uso sem data disponível
+SINT-313449,Peças de reposição,2002-01-23,,Em uso,4195,0.12,0.12,2964,1231,Bem em uso sem data disponível
+SINT-313747,Peças de reposição,1997-03-30,,Em uso,14394,0.12,0.12,10169,4225,Bem em uso sem data disponível
+SINT-314352,Peças de reposição,2010-10-16,,Em uso,5242,0.12,0.12,3703,1539,Bem em uso sem data disponível
+SINT-316996,Peças de reposição,2018-06-24,,Em uso,4913,0.12,0.12,3471,1442,Bem em uso sem data disponível
+SINT-317505,Peças de reposição,1996-01-16,,Em uso,3516,0.12,0.12,2484,1032,Bem em uso sem data disponível
+SINT-318159,Peças de reposição,2023-07-01,,Em uso,2382,0.12,0.12,1683,699,Bem em uso sem data disponível
+SINT-319458,Peças de reposição,2002-04-30,,Em uso,554,0.12,0.12,391,163,Bem em uso sem data disponível
+SINT-321132,Peças de reposição,2001-02-10,,Em uso,4155,0.12,0.12,2935,1220,Bem em uso sem data disponível
+SINT-321387,Peças de reposição,2015-04-27,,Em uso,1945,0.12,0.12,1374,571,Bem em uso sem data disponível
+SINT-322002,Peças de reposição,2009-02-17,,Em uso,3255,0.12,0.12,2300,955,Bem em uso sem data disponível
+SINT-322761,Peças de reposição,2002-04-29,,Em uso,9916,0.12,0.12,7006,2910,Bem em uso sem data disponível
+SINT-323178,Peças de reposição,2023-10-05,,Em uso,3165,0.12,0.12,2236,929,Bem em uso sem data disponível
+SINT-325797,Peças de reposição,2013-11-01,,Em uso,1184,0.12,0.12,836,348,Bem em uso sem data disponível
+SINT-325908,Peças de reposição,2005-11-13,,Em uso,2532,0.12,0.12,1789,743,Bem em uso sem data disponível
+SINT-326108,Peças de reposição,2003-06-04,,Em uso,12332,0.12,0.12,8712,3620,Bem em uso sem data disponível
+SINT-327205,Peças de reposição,2010-07-01,,Em uso,3897,0.12,0.12,2753,1144,Bem em uso sem data disponível
+SINT-328330,Peças de reposição,2000-10-27,,Em uso,2318,0.12,0.12,1638,680,Bem em uso sem data disponível
+SINT-329749,Peças de reposição,1998-07-15,,Em uso,4374,0.12,0.12,3090,1284,Bem em uso sem data disponível
+SINT-330692,Peças de reposição,2016-02-02,,Em uso,4811,0.12,0.12,3399,1412,Bem em uso sem data disponível
+SINT-330994,Peças de reposição,1996-08-25,,Em uso,3658,0.12,0.12,2584,1074,Bem em uso sem data disponível
+SINT-332122,Peças de reposição,1997-12-10,,Em uso,1302,0.12,0.12,920,382,Bem em uso sem data disponível
+SINT-333262,Peças de reposição,2020-10-30,,Em uso,3614,0.12,0.12,2553,1061,Bem em uso sem data disponível
+SINT-333450,Peças de reposição,2012-03-04,,Em uso,1676,0.12,0.12,1184,492,Bem em uso sem data disponível
+SINT-334137,Peças de reposição,2004-05-01,,Em uso,1316,0.12,0.12,930,386,Bem em uso sem data disponível
+SINT-334521,Peças de reposição,2011-12-05,,Em uso,7130,0.12,0.12,5037,2093,Bem em uso sem data disponível
+SINT-334595,Peças de reposição,2000-12-15,,Em uso,4493,0.12,0.12,3174,1319,Bem em uso sem data disponível
+SINT-334855,Peças de reposição,2007-09-09,,Em uso,3034,0.12,0.12,2144,890,Bem em uso sem data disponível
+SINT-334892,Peças de reposição,2022-05-18,,Em uso,2641,0.12,0.12,1866,775,Bem em uso sem data disponível
+SINT-335251,Peças de reposição,2012-04-02,,Em uso,2583,0.12,0.12,1825,758,Bem em uso sem data disponível
+SINT-335585,Peças de reposição,2011-09-24,,Em uso,6531,0.12,0.12,4614,1917,Bem em uso sem data disponível
+SINT-337631,Peças de reposição,2018-12-05,,Em uso,1962,0.12,0.12,1386,576,Bem em uso sem data disponível
+SINT-338128,Peças de reposição,2001-02-17,,Em uso,9091,0.12,0.12,6423,2668,Bem em uso sem data disponível
+SINT-338428,Peças de reposição,2025-05-22,,Em uso,5957,0.12,0.12,4209,1748,Bem em uso sem data disponível
+SINT-339854,Peças de reposição,2003-11-12,,Em uso,4636,0.12,0.12,3275,1361,Bem em uso sem data disponível
+SINT-340108,Peças de reposição,2021-08-12,,Em uso,10726,0.12,0.12,7578,3148,Bem em uso sem data disponível
+SINT-340713,Peças de reposição,2021-06-22,,Em uso,2702,0.12,0.12,1909,793,Bem em uso sem data disponível
+SINT-342423,Peças de reposição,1997-06-26,,Em uso,4327,0.12,0.12,3057,1270,Bem em uso sem data disponível
+SINT-344268,Peças de reposição,2021-01-25,,Em uso,4864,0.12,0.12,3436,1428,Bem em uso sem data disponível
+SINT-345405,Peças de reposição,2012-04-09,,Em uso,1333,0.12,0.12,942,391,Bem em uso sem data disponível
+SINT-346932,Peças de reposição,2024-02-10,,Em uso,5812,0.12,0.12,4106,1706,Bem em uso sem data disponível
+SINT-348297,Peças de reposição,2002-09-30,,Em uso,14640,0.12,0.12,10343,4297,Bem em uso sem data disponível
+SINT-349349,Peças de reposição,2020-01-11,,Em uso,7417,0.12,0.12,5240,2177,Bem em uso sem data disponível
+SINT-349562,Peças de reposição,2012-11-03,,Em uso,636,0.12,0.12,449,187,Bem em uso sem data disponível
+SINT-350837,Peças de reposição,2024-10-03,,Em uso,2199,0.12,0.12,1554,645,Bem em uso sem data disponível
+SINT-354614,Peças de reposição,2009-08-10,,Em uso,2237,0.12,0.12,1580,657,Bem em uso sem data disponível
+SINT-354986,Peças de reposição,2008-06-10,,Em uso,960,0.12,0.12,678,282,Bem em uso sem data disponível
+SINT-355255,Peças de reposição,2020-04-27,,Em uso,859,0.12,0.12,607,252,Bem em uso sem data disponível
+SINT-355292,Peças de reposição,2004-11-28,,Em uso,19837,0.12,0.12,14015,5822,Bem em uso sem data disponível
+SINT-355638,Peças de reposição,2014-09-08,,Em uso,8729,0.12,0.12,6167,2562,Bem em uso sem data disponível
+SINT-357414,Peças de reposição,2023-11-08,,Em uso,8184,0.12,0.12,5782,2402,Bem em uso sem data disponível
+SINT-357920,Peças de reposição,2013-01-16,,Em uso,6161,0.12,0.12,4353,1808,Bem em uso sem data disponível
+SINT-359196,Peças de reposição,2012-10-01,,Em uso,10324,0.12,0.12,7294,3030,Bem em uso sem data disponível
+SINT-359537,Peças de reposição,2024-11-05,,Em uso,2481,0.12,0.12,1753,728,Bem em uso sem data disponível
+SINT-359869,Peças de reposição,2013-10-10,,Em uso,7161,0.12,0.12,5059,2102,Bem em uso sem data disponível
+SINT-360686,Peças de reposição,2006-04-22,,Em uso,2875,0.12,0.12,2031,844,Bem em uso sem data disponível
+SINT-361822,Peças de reposição,2002-02-18,,Em uso,6468,0.12,0.12,4570,1898,Bem em uso sem data disponível
+SINT-364861,Peças de reposição,2022-08-03,,Em uso,4587,0.12,0.12,3241,1346,Bem em uso sem data disponível
+SINT-366279,Peças de reposição,2005-12-04,,Em uso,3126,0.12,0.12,2209,917,Bem em uso sem data disponível
+SINT-366369,Peças de reposição,2011-10-21,,Em uso,2245,0.12,0.12,1586,659,Bem em uso sem data disponível
+SINT-367283,Peças de reposição,2008-06-19,,Em uso,2602,0.12,0.12,1838,764,Bem em uso sem data disponível
+SINT-368842,Peças de reposição,2003-06-05,,Em uso,2138,0.12,0.12,1510,628,Bem em uso sem data disponível
+SINT-371740,Peças de reposição,2002-04-23,,Em uso,2265,0.12,0.12,1600,665,Bem em uso sem data disponível
+SINT-371899,Peças de reposição,2009-07-26,,Em uso,2776,0.12,0.12,1961,815,Bem em uso sem data disponível
+SINT-372908,Peças de reposição,2005-03-07,,Em uso,30115,0.12,0.12,21276,8839,Bem em uso sem data disponível
+SINT-373636,Peças de reposição,2003-03-27,,Em uso,4126,0.12,0.12,2915,1211,Bem em uso sem data disponível
+SINT-374170,Peças de reposição,1996-02-10,,Em uso,4482,0.12,0.12,3167,1315,Bem em uso sem data disponível
+SINT-375191,Peças de reposição,1996-05-26,,Em uso,3191,0.12,0.12,2254,937,Bem em uso sem data disponível
+SINT-375308,Peças de reposição,2009-03-02,,Em uso,4148,0.12,0.12,2931,1217,Bem em uso sem data disponível
+SINT-377437,Peças de reposição,1997-01-01,,Em uso,3790,0.12,0.12,2678,1112,Bem em uso sem data disponível
+SINT-378357,Peças de reposição,2024-04-29,,Em uso,10478,0.12,0.12,7403,3075,Bem em uso sem data disponível
+SINT-378879,Peças de reposição,1997-04-15,,Em uso,4307,0.12,0.12,3043,1264,Bem em uso sem data disponível
+SINT-379286,Peças de reposição,2014-06-08,,Em uso,8931,0.12,0.12,6310,2621,Bem em uso sem data disponível
+SINT-379464,Peças de reposição,2002-02-17,,Em uso,3866,0.12,0.12,2731,1135,Bem em uso sem data disponível
+SINT-380801,Peças de reposição,2017-08-06,,Em uso,2721,0.12,0.12,1922,799,Bem em uso sem data disponível
+SINT-380977,Peças de reposição,2012-09-14,,Em uso,6722,0.12,0.12,4749,1973,Bem em uso sem data disponível
+SINT-381420,Ferramentas,1999-09-28,,Em uso,5019,0.07,0.07,4185,834,Bem em uso sem data disponível
+SINT-381450,Ferramentas,1995-09-30,,Em uso,3859,0.07,0.07,3218,641,Bem em uso sem data disponível
+SINT-382907,Ferramentas,2022-02-04,,Em uso,9924,0.07,0.07,8275,1649,Bem em uso sem data disponível
+SINT-383696,Ferramentas,1998-06-09,,Em uso,1053,0.07,0.07,878,175,Bem em uso sem data disponível
+SINT-384085,Ferramentas,2023-12-22,,Em uso,15331,0.07,0.07,12783,2548,Bem em uso sem data disponível
+SINT-386871,Ferramentas,2003-07-24,,Em uso,8403,0.07,0.07,7006,1397,Bem em uso sem data disponível
+SINT-388177,Ferramentas,2006-05-05,,Em uso,13710,0.07,0.07,11431,2279,Bem em uso sem data disponível
+SINT-389607,Ferramentas,2024-06-01,,Em uso,7515,0.07,0.07,6266,1249,Bem em uso sem data disponível
+SINT-390834,Ferramentas,2007-10-16,,Em uso,2292,0.07,0.07,1911,381,Bem em uso sem data disponível
+SINT-390888,Ferramentas,1997-11-08,,Em uso,5341,0.07,0.07,4453,888,Bem em uso sem data disponível
+SINT-391678,Ferramentas,2021-10-17,,Em uso,2557,0.07,0.07,2132,425,Bem em uso sem data disponível
+SINT-391880,Ferramentas,2021-12-31,,Em uso,5431,0.07,0.07,4528,903,Bem em uso sem data disponível
+SINT-393120,Ferramentas,1996-08-25,,Em uso,1388,0.07,0.07,1157,231,Bem em uso sem data disponível
+SINT-394128,Ferramentas,2018-11-18,,Em uso,4277,0.07,0.07,3566,711,Bem em uso sem data disponível
+SINT-394432,Ferramentas,2015-02-14,,Em uso,6830,0.07,0.07,5695,1135,Bem em uso sem data disponível
+SINT-395828,Ferramentas,2017-07-26,,Em uso,3886,0.07,0.07,3240,646,Bem em uso sem data disponível
+SINT-396516,Ferramentas,2014-12-18,,Em uso,3392,0.07,0.07,2828,564,Bem em uso sem data disponível
+SINT-396651,Ferramentas,2012-08-14,,Em uso,13584,0.07,0.07,11326,2258,Bem em uso sem data disponível
+SINT-396724,Ferramentas,2020-09-28,,Em uso,2117,0.07,0.07,1765,352,Bem em uso sem data disponível
+SINT-398512,Ferramentas,1997-01-22,,Em uso,18425,0.07,0.07,15363,3062,Bem em uso sem data disponível
+SINT-400240,Ferramentas,2016-10-30,,Em uso,6213,0.07,0.07,5180,1033,Bem em uso sem data disponível
+SINT-401044,Ferramentas,2005-03-25,,Em uso,1789,0.07,0.07,1492,297,Bem em uso sem data disponível
+SINT-402177,Ferramentas,2020-11-01,,Em uso,8622,0.07,0.07,7189,1433,Bem em uso sem data disponível
+SINT-405242,Ferramentas,2008-07-29,,Em uso,3394,0.07,0.07,2830,564,Bem em uso sem data disponível
+SINT-405322,Ferramentas,2000-10-14,,Em uso,7284,0.07,0.07,6073,1211,Bem em uso sem data disponível
+SINT-405799,Ferramentas,2022-03-23,,Em uso,5409,0.07,0.07,4510,899,Bem em uso sem data disponível
+SINT-406859,Ferramentas,2012-02-27,,Em uso,574,0.07,0.07,479,95,Bem em uso sem data disponível
+SINT-406892,Ferramentas,2019-09-24,,Em uso,2258,0.07,0.07,1883,375,Bem em uso sem data disponível
+SINT-407789,Ferramentas,2010-05-01,,Em uso,1270,0.07,0.07,1059,211,Bem em uso sem data disponível
+SINT-407977,Ferramentas,2016-11-17,,Em uso,1741,0.07,0.07,1452,289,Bem em uso sem data disponível
+SINT-409328,Ferramentas,1999-11-30,,Em uso,2057,0.07,0.07,1715,342,Bem em uso sem data disponível
+SINT-409931,Ferramentas,2012-08-06,,Em uso,9755,0.07,0.07,8134,1621,Bem em uso sem data disponível
+SINT-409980,Ferramentas,2021-04-12,,Em uso,14078,0.07,0.07,11738,2340,Bem em uso sem data disponível
+SINT-410022,Ferramentas,2002-01-03,,Em uso,1997,0.07,0.07,1665,332,Bem em uso sem data disponível
+SINT-410150,Ferramentas,2023-09-04,,Em uso,17819,0.07,0.07,14857,2962,Bem em uso sem data disponível
+SINT-410208,Ferramentas,2006-08-23,,Em uso,3065,0.07,0.07,2556,509,Bem em uso sem data disponível
+SINT-410498,Ferramentas,2024-10-28,,Em uso,36087,0.07,0.07,30089,5998,Bem em uso sem data disponível
+SINT-413581,Ferramentas,2018-08-28,,Em uso,11276,0.07,0.07,9402,1874,Bem em uso sem data disponível
+SINT-414635,Ferramentas,2012-06-02,,Em uso,6193,0.07,0.07,5164,1029,Bem em uso sem data disponível
+SINT-415501,Ferramentas,1997-04-07,,Em uso,2695,0.07,0.07,2247,448,Bem em uso sem data disponível
+SINT-415717,Ferramentas,2018-12-25,,Em uso,4367,0.07,0.07,3641,726,Bem em uso sem data disponível
+SINT-416012,Ferramentas,2005-05-04,,Em uso,7780,0.07,0.07,6487,1293,Bem em uso sem data disponível
+SINT-416489,Ferramentas,1997-02-16,,Em uso,10178,0.07,0.07,8486,1692,Bem em uso sem data disponível
+SINT-416676,Ferramentas,2010-12-06,,Em uso,5197,0.07,0.07,4333,864,Bem em uso sem data disponível
+SINT-417542,Ferramentas,2018-03-18,,Em uso,2332,0.07,0.07,1944,388,Bem em uso sem data disponível
+SINT-417667,Ferramentas,2009-09-12,,Em uso,7938,0.07,0.07,6619,1319,Bem em uso sem data disponível
+SINT-417949,Ferramentas,1995-10-31,,Em uso,21739,0.07,0.07,18126,3613,Bem em uso sem data disponível
+SINT-419507,Ferramentas,1997-04-02,,Em uso,7149,0.07,0.07,5961,1188,Bem em uso sem data disponível
+SINT-420493,Ferramentas,1995-04-09,,Em uso,4088,0.07,0.07,3409,679,Bem em uso sem data disponível
+SINT-421371,Outros,2001-12-29,,Em uso,2486,0.05,0.05,1690,796,Bem em uso sem data disponível
+SINT-421496,Outros,2012-05-19,,Em uso,1522,0.07,0.07,1035,487,Bem em uso sem data disponível
+SINT-423465,Outros,2001-11-10,,Em uso,1528,0.06,0.06,1039,489,Bem em uso sem data disponível
+SINT-427933,Outros,2023-09-10,,Em uso,5700,0.03,0.03,3875,1825,Bem em uso sem data disponível
+SINT-428470,Outros,2015-02-26,,Em uso,9144,0.03,0.03,6217,2927,Bem em uso sem data disponível
+SINT-430748,Outros,1997-06-21,,Em uso,3326,0.11,0.11,2261,1065,Bem em uso sem data disponível
+SINT-430930,Outros,2010-04-28,,Em uso,15754,0.05,0.05,10711,5043,Bem em uso sem data disponível
+SINT-431262,Outros,1996-11-23,,Em uso,10883,0.02,0.02,7399,3484,Bem em uso sem data disponível
+SINT-433622,Outros,2014-01-19,,Em uso,17570,0.11,0.11,11946,5624,Bem em uso sem data disponível
+SINT-435944,Outros,2009-05-20,,Em uso,4005,0.06,0.06,2723,1282,Bem em uso sem data disponível
+SINT-436073,Outros,2001-12-15,,Em uso,7907,0.02,0.02,5376,2531,Bem em uso sem data disponível
+SINT-436240,Outros,2003-06-02,,Em uso,6901,0.04,0.04,4692,2209,Bem em uso sem data disponível
+SINT-437166,Outros,2003-01-07,,Em uso,18689,0.03,0.03,12707,5982,Bem em uso sem data disponível
+SINT-438239,Outros,2001-03-06,,Em uso,3778,0.09,0.09,2569,1209,Bem em uso sem data disponível
+SINT-439613,Outros,2002-05-30,,Em uso,1111,0.08,0.08,755,356,Bem em uso sem data disponível
+SINT-439992,Outros,2024-08-13,,Em uso,2464,0.1,0.1,1675,789,Bem em uso sem data disponível
+SINT-440489,Outros,2016-06-25,,Em uso,7210,0.04,0.04,4902,2308,Bem em uso sem data disponível
+SINT-442341,Outros,1996-11-14,,Em uso,30537,0.04,0.04,20762,9775,Bem em uso sem data disponível
+SINT-442360,Outros,2023-03-09,,Em uso,1190,0.11,0.11,809,381,Bem em uso sem data disponível
+SINT-444730,Outros,2014-12-03,,Em uso,4396,0.08,0.08,2989,1407,Bem em uso sem data disponível
+SINT-444947,Outros,1997-11-30,,Em uso,846,0.07,0.07,575,271,Bem em uso sem data disponível
+SINT-447412,Outros,2002-10-29,,Em uso,4913,0.1,0.1,3340,1573,Bem em uso sem data disponível
+SINT-449044,Outros,2001-08-20,,Em uso,3133,0.02,0.02,2130,1003,Bem em uso sem data disponível
+SINT-449401,Outros,2019-06-24,,Em uso,7956,0.11,0.11,5409,2547,Bem em uso sem data disponível
+SINT-450779,Outros,2023-06-05,,Em uso,28975,0.08,0.08,19700,9275,Bem em uso sem data disponível
+SINT-450979,Outros,2023-06-19,,Em uso,4439,0.03,0.03,3018,1421,Bem em uso sem data disponível
+SINT-451757,Outros,2008-10-10,,Em uso,23052,0.04,0.04,15673,7379,Bem em uso sem data disponível
+SINT-451864,Outros,1997-12-15,,Em uso,3086,0.1,0.1,2098,988,Bem em uso sem data disponível
+SINT-452175,Outros,2023-12-27,,Em uso,3282,0.06,0.06,2231,1051,Bem em uso sem data disponível
+SINT-452468,Outros,2025-03-27,,Em uso,1209,0.1,0.1,822,387,Bem em uso sem data disponível
+SINT-453649,Outros,2025-11-01,,Em uso,5159,0.03,0.03,3508,1651,Bem em uso sem data disponível
+SINT-454009,Outros,1999-01-23,,Em uso,9843,0.08,0.08,6692,3151,Bem em uso sem data disponível
+SINT-454344,Outros,2013-01-16,,Em uso,6503,0.05,0.05,4421,2082,Bem em uso sem data disponível
+SINT-454936,Outros,2016-01-23,,Em uso,7707,0.03,0.03,5240,2467,Bem em uso sem data disponível
+SINT-456820,Outros,2005-03-21,,Em uso,7426,0.06,0.06,5049,2377,Bem em uso sem data disponível
+SINT-460064,Outros,2024-10-20,,Em uso,15235,0.04,0.04,10358,4877,Bem em uso sem data disponível
+SINT-460436,Outros,2009-01-13,,Em uso,16559,0.08,0.08,11259,5300,Bem em uso sem data disponível
+SINT-462412,Outros,2003-02-12,,Em uso,6127,0.11,0.11,4166,1961,Bem em uso sem data disponível
+SINT-463049,Outros,1996-08-15,,Em uso,5582,0.03,0.03,3795,1787,Bem em uso sem data disponível
+SINT-463145,Outros,2008-11-18,,Em uso,12238,0.09,0.09,8321,3917,Bem em uso sem data disponível
+SINT-465992,Outros,2020-02-28,,Em uso,3694,0.07,0.07,2512,1182,Bem em uso sem data disponível
+SINT-465996,Outros,2009-11-21,,Em uso,31056,0.06,0.06,21115,9941,Bem em uso sem data disponível
+SINT-466626,Outros,1995-10-26,,Em uso,2583,0.06,0.06,1756,827,Bem em uso sem data disponível
+SINT-468195,Outros,2010-09-14,,Em uso,3712,0.08,0.08,2524,1188,Bem em uso sem data disponível
+SINT-469887,Outros,2012-02-18,,Em uso,7112,0.02,0.02,4836,2276,Bem em uso sem data disponível
+SINT-470588,Outros,2010-04-23,,Em uso,4191,0.04,0.04,2849,1342,Bem em uso sem data disponível
+SINT-470899,Outros,2001-11-26,,Em uso,4869,0.11,0.11,3310,1559,Bem em uso sem data disponível
+SINT-471657,Outros,2023-01-17,,Em uso,2847,0.03,0.03,1936,911,Bem em uso sem data disponível
+SINT-473339,Outros,2000-12-21,,Em uso,5242,0.07,0.07,3564,1678,Bem em uso sem data disponível
+SINT-474620,Outros,2007-05-12,,Em uso,8623,0.03,0.03,5863,2760,Bem em uso sem data disponível
+SINT-477259,Outros,2017-07-16,,Em uso,2149,0.1,0.1,1461,688,Bem em uso sem data disponível
+SINT-478601,Outros,2023-05-14,,Em uso,7583,0.02,0.02,5156,2427,Bem em uso sem data disponível
+SINT-480637,Outros,2001-04-14,,Em uso,8866,0.11,0.11,6028,2838,Bem em uso sem data disponível
+SINT-483629,Outros,2008-12-06,,Em uso,6658,0.02,0.02,4527,2131,Bem em uso sem data disponível
+SINT-484666,Outros,2006-06-08,,Em uso,3323,0.09,0.09,2259,1064,Bem em uso sem data disponível
+SINT-485206,Outros,2008-01-25,,Em uso,4412,0.04,0.04,3000,1412,Bem em uso sem data disponível
+SINT-487989,Outros,2003-03-21,,Em uso,29396,0.05,0.05,19987,9409,Bem em uso sem data disponível
+SINT-488495,Outros,2005-11-24,,Em uso,11632,0.04,0.04,7909,3723,Bem em uso sem data disponível
+SINT-489987,Outros,1996-05-27,,Em uso,4571,0.08,0.08,3108,1463,Bem em uso sem data disponível
+SINT-490266,Outros,2015-05-09,,Em uso,877,0.03,0.03,596,281,Bem em uso sem data disponível
+SINT-493554,Outros,2001-06-21,,Em uso,1259,0.05,0.05,856,403,Bem em uso sem data disponível
+SINT-494207,Outros,2025-08-11,,Em uso,1059,0.04,0.04,720,339,Bem em uso sem data disponível
+SINT-496456,Outros,2011-01-26,,Em uso,3421,0.09,0.09,2326,1095,Bem em uso sem data disponível
+SINT-497497,Outros,2005-09-23,,Em uso,8586,0.05,0.05,5838,2748,Bem em uso sem data disponível
+SINT-497899,Outros,2021-10-26,,Em uso,8260,0.06,0.06,5616,2644,Bem em uso sem data disponível
+SINT-499026,Outros,2007-12-14,,Em uso,18037,0.08,0.08,12264,5773,Bem em uso sem data disponível
+SINT-499530,Outros,1995-02-09,,Em uso,3371,0.1,0.1,2292,1079,Bem em uso sem data disponível
+SINT-499806,Outros,2020-08-20,,Em uso,4388,0.11,0.11,2983,1405,Bem em uso sem data disponível
+SINT-271067,Obras em andamento,2021-05-25,2025-06-30,Em andamento,8069,0.0,0.0,0,8069,Obra em andamento com data preenchida
+SINT-271197,Obras em andamento,2016-11-28,2025-06-30,Em andamento,12275,0.0,0.0,0,12275,Obra em andamento com data preenchida
+SINT-271771,Obras em andamento,2007-06-18,2025-06-30,Em andamento,55705,0.0,0.0,0,55705,Obra em andamento com data preenchida
+SINT-272004,Obras em andamento,2000-10-01,2025-06-30,Em andamento,2426,0.0,0.0,0,2426,Obra em andamento com data preenchida
+SINT-272079,Obras em andamento,2025-02-12,2025-06-30,Em andamento,20083,0.0,0.0,0,20083,Obra em andamento com data preenchida
+SINT-272100,Obras em andamento,1998-04-27,2025-06-30,Em andamento,32730,0.0,0.0,0,32730,Obra em andamento com data preenchida
+SINT-272166,Obras em andamento,2016-10-14,2025-06-30,Em andamento,9886,0.0,0.0,0,9886,Obra em andamento com data preenchida
+SINT-272314,Obras em andamento,2011-11-23,2025-06-30,Em andamento,22135,0.0,0.0,0,22135,Obra em andamento com data preenchida
+SINT-272605,Obras em andamento,2024-09-22,2025-06-30,Em andamento,39943,0.0,0.0,0,39943,Obra em andamento com data preenchida
+SINT-272706,Obras em andamento,2023-07-09,2025-06-30,Em andamento,24126,0.0,0.0,0,24126,Obra em andamento com data preenchida
+SINT-272906,Obras em andamento,1995-01-06,2025-06-30,Em andamento,6592,0.0,0.0,0,6592,Obra em andamento com data preenchida
+SINT-273026,Obras em andamento,2015-03-27,2025-06-30,Em andamento,16133,0.0,0.0,0,16133,Obra em andamento com data preenchida
+SINT-273086,Obras em andamento,2013-09-27,2025-06-30,Em andamento,37868,0.0,0.0,0,37868,Obra em andamento com data preenchida
+SINT-273370,Obras em andamento,2017-09-04,2025-06-30,Em andamento,10505,0.0,0.0,0,10505,Obra em andamento com data preenchida
+SINT-273402,Obras em andamento,2021-07-03,2025-06-30,Em andamento,21182,0.0,0.0,0,21182,Obra em andamento com data preenchida
+SINT-273471,Obras em andamento,1999-10-03,2025-06-30,Em andamento,6175,0.0,0.0,0,6175,Obra em andamento com data preenchida
+SINT-273509,Obras em andamento,2019-12-09,2025-06-30,Em andamento,18140,0.0,0.0,0,18140,Obra em andamento com data preenchida
+SINT-273652,Obras em andamento,2012-11-15,2025-06-30,Em andamento,21978,0.0,0.0,0,21978,Obra em andamento com data preenchida
+SINT-273698,Obras em andamento,1999-08-28,2025-06-30,Em andamento,156586,0.0,0.0,0,156586,Obra em andamento com data preenchida
+SINT-273818,Obras em andamento,2000-02-11,2025-06-30,Em andamento,20851,0.0,0.0,0,20851,Obra em andamento com data preenchida
+SINT-273921,Obras em andamento,2018-06-27,2025-06-30,Em andamento,29825,0.0,0.0,0,29825,Obra em andamento com data preenchida
+SINT-273925,Obras em andamento,2006-06-17,2025-06-30,Em andamento,22396,0.0,0.0,0,22396,Obra em andamento com data preenchida
+SINT-273927,Obras em andamento,2006-12-21,2025-06-30,Em andamento,21112,0.0,0.0,0,21112,Obra em andamento com data preenchida
+SINT-273953,Obras em andamento,2023-11-09,2025-06-30,Em andamento,21062,0.0,0.0,0,21062,Obra em andamento com data preenchida
+SINT-274169,Obras em andamento,2020-12-04,2025-06-30,Em andamento,21279,0.0,0.0,0,21279,Obra em andamento com data preenchida
+SINT-274220,Obras em andamento,2001-05-31,2025-06-30,Em andamento,13842,0.0,0.0,0,13842,Obra em andamento com data preenchida
+SINT-274253,Obras em andamento,2023-05-07,2025-06-30,Em andamento,10519,0.0,0.0,0,10519,Obra em andamento com data preenchida
+SINT-274303,Obras em andamento,2021-03-03,2025-06-30,Em andamento,21992,0.0,0.0,0,21992,Obra em andamento com data preenchida
+SINT-274414,Obras em andamento,2013-09-23,2025-06-30,Em andamento,10249,0.0,0.0,0,10249,Obra em andamento com data preenchida
+SINT-274442,Obras em andamento,2001-07-24,2025-06-30,Em andamento,7774,0.0,0.0,0,7774,Obra em andamento com data preenchida
+SINT-274468,Obras em andamento,2023-08-15,2025-06-30,Em andamento,11795,0.0,0.0,0,11795,Obra em andamento com data preenchida
+SINT-274629,Obras em andamento,2011-11-27,2025-06-30,Em andamento,29068,0.0,0.0,0,29068,Obra em andamento com data preenchida
+SINT-274698,Obras em andamento,2005-11-19,2025-06-30,Em andamento,92067,0.0,0.0,0,92067,Obra em andamento com data preenchida
+SINT-274828,Obras em andamento,2024-08-06,2025-06-30,Em andamento,4009,0.0,0.0,0,4009,Obra em andamento com data preenchida
+SINT-274852,Obras em andamento,2006-12-17,2025-06-30,Em andamento,43006,0.0,0.0,0,43006,Obra em andamento com data preenchida
+SINT-274882,Obras em andamento,2010-09-28,2025-06-30,Em andamento,14999,0.0,0.0,0,14999,Obra em andamento com data preenchida
+SINT-274884,Obras em andamento,2000-11-12,2025-06-30,Em andamento,29262,0.0,0.0,0,29262,Obra em andamento com data preenchida
+SINT-274924,Obras em andamento,2008-12-18,2025-06-30,Em andamento,48327,0.0,0.0,0,48327,Obra em andamento com data preenchida
+SINT-275161,Obras em andamento,2013-03-13,2025-06-30,Em andamento,14912,0.0,0.0,0,14912,Obra em andamento com data preenchida
+SINT-275171,Obras em andamento,2010-03-20,2025-06-30,Em andamento,11181,0.0,0.0,0,11181,Obra em andamento com data preenchida
+SINT-275252,Obras em andamento,2013-04-30,2025-06-30,Em andamento,9825,0.0,0.0,0,9825,Obra em andamento com data preenchida
+SINT-275393,Obras em andamento,2013-11-28,2025-06-30,Em andamento,10163,0.0,0.0,0,10163,Obra em andamento com data preenchida
+SINT-275573,Obras em andamento,2015-02-26,2025-06-30,Em andamento,17393,0.0,0.0,0,17393,Obra em andamento com data preenchida
+SINT-275642,Obras em andamento,2017-06-24,2025-06-30,Em andamento,31161,0.0,0.0,0,31161,Obra em andamento com data preenchida
+SINT-275652,Obras em andamento,2000-01-02,2025-06-30,Em andamento,12223,0.0,0.0,0,12223,Obra em andamento com data preenchida
+SINT-275725,Obras em andamento,2015-04-10,2025-06-30,Em andamento,26007,0.0,0.0,0,26007,Obra em andamento com data preenchida
+SINT-275924,Obras em andamento,2001-05-01,2025-06-30,Em andamento,11320,0.0,0.0,0,11320,Obra em andamento com data preenchida
+SINT-275949,Obras em andamento,2018-07-08,2025-06-30,Em andamento,18009,0.0,0.0,0,18009,Obra em andamento com data preenchida
+SINT-276229,Obras em andamento,2018-02-02,2025-06-30,Em andamento,7442,0.0,0.0,0,7442,Obra em andamento com data preenchida
+SINT-276510,Obras em andamento,2013-04-19,2025-06-30,Em andamento,50668,0.0,0.0,0,50668,Obra em andamento com data preenchida
+SINT-276646,Obras em andamento,2007-09-10,2025-06-30,Em andamento,41497,0.0,0.0,0,41497,Obra em andamento com data preenchida
+SINT-276668,Obras em andamento,2014-07-14,2025-06-30,Em andamento,5708,0.0,0.0,0,5708,Obra em andamento com data preenchida
+SINT-276782,Obras em andamento,2025-03-23,2025-06-30,Em andamento,5579,0.0,0.0,0,5579,Obra em andamento com data preenchida
+SINT-277064,Obras em andamento,2000-07-07,2025-06-30,Em andamento,57508,0.0,0.0,0,57508,Obra em andamento com data preenchida
+SINT-277233,Obras em andamento,2014-06-10,2025-06-30,Em andamento,20400,0.0,0.0,0,20400,Obra em andamento com data preenchida
+SINT-277314,Obras em andamento,2002-08-02,2025-06-30,Em andamento,12974,0.0,0.0,0,12974,Obra em andamento com data preenchida
+SINT-277637,Obras em andamento,1999-12-03,2025-06-30,Em andamento,12951,0.0,0.0,0,12951,Obra em andamento com data preenchida
+SINT-277782,Obras em andamento,2023-12-11,2025-06-30,Em andamento,70246,0.0,0.0,0,70246,Obra em andamento com data preenchida
+SINT-277898,Obras em andamento,2025-03-05,2025-06-30,Em andamento,23906,0.0,0.0,0,23906,Obra em andamento com data preenchida
+SINT-278184,Obras em andamento,2020-08-22,2025-06-30,Em andamento,16415,0.0,0.0,0,16415,Obra em andamento com data preenchida
+SINT-278339,Obras em andamento,2008-03-11,2025-06-30,Em andamento,29595,0.0,0.0,0,29595,Obra em andamento com data preenchida
+SINT-278600,Obras em andamento,2018-04-15,2025-06-30,Em andamento,31135,0.0,0.0,0,31135,Obra em andamento com data preenchida
+SINT-278620,Obras em andamento,1995-05-04,2025-06-30,Em andamento,10498,0.0,0.0,0,10498,Obra em andamento com data preenchida
+SINT-279081,Obras em andamento,2017-12-09,2025-06-30,Em andamento,19373,0.0,0.0,0,19373,Obra em andamento com data preenchida
+SINT-279108,Obras em andamento,2016-01-17,2025-06-30,Em andamento,5587,0.0,0.0,0,5587,Obra em andamento com data preenchida
+SINT-279501,Obras em andamento,2011-07-26,2025-06-30,Em andamento,11261,0.0,0.0,0,11261,Obra em andamento com data preenchida
+SINT-279514,Obras em andamento,2020-06-28,2025-06-30,Em andamento,5161,0.0,0.0,0,5161,Obra em andamento com data preenchida
+SINT-279909,Obras em andamento,2003-09-18,2025-06-30,Em andamento,22203,0.0,0.0,0,22203,Obra em andamento com data preenchida
+SINT-279983,Obras em andamento,2016-10-10,2025-06-30,Em andamento,17297,0.0,0.0,0,17297,Obra em andamento com data preenchida
+SINT-280018,Obras em andamento,2006-09-23,2025-06-30,Em andamento,20283,0.0,0.0,0,20283,Obra em andamento com data preenchida
+SINT-280057,Obras em andamento,2017-10-21,2025-06-30,Em andamento,20000,0.0,0.0,0,20000,Obra em andamento com data preenchida
+SINT-280209,Obras em andamento,2009-10-10,2025-06-30,Em andamento,12904,0.0,0.0,0,12904,Obra em andamento com data preenchida
+SINT-280358,Obras em andamento,2016-05-12,2025-06-30,Em andamento,23076,0.0,0.0,0,23076,Obra em andamento com data preenchida
+SINT-280514,Obras em andamento,1996-04-20,2025-06-30,Em andamento,15507,0.0,0.0,0,15507,Obra em andamento com data preenchida
+SINT-280600,Obras em andamento,1999-05-02,2025-06-30,Em andamento,85068,0.0,0.0,0,85068,Obra em andamento com data preenchida
+SINT-280663,Obras em andamento,2020-01-18,2025-06-30,Em andamento,13324,0.0,0.0,0,13324,Obra em andamento com data preenchida
+SINT-280902,Obras em andamento,2000-11-02,2025-06-30,Em andamento,12005,0.0,0.0,0,12005,Obra em andamento com data preenchida
+SINT-280977,Obras em andamento,2009-04-05,2025-06-30,Em andamento,26625,0.0,0.0,0,26625,Obra em andamento com data preenchida
+SINT-281063,Obras em andamento,2023-04-23,2025-06-30,Em andamento,35091,0.0,0.0,0,35091,Obra em andamento com data preenchida
+SINT-281144,Obras em andamento,2006-05-24,2025-06-30,Em andamento,36795,0.0,0.0,0,36795,Obra em andamento com data preenchida
+SINT-281257,Obras em andamento,2000-08-30,2025-06-30,Em andamento,16134,0.0,0.0,0,16134,Obra em andamento com data preenchida
+SINT-281471,Obras em andamento,2021-07-27,2025-06-30,Em andamento,47999,0.0,0.0,0,47999,Obra em andamento com data preenchida
+SINT-281620,Obras em andamento,2016-04-16,2025-06-30,Em andamento,26887,0.0,0.0,0,26887,Obra em andamento com data preenchida
+SINT-281675,Obras em andamento,2014-05-26,2025-06-30,Em andamento,12433,0.0,0.0,0,12433,Obra em andamento com data preenchida
+SINT-281699,Obras em andamento,2024-05-21,2025-06-30,Em andamento,34416,0.0,0.0,0,34416,Obra em andamento com data preenchida
+SINT-281741,Obras em andamento,2019-12-10,2025-06-30,Em andamento,16935,0.0,0.0,0,16935,Obra em andamento com data preenchida
+SINT-281826,Obras em andamento,1996-04-23,2025-06-30,Em andamento,11930,0.0,0.0,0,11930,Obra em andamento com data preenchida
+SINT-281828,Obras em andamento,2017-06-10,2025-06-30,Em andamento,5889,0.0,0.0,0,5889,Obra em andamento com data preenchida
+SINT-282000,Obras em andamento,1996-08-29,2025-06-30,Em andamento,13808,0.0,0.0,0,13808,Obra em andamento com data preenchida
+SINT-282217,Obras em andamento,2002-12-19,2025-06-30,Em andamento,22114,0.0,0.0,0,22114,Obra em andamento com data preenchida
+SINT-282636,Obras em andamento,2005-11-10,2025-06-30,Em andamento,18882,0.0,0.0,0,18882,Obra em andamento com data preenchida
+SINT-282779,Obras em andamento,1996-01-17,2025-06-30,Em andamento,5231,0.0,0.0,0,5231,Obra em andamento com data preenchida
+SINT-282949,Obras em andamento,2014-07-06,2025-06-30,Em andamento,49400,0.0,0.0,0,49400,Obra em andamento com data preenchida
+SINT-282973,Obras em andamento,1995-12-01,2025-06-30,Em andamento,6756,0.0,0.0,0,6756,Obra em andamento com data preenchida
+SINT-283076,Obras em andamento,1995-09-06,2025-06-30,Em andamento,4315,0.0,0.0,0,4315,Obra em andamento com data preenchida
+SINT-283108,Obras em andamento,1999-03-12,2025-06-30,Em andamento,2977,0.0,0.0,0,2977,Obra em andamento com data preenchida
+SINT-283427,Obras em andamento,2019-06-04,2025-06-30,Em andamento,14908,0.0,0.0,0,14908,Obra em andamento com data preenchida
+SINT-283454,Obras em andamento,2022-12-31,2025-06-30,Em andamento,27741,0.0,0.0,0,27741,Obra em andamento com data preenchida
+SINT-283664,Obras em andamento,2024-01-18,2025-06-30,Em andamento,12004,0.0,0.0,0,12004,Obra em andamento com data preenchida
+SINT-283682,Obras em andamento,2002-07-26,2025-06-30,Em andamento,33337,0.0,0.0,0,33337,Obra em andamento com data preenchida
+SINT-283697,Obras em andamento,2004-03-17,2025-06-30,Em andamento,6285,0.0,0.0,0,6285,Obra em andamento com data preenchida
+SINT-283703,Obras em andamento,2014-06-18,2025-06-30,Em andamento,33522,0.0,0.0,0,33522,Obra em andamento com data preenchida
+SINT-283850,Obras em andamento,2016-09-22,2025-06-30,Em andamento,12868,0.0,0.0,0,12868,Obra em andamento com data preenchida
+SINT-283988,Obras em andamento,1995-05-21,2025-06-30,Em andamento,15417,0.0,0.0,0,15417,Obra em andamento com data preenchida
+SINT-284100,Obras em andamento,2021-06-01,2025-06-30,Em andamento,34149,0.0,0.0,0,34149,Obra em andamento com data preenchida
+SINT-284262,Obras em andamento,2004-06-04,2025-06-30,Em andamento,18345,0.0,0.0,0,18345,Obra em andamento com data preenchida
+SINT-284315,Obras em andamento,1996-11-15,2025-06-30,Em andamento,44090,0.0,0.0,0,44090,Obra em andamento com data preenchida
+SINT-284358,Obras em andamento,2025-07-19,2025-06-30,Em andamento,4855,0.0,0.0,0,4855,Obra em andamento com data preenchida
+SINT-284405,Obras em andamento,2013-02-28,2025-06-30,Em andamento,45182,0.0,0.0,0,45182,Obra em andamento com data preenchida
+SINT-284472,Obras em andamento,2011-12-28,2025-06-30,Em andamento,34803,0.0,0.0,0,34803,Obra em andamento com data preenchida
+SINT-284477,Obras em andamento,2000-09-19,2025-06-30,Em andamento,21679,0.0,0.0,0,21679,Obra em andamento com data preenchida
+SINT-284699,Obras em andamento,2019-11-17,2025-06-30,Em andamento,14991,0.0,0.0,0,14991,Obra em andamento com data preenchida
+SINT-284812,Obras em andamento,2012-01-05,2025-06-30,Em andamento,70063,0.0,0.0,0,70063,Obra em andamento com data preenchida
+SINT-284891,Obras em andamento,2004-08-09,2025-06-30,Em andamento,15303,0.0,0.0,0,15303,Obra em andamento com data preenchida
+SINT-284919,Obras em andamento,2012-08-23,2025-06-30,Em andamento,14035,0.0,0.0,0,14035,Obra em andamento com data preenchida
+SINT-284968,Obras em andamento,1997-03-31,2025-06-30,Em andamento,13273,0.0,0.0,0,13273,Obra em andamento com data preenchida
+SINT-285171,Obras em andamento,2016-04-03,2025-06-30,Em andamento,7974,0.0,0.0,0,7974,Obra em andamento com data preenchida
+SINT-285410,Obras em andamento,2011-05-11,2025-06-30,Em andamento,6560,0.0,0.0,0,6560,Obra em andamento com data preenchida
+SINT-285421,Obras em andamento,2015-12-15,2025-06-30,Em andamento,25328,0.0,0.0,0,25328,Obra em andamento com data preenchida
+SINT-285565,Obras em andamento,2006-08-26,2025-06-30,Em andamento,15872,0.0,0.0,0,15872,Obra em andamento com data preenchida
+SINT-285696,Obras em andamento,2021-09-12,2025-06-30,Em andamento,20783,0.0,0.0,0,20783,Obra em andamento com data preenchida
+SINT-285893,Obras em andamento,2023-07-18,2025-06-30,Em andamento,25430,0.0,0.0,0,25430,Obra em andamento com data preenchida
+SINT-286155,Obras em andamento,2016-06-09,2025-06-30,Em andamento,41145,0.0,0.0,0,41145,Obra em andamento com data preenchida
+SINT-286249,Obras em andamento,2008-08-13,2025-06-30,Em andamento,10045,0.0,0.0,0,10045,Obra em andamento com data preenchida
+SINT-286370,Obras em andamento,2014-09-27,2025-06-30,Em andamento,21729,0.0,0.0,0,21729,Obra em andamento com data preenchida
+SINT-286575,Obras em andamento,1999-09-17,2025-06-30,Em andamento,43830,0.0,0.0,0,43830,Obra em andamento com data preenchida
+SINT-286758,Obras em andamento,2012-04-10,2025-06-30,Em andamento,17522,0.0,0.0,0,17522,Obra em andamento com data preenchida
+SINT-286953,Obras em andamento,2020-08-16,2025-06-30,Em andamento,62685,0.0,0.0,0,62685,Obra em andamento com data preenchida
+SINT-287349,Obras em andamento,2024-08-20,2025-06-30,Em andamento,71115,0.0,0.0,0,71115,Obra em andamento com data preenchida
+SINT-287374,Obras em andamento,2011-01-07,2025-06-30,Em andamento,79750,0.0,0.0,0,79750,Obra em andamento com data preenchida
+SINT-287468,Obras em andamento,2011-03-31,2025-06-30,Em andamento,11738,0.0,0.0,0,11738,Obra em andamento com data preenchida
+SINT-287489,Obras em andamento,2024-02-16,2025-06-30,Em andamento,22287,0.0,0.0,0,22287,Obra em andamento com data preenchida
+SINT-287496,Obras em andamento,2000-05-23,2025-06-30,Em andamento,22642,0.0,0.0,0,22642,Obra em andamento com data preenchida
+SINT-287533,Obras em andamento,1995-09-28,2025-06-30,Em andamento,15616,0.0,0.0,0,15616,Obra em andamento com data preenchida
+SINT-287629,Obras em andamento,2014-10-05,2025-06-30,Em andamento,27077,0.0,0.0,0,27077,Obra em andamento com data preenchida
+SINT-287745,Obras em andamento,1995-08-23,2025-06-30,Em andamento,21691,0.0,0.0,0,21691,Obra em andamento com data preenchida
+SINT-287746,Obras em andamento,2007-02-23,2025-06-30,Em andamento,22248,0.0,0.0,0,22248,Obra em andamento com data preenchida
+SINT-287824,Obras em andamento,2005-06-09,2025-06-30,Em andamento,6763,0.0,0.0,0,6763,Obra em andamento com data preenchida
+SINT-287835,Obras em andamento,1997-05-08,2025-06-30,Em andamento,95576,0.0,0.0,0,95576,Obra em andamento com data preenchida
+SINT-287846,Obras em andamento,2002-06-05,2025-06-30,Em andamento,11701,0.0,0.0,0,11701,Obra em andamento com data preenchida
+SINT-287975,Obras em andamento,2011-04-24,2025-06-30,Em andamento,6994,0.0,0.0,0,6994,Obra em andamento com data preenchida
+SINT-288044,Obras em andamento,2022-10-21,2025-06-30,Em andamento,1615,0.0,0.0,0,1615,Obra em andamento com data preenchida
+SINT-288296,Obras em andamento,1995-10-26,2025-06-30,Em andamento,14223,0.0,0.0,0,14223,Obra em andamento com data preenchida
+SINT-288424,Obras em andamento,1999-07-07,2025-06-30,Em andamento,24874,0.0,0.0,0,24874,Obra em andamento com data preenchida
+SINT-288476,Obras em andamento,1997-08-04,2025-06-30,Em andamento,6403,0.0,0.0,0,6403,Obra em andamento com data preenchida
+SINT-288806,Obras em andamento,2000-08-28,2025-06-30,Em andamento,37245,0.0,0.0,0,37245,Obra em andamento com data preenchida
+SINT-288830,Obras em andamento,2004-01-03,2025-06-30,Em andamento,30685,0.0,0.0,0,30685,Obra em andamento com data preenchida
+SINT-288841,Obras em andamento,2021-05-12,2025-06-30,Em andamento,21618,0.0,0.0,0,21618,Obra em andamento com data preenchida
+SINT-288987,Obras em andamento,2011-03-24,2025-06-30,Em andamento,38611,0.0,0.0,0,38611,Obra em andamento com data preenchida
+SINT-289075,Obras em andamento,2010-06-18,2025-06-30,Em andamento,39148,0.0,0.0,0,39148,Obra em andamento com data preenchida
+SINT-289250,Obras em andamento,2009-05-23,2025-06-30,Em andamento,16848,0.0,0.0,0,16848,Obra em andamento com data preenchida
+SINT-289468,Obras em andamento,2011-12-26,2025-06-30,Em andamento,25915,0.0,0.0,0,25915,Obra em andamento com data preenchida
+SINT-289500,Obras em andamento,2015-04-18,2025-06-30,Em andamento,21117,0.0,0.0,0,21117,Obra em andamento com data preenchida
+SINT-289694,Obras em andamento,2007-01-02,2025-06-30,Em andamento,6333,0.0,0.0,0,6333,Obra em andamento com data preenchida
+SINT-289793,Obras em andamento,2019-07-27,2025-06-30,Em andamento,8240,0.0,0.0,0,8240,Obra em andamento com data preenchida
+SINT-289860,Obras em andamento,2021-10-11,2025-06-30,Em andamento,5768,0.0,0.0,0,5768,Obra em andamento com data preenchida
+SINT-289934,Obras em andamento,2023-10-15,2025-06-30,Em andamento,9036,0.0,0.0,0,9036,Obra em andamento com data preenchida
+SINT-289957,Obras em andamento,2023-12-18,2025-06-30,Em andamento,24354,0.0,0.0,0,24354,Obra em andamento com data preenchida
+SINT-290009,Obras em andamento,2002-11-01,2025-06-30,Em andamento,31128,0.0,0.0,0,31128,Obra em andamento com data preenchida
+SINT-290022,Obras em andamento,2004-04-03,2025-06-30,Em andamento,57370,0.0,0.0,0,57370,Obra em andamento com data preenchida
+SINT-290719,Obras em andamento,2002-05-13,2025-06-30,Em andamento,7781,0.0,0.0,0,7781,Obra em andamento com data preenchida
+SINT-290824,Obras em andamento,1995-08-29,2025-06-30,Em andamento,22462,0.0,0.0,0,22462,Obra em andamento com data preenchida
+SINT-291033,Obras em andamento,2007-05-12,2025-06-30,Em andamento,21501,0.0,0.0,0,21501,Obra em andamento com data preenchida
+SINT-291310,Obras em andamento,2017-02-24,2025-06-30,Em andamento,16624,0.0,0.0,0,16624,Obra em andamento com data preenchida
+SINT-291807,Obras em andamento,2020-10-13,2025-06-30,Em andamento,6950,0.0,0.0,0,6950,Obra em andamento com data preenchida
+SINT-291837,Obras em andamento,2007-08-30,2025-06-30,Em andamento,19655,0.0,0.0,0,19655,Obra em andamento com data preenchida
+SINT-292001,Obras em andamento,2016-02-02,2025-06-30,Em andamento,6655,0.0,0.0,0,6655,Obra em andamento com data preenchida
+SINT-292048,Obras em andamento,2020-01-16,2025-06-30,Em andamento,16291,0.0,0.0,0,16291,Obra em andamento com data preenchida
+SINT-292051,Obras em andamento,2007-11-17,2025-06-30,Em andamento,24857,0.0,0.0,0,24857,Obra em andamento com data preenchida
+SINT-292264,Obras em andamento,2023-04-16,2025-06-30,Em andamento,6347,0.0,0.0,0,6347,Obra em andamento com data preenchida
+SINT-292367,Obras em andamento,2013-01-20,2025-06-30,Em andamento,16555,0.0,0.0,0,16555,Obra em andamento com data preenchida
+SINT-292538,Obras em andamento,2007-08-01,2025-06-30,Em andamento,6135,0.0,0.0,0,6135,Obra em andamento com data preenchida
+SINT-292583,Obras em andamento,2021-11-13,2025-06-30,Em andamento,13879,0.0,0.0,0,13879,Obra em andamento com data preenchida
+SINT-292701,Obras em andamento,2008-05-18,2025-06-30,Em andamento,52748,0.0,0.0,0,52748,Obra em andamento com data preenchida
+SINT-292704,Obras em andamento,1998-06-10,2025-06-30,Em andamento,27849,0.0,0.0,0,27849,Obra em andamento com data preenchida
+SINT-292783,Obras em andamento,2001-10-01,2025-06-30,Em andamento,5472,0.0,0.0,0,5472,Obra em andamento com data preenchida
+SINT-292922,Obras em andamento,1996-07-17,2025-06-30,Em andamento,13017,0.0,0.0,0,13017,Obra em andamento com data preenchida
+SINT-292928,Obras em andamento,2023-05-11,2025-06-30,Em andamento,7863,0.0,0.0,0,7863,Obra em andamento com data preenchida
+SINT-292942,Obras em andamento,2004-08-17,2025-06-30,Em andamento,9555,0.0,0.0,0,9555,Obra em andamento com data preenchida
+SINT-292963,Obras em andamento,2017-04-01,2025-06-30,Em andamento,13295,0.0,0.0,0,13295,Obra em andamento com data preenchida
+SINT-293067,Obras em andamento,2010-05-21,2025-06-30,Em andamento,53464,0.0,0.0,0,53464,Obra em andamento com data preenchida
+SINT-293165,Obras em andamento,1996-02-13,2025-06-30,Em andamento,54240,0.0,0.0,0,54240,Obra em andamento com data preenchida
+SINT-293225,Obras em andamento,2000-07-20,2025-06-30,Em andamento,15238,0.0,0.0,0,15238,Obra em andamento com data preenchida
+SINT-293444,Obras em andamento,2003-10-06,2025-06-30,Em andamento,17778,0.0,0.0,0,17778,Obra em andamento com data preenchida
+SINT-293584,Obras em andamento,2004-08-25,2025-06-30,Em andamento,11346,0.0,0.0,0,11346,Obra em andamento com data preenchida
+SINT-293796,Obras em andamento,1995-05-27,2025-06-30,Em andamento,29245,0.0,0.0,0,29245,Obra em andamento com data preenchida
+SINT-294043,Obras em andamento,2005-10-30,2025-06-30,Em andamento,13605,0.0,0.0,0,13605,Obra em andamento com data preenchida
+SINT-294331,Obras em andamento,2001-04-04,2025-06-30,Em andamento,31563,0.0,0.0,0,31563,Obra em andamento com data preenchida
+SINT-294573,Obras em andamento,2025-04-24,2025-06-30,Em andamento,11923,0.0,0.0,0,11923,Obra em andamento com data preenchida
+SINT-294585,Obras em andamento,2012-09-11,2025-06-30,Em andamento,110519,0.0,0.0,0,110519,Obra em andamento com data preenchida
+SINT-294711,Obras em andamento,2005-10-05,2025-06-30,Em andamento,26809,0.0,0.0,0,26809,Obra em andamento com data preenchida
+SINT-294997,Obras em andamento,2013-03-08,2025-06-30,Em andamento,23767,0.0,0.0,0,23767,Obra em andamento com data preenchida
+SINT-295267,Obras em andamento,2003-03-23,2025-06-30,Em andamento,36271,0.0,0.0,0,36271,Obra em andamento com data preenchida
+SINT-295370,Obras em andamento,2007-04-02,2025-06-30,Em andamento,33695,0.0,0.0,0,33695,Obra em andamento com data preenchida
+SINT-295985,Obras em andamento,2012-02-19,2025-06-30,Em andamento,18177,0.0,0.0,0,18177,Obra em andamento com data preenchida
+SINT-296112,Obras em andamento,2013-05-15,2025-06-30,Em andamento,13488,0.0,0.0,0,13488,Obra em andamento com data preenchida
+SINT-296149,Obras em andamento,1995-06-20,2025-06-30,Em andamento,20972,0.0,0.0,0,20972,Obra em andamento com data preenchida
+SINT-296193,Obras em andamento,2003-01-07,2025-06-30,Em andamento,4738,0.0,0.0,0,4738,Obra em andamento com data preenchida
+SINT-296275,Obras em andamento,2002-08-21,2025-06-30,Em andamento,123221,0.0,0.0,0,123221,Obra em andamento com data preenchida
+SINT-296656,Obras em andamento,2014-02-12,2025-06-30,Em andamento,21822,0.0,0.0,0,21822,Obra em andamento com data preenchida
+SINT-297029,Obras em andamento,2022-12-11,2025-06-30,Em andamento,12202,0.0,0.0,0,12202,Obra em andamento com data preenchida
+SINT-297070,Obras em andamento,2003-09-07,2025-06-30,Em andamento,13160,0.0,0.0,0,13160,Obra em andamento com data preenchida
+SINT-297169,Obras em andamento,2020-09-14,2025-06-30,Em andamento,18051,0.0,0.0,0,18051,Obra em andamento com data preenchida
+SINT-297229,Obras em andamento,2015-10-12,2025-06-30,Em andamento,26608,0.0,0.0,0,26608,Obra em andamento com data preenchida
+SINT-297265,Obras em andamento,2001-07-31,2025-06-30,Em andamento,4618,0.0,0.0,0,4618,Obra em andamento com data preenchida
+SINT-297557,Obras em andamento,2017-08-01,2025-06-30,Em andamento,50006,0.0,0.0,0,50006,Obra em andamento com data preenchida
+SINT-297601,Obras em andamento,2015-03-10,2025-06-30,Em andamento,10798,0.0,0.0,0,10798,Obra em andamento com data preenchida
+SINT-297609,Obras em andamento,1999-11-02,2025-06-30,Em andamento,8107,0.0,0.0,0,8107,Obra em andamento com data preenchida
+SINT-297755,Obras em andamento,2019-11-27,2025-06-30,Em andamento,9017,0.0,0.0,0,9017,Obra em andamento com data preenchida
+SINT-297769,Obras em andamento,2003-07-16,2025-06-30,Em andamento,4311,0.0,0.0,0,4311,Obra em andamento com data preenchida
+SINT-297823,Obras em andamento,2004-12-20,2025-06-30,Em andamento,18442,0.0,0.0,0,18442,Obra em andamento com data preenchida
+SINT-298414,Obras em andamento,2000-06-07,2025-06-30,Em andamento,67733,0.0,0.0,0,67733,Obra em andamento com data preenchida
+SINT-298512,Obras em andamento,1995-06-13,2025-06-30,Em andamento,11781,0.0,0.0,0,11781,Obra em andamento com data preenchida
+SINT-298650,Obras em andamento,1995-12-09,2025-06-30,Em andamento,16513,0.0,0.0,0,16513,Obra em andamento com data preenchida
+SINT-298807,Obras em andamento,2010-05-13,2025-06-30,Em andamento,17878,0.0,0.0,0,17878,Obra em andamento com data preenchida
+SINT-298937,Obras em andamento,2008-12-16,2025-06-30,Em andamento,15679,0.0,0.0,0,15679,Obra em andamento com data preenchida
+SINT-299511,Obras em andamento,2018-06-29,2025-06-30,Em andamento,34433,0.0,0.0,0,34433,Obra em andamento com data preenchida
+SINT-299535,Obras em andamento,1995-06-06,2025-06-30,Em andamento,7504,0.0,0.0,0,7504,Obra em andamento com data preenchida
+SINT-299634,Obras em andamento,2004-03-10,2025-06-30,Em andamento,51618,0.0,0.0,0,51618,Obra em andamento com data preenchida
+SINT-299682,Obras em andamento,2018-05-15,2025-06-30,Em andamento,15832,0.0,0.0,0,15832,Obra em andamento com data preenchida
+SINT-299736,Obras em andamento,2024-10-18,2025-06-30,Em andamento,12992,0.0,0.0,0,12992,Obra em andamento com data preenchida
+SINT-299814,Obras em andamento,2016-11-09,2025-06-30,Em andamento,12662,0.0,0.0,0,12662,Obra em andamento com data preenchida
+SINT-300021,Obras em andamento,2023-03-23,2025-06-30,Em andamento,6257,0.0,0.0,0,6257,Obra em andamento com data preenchida
+SINT-300045,Obras em andamento,2025-09-10,2025-06-30,Em andamento,42279,0.0,0.0,0,42279,Obra em andamento com data preenchida
+SINT-300223,Obras em andamento,2017-03-22,2025-06-30,Em andamento,84627,0.0,0.0,0,84627,Obra em andamento com data preenchida
+SINT-300400,Obras em andamento,2023-07-10,2025-06-30,Em andamento,8583,0.0,0.0,0,8583,Obra em andamento com data preenchida
+SINT-300923,Obras em andamento,2009-06-09,2025-06-30,Em andamento,19827,0.0,0.0,0,19827,Obra em andamento com data preenchida
+SINT-301043,Obras em andamento,1998-06-14,2025-06-30,Em andamento,34669,0.0,0.0,0,34669,Obra em andamento com data preenchida
+SINT-301120,Obras em andamento,2012-01-08,2025-06-30,Em andamento,7436,0.0,0.0,0,7436,Obra em andamento com data preenchida
+SINT-301248,Obras em andamento,2003-10-02,2025-06-30,Em andamento,18110,0.0,0.0,0,18110,Obra em andamento com data preenchida
+SINT-301510,Obras em andamento,2021-09-29,2025-06-30,Em andamento,14115,0.0,0.0,0,14115,Obra em andamento com data preenchida
+SINT-301604,Obras em andamento,2013-04-26,2025-06-30,Em andamento,12109,0.0,0.0,0,12109,Obra em andamento com data preenchida
+SINT-301705,Obras em andamento,1998-11-05,2025-06-30,Em andamento,20969,0.0,0.0,0,20969,Obra em andamento com data preenchida
+SINT-302016,Obras em andamento,2002-10-24,2025-06-30,Em andamento,24362,0.0,0.0,0,24362,Obra em andamento com data preenchida
+SINT-302079,Obras em andamento,1998-01-21,2025-06-30,Em andamento,14727,0.0,0.0,0,14727,Obra em andamento com data preenchida
+SINT-302167,Obras em andamento,2005-07-25,2025-06-30,Em andamento,12555,0.0,0.0,0,12555,Obra em andamento com data preenchida
+SINT-302259,Obras em andamento,1999-02-22,2025-06-30,Em andamento,16493,0.0,0.0,0,16493,Obra em andamento com data preenchida
+SINT-302310,Obras em andamento,2004-10-08,2025-06-30,Em andamento,4301,0.0,0.0,0,4301,Obra em andamento com data preenchida
+SINT-302434,Obras em andamento,2014-10-16,2025-06-30,Em andamento,9904,0.0,0.0,0,9904,Obra em andamento com data preenchida
+SINT-302459,Obras em andamento,1995-07-11,2025-06-30,Em andamento,21103,0.0,0.0,0,21103,Obra em andamento com data preenchida
+SINT-302574,Obras em andamento,2017-04-06,2025-06-30,Em andamento,14158,0.0,0.0,0,14158,Obra em andamento com data preenchida
+SINT-302904,Obras em andamento,1997-02-16,2025-06-30,Em andamento,16746,0.0,0.0,0,16746,Obra em andamento com data preenchida
+SINT-303009,Obras em andamento,2014-07-23,2025-06-30,Em andamento,9390,0.0,0.0,0,9390,Obra em andamento com data preenchida
+SINT-303051,Obras em andamento,2024-03-31,2025-06-30,Em andamento,39266,0.0,0.0,0,39266,Obra em andamento com data preenchida
+SINT-303082,Obras em andamento,2017-08-28,2025-06-30,Em andamento,10005,0.0,0.0,0,10005,Obra em andamento com data preenchida
+SINT-303859,Obras em andamento,2023-04-28,2025-06-30,Em andamento,13790,0.0,0.0,0,13790,Obra em andamento com data preenchida
+SINT-303912,Obras em andamento,2023-03-22,2025-06-30,Em andamento,4756,0.0,0.0,0,4756,Obra em andamento com data preenchida
+SINT-304172,Obras em andamento,2008-05-30,2025-06-30,Em andamento,26231,0.0,0.0,0,26231,Obra em andamento com data preenchida
+SINT-304331,Obras em andamento,2022-02-11,2025-06-30,Em andamento,83593,0.0,0.0,0,83593,Obra em andamento com data preenchida
+SINT-304463,Obras em andamento,2008-05-19,2025-06-30,Em andamento,12117,0.0,0.0,0,12117,Obra em andamento com data preenchida
+SINT-304689,Obras em andamento,2016-10-20,2025-06-30,Em andamento,12071,0.0,0.0,0,12071,Obra em andamento com data preenchida
+SINT-304705,Obras em andamento,2013-06-04,2025-06-30,Em andamento,10581,0.0,0.0,0,10581,Obra em andamento com data preenchida
+SINT-304715,Obras em andamento,1999-08-02,2025-06-30,Em andamento,20182,0.0,0.0,0,20182,Obra em andamento com data preenchida
+SINT-304861,Obras em andamento,2005-08-09,2025-06-30,Em andamento,11997,0.0,0.0,0,11997,Obra em andamento com data preenchida
+SINT-305137,Obras em andamento,2019-04-04,2025-06-30,Em andamento,4964,0.0,0.0,0,4964,Obra em andamento com data preenchida
+SINT-305264,Obras em andamento,2004-10-02,2025-06-30,Em andamento,12505,0.0,0.0,0,12505,Obra em andamento com data preenchida
+SINT-305495,Obras em andamento,2018-04-18,2025-06-30,Em andamento,5563,0.0,0.0,0,5563,Obra em andamento com data preenchida
+SINT-305511,Obras em andamento,2015-12-03,2025-06-30,Em andamento,10287,0.0,0.0,0,10287,Obra em andamento com data preenchida
+SINT-305516,Obras em andamento,2010-07-14,2025-06-30,Em andamento,25908,0.0,0.0,0,25908,Obra em andamento com data preenchida
+SINT-305524,Obras em andamento,2021-06-23,2025-06-30,Em andamento,106528,0.0,0.0,0,106528,Obra em andamento com data preenchida
+SINT-305860,Obras em andamento,2009-12-15,2025-06-30,Em andamento,14497,0.0,0.0,0,14497,Obra em andamento com data preenchida
+SINT-305903,Obras em andamento,2014-03-24,2025-06-30,Em andamento,17578,0.0,0.0,0,17578,Obra em andamento com data preenchida
+SINT-306111,Obras em andamento,2003-01-30,2025-06-30,Em andamento,20457,0.0,0.0,0,20457,Obra em andamento com data preenchida
+SINT-306142,Obras em andamento,2012-02-29,2025-06-30,Em andamento,9973,0.0,0.0,0,9973,Obra em andamento com data preenchida
+SINT-306341,Obras em andamento,1995-07-17,2025-06-30,Em andamento,8747,0.0,0.0,0,8747,Obra em andamento com data preenchida
+SINT-306453,Obras em andamento,2015-01-20,2025-06-30,Em andamento,4925,0.0,0.0,0,4925,Obra em andamento com data preenchida
+SINT-306533,Obras em andamento,2021-11-30,2025-06-30,Em andamento,21100,0.0,0.0,0,21100,Obra em andamento com data preenchida
+SINT-306538,Obras em andamento,1997-03-07,2025-06-30,Em andamento,5871,0.0,0.0,0,5871,Obra em andamento com data preenchida
+SINT-306539,Obras em andamento,2006-09-08,2025-06-30,Em andamento,29089,0.0,0.0,0,29089,Obra em andamento com data preenchida
+SINT-306578,Obras em andamento,1996-03-06,2025-06-30,Em andamento,18724,0.0,0.0,0,18724,Obra em andamento com data preenchida
+SINT-306848,Obras em andamento,1998-09-27,2025-06-30,Em andamento,22091,0.0,0.0,0,22091,Obra em andamento com data preenchida
+SINT-306865,Obras em andamento,2000-10-08,2025-06-30,Em andamento,14935,0.0,0.0,0,14935,Obra em andamento com data preenchida
+SINT-306890,Obras em andamento,2014-11-29,2025-06-30,Em andamento,12263,0.0,0.0,0,12263,Obra em andamento com data preenchida
+SINT-306989,Obras em andamento,2010-01-11,2025-06-30,Em andamento,38632,0.0,0.0,0,38632,Obra em andamento com data preenchida
+SINT-307012,Obras em andamento,2018-07-21,2025-06-30,Em andamento,5712,0.0,0.0,0,5712,Obra em andamento com data preenchida
+SINT-307027,Obras em andamento,2008-04-11,2025-06-30,Em andamento,46007,0.0,0.0,0,46007,Obra em andamento com data preenchida
+SINT-307049,Obras em andamento,2005-09-11,2025-06-30,Em andamento,12020,0.0,0.0,0,12020,Obra em andamento com data preenchida
+SINT-307464,Obras em andamento,2006-01-28,2025-06-30,Em andamento,18002,0.0,0.0,0,18002,Obra em andamento com data preenchida
+SINT-307671,Obras em andamento,2001-09-01,2025-06-30,Em andamento,10775,0.0,0.0,0,10775,Obra em andamento com data preenchida
+SINT-307680,Obras em andamento,2000-06-09,2025-06-30,Em andamento,6769,0.0,0.0,0,6769,Obra em andamento com data preenchida
+SINT-307916,Obras em andamento,2022-02-28,2025-06-30,Em andamento,54865,0.0,0.0,0,54865,Obra em andamento com data preenchida
+SINT-308139,Obras em andamento,2015-06-08,2025-06-30,Em andamento,32785,0.0,0.0,0,32785,Obra em andamento com data preenchida
+SINT-308373,Obras em andamento,1995-08-28,2025-06-30,Em andamento,18712,0.0,0.0,0,18712,Obra em andamento com data preenchida
+SINT-308418,Obras em andamento,2012-07-24,2025-06-30,Em andamento,27633,0.0,0.0,0,27633,Obra em andamento com data preenchida
+SINT-308446,Obras em andamento,2021-04-15,2025-06-30,Em andamento,17586,0.0,0.0,0,17586,Obra em andamento com data preenchida
+SINT-308516,Obras em andamento,2020-07-25,2025-06-30,Em andamento,22157,0.0,0.0,0,22157,Obra em andamento com data preenchida
+SINT-308571,Obras em andamento,2002-04-02,2025-06-30,Em andamento,22082,0.0,0.0,0,22082,Obra em andamento com data preenchida
+SINT-308795,Obras em andamento,2018-11-11,2025-06-30,Em andamento,16541,0.0,0.0,0,16541,Obra em andamento com data preenchida
+SINT-309006,Obras em andamento,2012-03-21,2025-06-30,Em andamento,5628,0.0,0.0,0,5628,Obra em andamento com data preenchida
+SINT-309155,Obras em andamento,2019-11-15,2025-06-30,Em andamento,14228,0.0,0.0,0,14228,Obra em andamento com data preenchida
+SINT-309374,Obras em andamento,2012-08-27,2025-06-30,Em andamento,3552,0.0,0.0,0,3552,Obra em andamento com data preenchida
+SINT-309378,Obras em andamento,2019-08-13,2025-06-30,Em andamento,6309,0.0,0.0,0,6309,Obra em andamento com data preenchida
+SINT-309886,Obras em andamento,2024-02-14,2025-06-30,Em andamento,25313,0.0,0.0,0,25313,Obra em andamento com data preenchida
+SINT-310097,Obras em andamento,2014-12-03,2025-06-30,Em andamento,12440,0.0,0.0,0,12440,Obra em andamento com data preenchida
+SINT-310371,Obras em andamento,1997-02-11,2025-06-30,Em andamento,6154,0.0,0.0,0,6154,Obra em andamento com data preenchida
+SINT-310630,Obras em andamento,2008-10-08,2025-06-30,Em andamento,6582,0.0,0.0,0,6582,Obra em andamento com data preenchida
+SINT-310669,Obras em andamento,2003-07-31,2025-06-30,Em andamento,22619,0.0,0.0,0,22619,Obra em andamento com data preenchida
+SINT-310720,Obras em andamento,2004-06-05,2025-06-30,Em andamento,48490,0.0,0.0,0,48490,Obra em andamento com data preenchida
+SINT-310733,Obras em andamento,2009-12-08,2025-06-30,Em andamento,57478,0.0,0.0,0,57478,Obra em andamento com data preenchida
+SINT-310853,Obras em andamento,2021-07-09,2025-06-30,Em andamento,8289,0.0,0.0,0,8289,Obra em andamento com data preenchida
