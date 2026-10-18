@@ -15,7 +15,7 @@
 | NBC TA 250 | Leis e regulamentos | PT-250 |
 | NBC TA 260 | Comunicação com os responsáveis pela governança | PT-260 |
 | NBC TA 265 | Deficiências de controle interno | PT-265 |
-| NBC TA 300 | Planejamento | PT-300 |
+| NBC TA 300 | Planejamento da Auditoria de Demonstrações Contábeis | PT-300 |
 | NBC TA 315 | Identificação e avaliação de riscos | PT-315 |
 | NBC TA 320 | Materialidade | PT-320 |
 | NBC TA 330 | Respostas aos riscos avaliados | PT-330 |
