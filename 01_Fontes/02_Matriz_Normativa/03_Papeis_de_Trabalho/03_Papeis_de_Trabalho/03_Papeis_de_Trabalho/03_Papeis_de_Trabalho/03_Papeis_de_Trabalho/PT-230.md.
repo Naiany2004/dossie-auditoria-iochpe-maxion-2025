@@ -1,0 +1,50 @@
+# PT-230 — Documentação de Auditoria
+
+## 1. Identificação
+
+- Companhia: Iochpe-Maxion S.A.
+- Exercício: 2025.
+- Norma: NBC TA 230 — Documentação de Auditoria.
+- Elaborado por: [nome e matrícula].
+- Data: [preencher].
+- Revisão: [reservado ao revisor].
+
+## 2. Objetivo
+
+Estabelecer a documentação necessária para demonstrar os procedimentos realizados, as evidências obtidas e as conclusões alcançadas durante o desenvolvimento do dossiê acadêmico.
+
+## 3. Requisitos relevantes
+
+A NBC TA 230 exige que a documentação seja suficiente para permitir que um auditor experiente, sem envolvimento anterior no trabalho, compreenda a natureza, a época e a extensão dos procedimentos, seus resultados, as evidências obtidas e os julgamentos significativos.
+
+Os papéis devem identificar quem executou o trabalho e quando ele foi concluído. Quando houver revisão, devem ser registrados o responsável e a data correspondente.
+
+## 4. Aplicação ao projeto
+
+A documentação será organizada no repositório do GitHub, com papéis de trabalho identificados por códigos e referências às fontes públicas.
+
+A base de 500.000 registros é sintética. Ela não representa o cadastro patrimonial real da companhia. Os resultados obtidos nessa base serão identificados como simulações didáticas.
+
+## 5. Procedimentos
+
+1. Identificar cada papel de trabalho por código e título.
+2. Registrar objetivo, riscos, procedimentos, evidências e conclusão.
+3. Informar a fonte, a página ou a nota explicativa de cada valor utilizado.
+4. Manter os cálculos e os relatórios de conciliação.
+5. Registrar exceções identificadas e limitações dos testes.
+6. Não declarar revisão independente sem evidência de que ela ocorreu.
+
+## 6. Resultado e conclusão
+
+A documentação está sendo estruturada para permitir rastreabilidade e compreensão dos procedimentos acadêmicos. A suficiência final dependerá da conclusão dos papéis, da conferência das fontes e da inclusão das evidências pertinentes.
+
+## 7. Limitações
+
+A organização documental do projeto não comprova que tenha sido realizada uma auditoria profissional completa.
+
+## 8. Fonte
+
+CFC — NBC TA 230.  
+https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-ta-de-auditoria-independente/
+
+Data de acesso: 17/10/2026.
